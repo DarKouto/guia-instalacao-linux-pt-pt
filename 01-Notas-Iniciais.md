@@ -1,108 +1,182 @@
-# CachyOS: Notas e Configurações
+##########################
+####  NOTAS INICIAIS  ####
+##########################
 
----
+ - CachyOS Linux é baseado em Arch Linux e é uma Rolling Release, ou seja,
+   está constantemente a receber updates.
+ - É basicamente um Arch Linux em esteróides, que tem um instalador gráfico
+   e um Kernel customizado para gaming e performance, que é considerado um dos
+   melhores Kernels da actualidade.
 
-## Notas Iniciais
+ - O gestor de pacotes é o pacman. Exemplos:
+   - sudo pacman -S htop cmatrix
+   - sudo pacman -R neofetch
+   - sudo pacman -Syu
+   - -S é Sync/Instalar, -R é Remove, -Syu é System Update
 
-- **CachyOS Linux** é baseado em Arch Linux e é uma Rolling Release (recebe updates constantemente). É basicamente um Arch Linux otimizado, com um instalador gráfico e um Kernel customizado para gaming e performance.
+ - Outro gestor de pacotes melhor é o YAY, que não requer sudo, e também gere
+   e instala pacotes do AUR (Arch User Repository). Exemplos:
+   - yay -S stacer-bin
+   - yay -R neofetch
+   - Para actualizar o sistema basta escrever: yay
 
-### Gestor de Pacotes `pacman`
-- `sudo pacman -S htop cmatrix`: Sincroniza e instala pacotes.
-- `sudo pacman -R neofetch`: Remove um pacote.
-- `sudo pacman -Syu`: Atualiza o sistema.
+ - Usar Ventoy para colocar a .iso na PEN > Desactivar Secure Boot >
+   Escolher Partição GPT (PC's Recentes) ou MBR (PC's Antigos) >
+   No final, basta colar a .iso na Partição chamada "VENTOY"
+ - Ao arrancar pela PEN, escolher a opção que diz NVIDIA
+ - Na LIVE USB, ligar a NET, e só depois iniciar a instalação.
+ - Escolher GRUB como Bootloader, e instalar Firefox e Printing Support.
+   (em teoria agora na instalção dá para selecionar shell do terminal, se
+   der escolher a ZSH)
 
-### Gestor de Pacotes `yay`
-- É uma alternativa mais completa que **não requer `sudo`** e também gere pacotes do **AUR** (Arch User Repository).
-- `yay -S stacer-bin`: Instala pacotes do AUR.
-- `yay -R neofetch`: Remove um pacote.
-- `yay`: Atualiza o sistema.
+ - A primeira coisa a fazer em qualquer Linux após a instalação é actualizar
+   o sistema e reiniciar. No CachyOS já deve estar actualizado pois faz isso
+   durante a instalação inicial.
 
-### Instalação do CachyOS
-- Usar o **Ventoy** para colocar a `.iso` numa PEN.
-- Desativar o **Secure Boot**.
-- Escolher a partição **GPT** (para PCs recentes) ou **MBR** (para PCs antigos).
-- Na PEN, escolher a opção que diz **NVIDIA**.
-- Na **Live USB**, ligar a Internet antes de iniciar a instalação.
-- Escolher **GRUB** como Bootloader e instalar **Firefox** e **Printing Support**. Se a opção para a `shell` estiver disponível, escolher **ZSH**.
-- Após a instalação, a primeira coisa a fazer é atualizar o sistema e reiniciar. O CachyOS faz isso na instalação.
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
 
----
+                 .88888888:.
+                88888888.88888.
+              .8888888888888888.
+              888888888888888888
+              88' _`88'_  `88888
+              88 88 88 88  88888
+              88_88_::_88_:88888
+              88:::,::,:::::8888
+              88`:::::::::'`8888
+             .88  `::::'    8:88.
+            8888            `8:888.
+          .8888'             `888888.
+         .8888:..  .::.  ...:'8888888:.
+        .8888.'     :'     `'::`88:88888
+       .8888        '         `.888:8888.
+      888:8         .           888:88888
+    .888:88        .:           888:88888:
+    8888888.       ::           88:888888
+    `.::.888.      ::          .88888888
+   .::::::.888.    ::         :::`8888'.:.
+  ::::::::::.888   '         .::::::::::::
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::
+ :::::::::::::::88:.__..:88888:::::::::::'
+  `'.:::::::::::88888888888.88:::::::::'
+        `':::_:' -- '' -'-' `':_::::'`
 
-## Troubleshooting
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
 
-- **Ícone das Pastas Errado:**
-  - Configurações do Sistema > Aplicações Padrão > Associação de Ficheiros.
-  - Em `inode > directory`, escolher `stock_folder`.
+#######################
+#### TROUBLESHOOT  ####
+#######################
 
-- **`7ZIP` / `P7ZIP`:**
-  - Caso o ARK não abra ficheiros, é necessário o `p7zip`.
-  - Abrir um terminal na pasta do ficheiro e usar: `7z x nomedoficheiro.zip`.
+LED DO TECLADO (GIBABYTE)
+ - No Windows > Gigabyte Control Center > Teclado
+ - Escolher opção desejada e Desactivar "Animação Inicial"
+ - Assim fica sempre na opção ideal sem ter que iniciar o Windows
 
-- **Black Screen no Login:**
-  - Usar `CTRL + ALT + F3` para abrir o terminal.
-  - Correr o comando `startplasma-wayland`.
+ÍCONE DAS PASTAS ERRADO:
+ - Conf. Sitema > Default Applications > Associação de Ficheiros >
+   inode > directory > ESCOLHER stock_folder
 
-- **Forçar Esvaziar Reciclagem:**
-  - `sudo rm -rf ~/.local/share/Trash/*`
+7ZIP / P7ZIP
+ - Caso o ARK não abra ficheiros é preciso usar o p7zip
+ - Abrir um terminal onde está o ficheiro e escrever: 7z x nomedf.zip
 
-## Outras Informações Úteis
+BLACK SCREEN NO LOGIN
+ - CTRL + ALT + F3 (abre terminal)
+ - startplasma-wayland
 
-- `CTRL+H`: Revela ficheiros e pastas ocultos.
-- `Super+ESC`: Abre o Monitor de Sistema.
-- `F4`: Numa pasta no Dolphin, abre um terminal nessa localização.
-- No terminal: usar a roda do rato para colar. `CTRL+C` termina o processo. `clear` ou `CTRL+L` limpa o terminal.
-- `sudo`: Significa "Super User Do".
-- `sudo -i`: Dá acesso root.
-- `~` (til): Refere-se a `/home/NomeDoUtilizador/`.
-- `./`: Executa um ficheiro na pasta atual.
-- `ip a`: Para saber o IP local.
-- `pactl info | grep "Server Name"`: Para saber se está a usar PulseAudio ou Pipewire.
+FORÇAR ESVAZIAR RECICLAGEM
+ - sudo rm -rf ~/.local/share/Trash/*
 
-### Montar Imagens `.iso`
-- Instalar `dolphin-plugins`.
-- Reiniciar o Dolphin.
-- Clicar com o botão direito na `.iso` e escolher "Montar Imagem".
 
-### Formatar PEN
-- Usar o "Discos" (`gnome-disk-utility`).
-- Selecionar a PEN e a Partição, clicar no ícone do play, e formatar a partição.
-- **Não ativar "Apagar"**, que é para formatações completas.
+#######################
+####  OUTRAS INFOS ####
+#######################
 
-### Mudar entre NVIDIA `open` / `proprietary`
-- Para verificar o driver instalado: usar `fastfetch` ou `nvidia-smi`.
-- Existem 2 pacotes no Octopi: `linux-cachyos-nvidia` (Proprietary) e `linux-cachyos-nvidia-open` (Open).
-- Para mudar, basta instalar o que não está ativo. O sistema vai pedir para remover a versão atual.
+DIVERSOS:
+ - CTRL+H Revela ficheiros e pastas ocultos
+ - Super+ESC abre o Monitor de Sistema
+ - F4 numa pasta no Dolphin abre um terminal lá
+ - No terminal usar a roda do rato para colar, CTRL+C termina o processo
+ - clear no Terminal limpa tudo, ou então CTRL+L
+ - sudo significa (Super User Do)
+ - sudo -i dá acesso root (ainda mais forte que admin)
+ - O "~" (til) significa "/home/NomeDoUtilizador/"
+ - Usar ./ significa: na pasta onde estou, fazer X
+ - Para saber o Local IP escrever:
+   - ip a
+ - Para saber se estou a usar PulseAudio ou Pipewire escrever:
+   - pactl info | grep "Server Name"
 
-### Instalar ficheiros `.run`
-- Abrir um terminal na pasta do ficheiro.
-- `chmod +x NomeDoFicheiro.run`
-- `sudo LANG=C ./NomeDoFicheiro.run`
+MONTAR IMAGENS .ISO / DAEMON TOOLS
+ - É preciso ter o dolphin-plugins instalado
+ - Reiniciar o Dolphin
+ - Botão direito do rato na .iso e escolher "Montar Imagem"
 
-### Criar Shell Scripts
-- Criar um novo ficheiro vazio com a extensão `.sh`.
-- Tornar o ficheiro executável nas propriedades.
-- Abrir o ficheiro e escrever no início: `#!/bin/fish` (ou `#!/bin/bash` / `#!/bin/zsh`).
-- Por baixo, escrever os comandos.
+FORMATAR PEN:
+ - Abrir discos (gnome-disk-utility) > Selecionar PEN e Partição
+ - Clicar no Ícone do Play > Formatar Partição
+ - Escolher Nome do Volume e formato de ficheiros
+ - NÃO ACTIVAR APAGAR, isso é só para formatações completas!
 
-### Instalar ficheiros `.deb` em distros Arch
-- Instalar o `debtap`: `yay -S debtap`.
-- Atualizar a base de dados: `sudo debtap -u`.
-- Abrir um terminal na pasta do ficheiro `.deb` e correr:
-  - `sudo debtap NomeDoFicheiro.deb`
-  - `sudo pacman -U nomedonovoficheiro.pkg.tar.zst`
+MUDAR ENTRE NVIDIA OPEN / PROPRIETARY BLOB-MODULE
+ - Para verificar o que está instalado basta abrir o fastfetch (custom)
+   e ler o que diz à frente de nvidia
+ - Existem 2 pacotes no Octopi, e cada um corresponde a uma versão:
+     - linux-cachyos-nvidia (PROPRIETARY)
+     - linux-cachyos-nvidia-open (Open)
+ - Para mudar, basta selecionar o que não está instalado.
+ - Ele pede para abrir um novo terminal e remover a versão actual, aceitar.
 
-### Mudar Hostname (Nome do PC)
-- `hostnamectl`: verifica o nome atual.
-- `sudo hostnamectl set-hostname NOVO_NOME`: muda o nome.
-- Abrir `/etc/hosts` e mudar o nome antigo para o novo.
-- **Reiniciar**.
+ABRIR/INSTALAR FICHEIROS .RUN
+ - Abrir um terminal na pasta do ficheiro
+ - chmod +x NomeDoFicheiro.run
+ - sudo LANG=C ./NomeDoFicheiro.run
 
-### Verificar Info Gráfica
-- `glxinfo | grep -i vendor`: verifica a gráfica ativa.
-- `nvidia-smi`: verifica o driver da gráfica.
+CRIAR SHELL SCRIPTS (COMANDOS TERMINAL)
+ - Novo Ficheiro Vazio, gravar com extensão .sh
+ - Propriedades do ficheiro, tornar executável
+ - Abrir com Kate e escrever no ínicio:
+     #!/bin/fish
+ - Em baixo escreve-se os comandos do Terminal. Caso a shell não seja o fish
+   mudar o nome para bash ou zsh
 
-### Verificar SWAP
-- `swapon`
+INSTALAR FICHEIROS .DEB EM DISTROS ARCH BASED (DEBTAP):
+ - yay -S debtap
+ - sudo debtap -u
+   (para actualizar base de dados)
+ - Abrir um terminal na pasta do ficheiro .deb e escrever:
+   - sudo debtap NomeDoFicheiro.deb
+   - sudo pacman -U nomedoNOVOficheiro.pkg.tar.zst
 
-### Desativar Composição de Janelas (só X11)
-- `SHIFT + ALT + F12`: ativa/desativa o compositor manualmente. Desligar o compositor pode dar um ganho de cerca de 10 FPS em jogos pesados.
+MUDAR HOSTNAME (NOME DO PC)
+ - hostnamectl
+   (verifica o nome actual)
+ - sudo hostnamectl set-hostname NEW_NAME
+   (muda para NEW_NAME)
+ - Abrir /etc/hosts
+   (mudar o nome antigo para o novo, gravar)
+ - REINICIAR
+
+VER INFO GRÁFICA:
+ - glxinfo | grep -i vendor
+   (verifica gráfica activa)
+ - nvidia-smi
+   (verificar driver gráfica)
+
+VERIFICAR SWAP
+ - swapon
+
+DESACTIVAR COMPOSIÇÃO DE JANELAS (só X11):
+ - A Composição/Efeitos das janelas são muito bonitos, mas podem afectar
+   o desempenho de algums jogos mais "pesados" no Linux.
+ - SHIFT+ALT+F12 Activa/Desactiva o Compositor Manualmente.
+   Costuma verificar-se um ganho médio de 10 FPS com o compositor desligado.
