@@ -30,10 +30,6 @@
 
 ## Troubleshooting
 
-- **LED do Teclado (Gigabyte):**
-  - No Windows, usar o Gigabyte Control Center > Teclado.
-  - Desativar "Animação Inicial" para que a opção desejada fique sempre ativa.
-
 - **Ícone das Pastas Errado:**
   - Configurações do Sistema > Aplicações Padrão > Associação de Ficheiros.
   - Em `inode > directory`, escolher `stock_folder`.
@@ -48,8 +44,6 @@
 
 - **Forçar Esvaziar Reciclagem:**
   - `sudo rm -rf ~/.local/share/Trash/*`
-
----
 
 ## Outras Informações Úteis
 
