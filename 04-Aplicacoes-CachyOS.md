@@ -35,7 +35,7 @@ Com este comando instalámos algumas dependências importantes, assim como as se
 - **LibreOffice:** Um conjunto de programas semelhantes ao MS Office
 - **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Offica (usa aquele que achares melhor)
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
-- **qBitTorrent:**: Um cliente de BitTorrent
+- **qBitTorrent:** Um cliente de BitTorrent
 - **VLC:** Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
