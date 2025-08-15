@@ -23,8 +23,14 @@ Este programa serve para injectar a imagem .iso do CachyOS na tua Pen Drive, exi
 - Clicas em **"Flash From File"** e selecionas o ficheiro .iso que transferiste do site do CachyOS
 - Clicas em **"Select Target"**" e escolhes a tua Pen Drive
 - Clicas em **"Flash"** e esperas que o processo termime.
+- Reinicia o PC, mas mantém sempre a PEN ligada.
 
-### 4. Entrar na BIOS
+### 4. Configurar a BIOS
 - **NOTA:** Este processo não é igual em todas as máquinas, pois todas as motherboards têm uma BIOS diferente
-- Reinicia o computador, e entra na BIOS. , mas regra geral é ir carregando de forma intermitente na tecla DEL ou F12 assim que ligas o computador.
-- Assim que estiveres na BIOS, procura
+- Reinicia o computador e entra na **BIOS** (regra geral é ir carregando de forma intermitente na tecla DEL ou F12 assim que ligas o computador)
+- Dentro da BIOS, procura pelas definições de **Fast Boot** e/ou **Secure Boot** e **desactiva-as**. Caso contrário o CachyOS pode não arrancar e ter outros problemas.
+- Ainda dentro da BIOS, procura a definção de **Boot Order** ou **Boot Priority** e certifica-te que a Pen USB está em primeiro lugar. (Caso a tua BIOS tenha um selector de Boot no arraque, podes ignorar este passo)
+- **Certifica-te que gravas as alterações ao sair da BIOS!**
+
+### 5. Arrancar a partir da PEN e instalar o CachyOS
+- Se tudo correr bem, o teu PC irá agora arrancar através da PEN Drive
