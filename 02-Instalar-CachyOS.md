@@ -55,7 +55,7 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
   - No separador **Users**, escolhes o teu nome de utilizador, password, e nome do PC.
     - No **Nome Completo** escreves o teu primeiro e último nome
     - No **Nome de Utilizador** escreves um username, tudo com letras minúsculas e sem espaços
-    - No **Nome do Computador**: escreves o nome que queres dar à tua máquina, uma boa prática é chamares: oteuusername-cachyos
+    - No **Nome do Computador**: escreves o nome que queres dar à tua máquina, uma boa prática é chamares: `oteuusername-cachyos`
     - Em **Password**: escreves a tua password, tem que ter no mínimo 6 caracteres, e pode ser mudada à posterior.
     - Finalmente **Activas** a caixa que diz: **Usar a mesma password para conta de administrador**
   - O **Calamares** irá agora mostrar-te um sumário de todas as tuas opções de instalação. Verifica se está tudo correcto, e se estiver, avanças para a instalação.
