@@ -37,3 +37,7 @@ Este é o passo mais complexo, mas só tens que fazer uma vez, tranquilo.
     - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar esta janela e voltar ao terminal.
   - `sudo grub-mkconfig -o /boot/grub/grub.cfg`
  - Reinincia o PC. E agora já podes escolher qual OS queres usar.
+
+## 5. Configurar o Dolphin (Gestor de Ficheiros)
+O **Dolphin** é o gestor de ficheiros do KDE Plasma, é semelhante ao **Explorador de Ficheiros** no Windows, mas é muito melhor.
+- Vai a **Iniciar** e procura **Dolphin** (caso ele não esteja já afixado no Painel/SuperBar) 
