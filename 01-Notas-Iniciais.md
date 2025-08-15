@@ -1,6 +1,4 @@
-# CachyOS: Notas e Configurações
-
-## Notas Iniciais
+# Notas Iniciais
 
 - CachyOS Linux é baseado em Arch Linux e é uma Rolling Release, ou seja, está constantemente a receber updates.
 - É basicamente um Arch Linux em esteróides, que tem um instalador gráfico e um Kernel customizado para gaming e performance, que é considerado um dos melhores Kernels da atualidade.
