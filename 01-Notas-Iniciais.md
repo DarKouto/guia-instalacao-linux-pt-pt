@@ -1,7 +1,5 @@
 # CachyOS: Notas e Configurações
 
----
-
 ## Notas Iniciais
 
 - CachyOS Linux é baseado em Arch Linux e é uma Rolling Release, ou seja, está constantemente a receber updates.
