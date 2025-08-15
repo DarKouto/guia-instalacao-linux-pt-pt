@@ -17,7 +17,7 @@ Este programa serve para injectar a imagem .iso do CachyOS na tua Pen Drive, exi
 - Vai a [https://etcher.balena.io/](https://etcher.balena.io/) e clica no botão Download Etcher, seleciona o teu sistema operativo, transfere e instala o ficheiro.
 
 ### 3. Colocar a imagem .iso do CachyOS na Pen Drive com balenaEtcher
-- **ATENÇÃO: Usar este processo irá apagar todos os dados que estejam previamente na tua Pen, por isso certifica-te que tens um backup**
+- **ATENÇÃO: Este passo irá apagar todos os dados que da tua Pen, por isso certifica-te que tens um backup**
 - Conecta a tua Pen Drive ao PC, certifica-te que está detectada
 - Abre o programa balenaEtcher que instalaste
 - Clicas em **"Flash From File"** e selecionas o ficheiro .iso que transferiste do site do CachyOS
