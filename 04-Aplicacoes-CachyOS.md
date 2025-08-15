@@ -14,12 +14,14 @@ Existem duas formas de instalar aplicações dos repositórios oficiais do Cachy
 2. Ir ao **Iniciar** e procurar o **Octopi** que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
 
 Qual a melhor abordagem? Depende. Eis a minha opinião:
-- Para instalar uma única aplicação, o **Octopi** é mais fácil e intuitivo, é simplesmente chegar lá, procurar, selecionar e instalar.
+- Para instalar uma única aplicação, o **Octopi** é mais fácil e intuitivo:
+  - Pesquisas pela aplicação que queres instalar
+  - Clicas com o botão direito no nome do pacote e escolhes **+ Instalar**
+  - Clicas no **"Visto"** que aparece no canto superior esquerdo
 - Para instalar várias aplicações de uma só vez, usar o **Terminal** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
-**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
-
 Cá fica o comando que instala as aplicações que considero essenciais:
+**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
 ```
@@ -59,6 +61,5 @@ flatpak install spotify vesktop warehouse
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
-- **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Apenas uso quando o Discord oficial está com algum problema.
-- **Warehouse:**: é um programa que nos permite navegar a estrutura de pastas do Flapak, apenas necessário em casos específicos.
-
+- **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Usar só quando o Discord oficial está com algum problema.
+- **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flapak, apenas necessário em casos específicos.
