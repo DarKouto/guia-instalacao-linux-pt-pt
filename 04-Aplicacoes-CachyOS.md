@@ -15,4 +15,4 @@ Qual a melhor abordagem? Depende. Eis a minha opinião:
 - Para instalar uma único aplicação, o Octopi é mais fácil e intuitivo, é simplesmente chegar lá, procurar, selecionar e instalar.
 - Para instalar várias aplicações de uma só vez, usar o Terminal é melhor, pois com um único comando (que vais copiar daqui) consegues instalar tudo ao mesmo tempo.
 Cá fica o comando que podes e deves copiar para o teu Terminal:
-`sudo pacman -S brave-bin cpu-x discord dolphin-plugins flatpak gnome-calculator gnome-disk-utility htop kio-admin kolourpaint libreoffice-still-pt protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
+`sudo pacman -S brave-bin cpu-x discord dolphin-plugins flatpak gnome-calculator gnome-disk-utility htop kio-admin kolourpaint libreoffice-still-pt protonup-qt qbittorrent vlc vlc-plugins-all yay zsh`
