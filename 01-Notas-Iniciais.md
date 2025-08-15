@@ -12,7 +12,7 @@
 - Uma **Distro Linux**, de forma muito simplificada, é um sistema operativo completo que conta com o Kernel Linux, utilidades GNU, pacotes de software, um ambiente gráfico (exemplos: KDE Plasma ou Gnome) e outras ferramentas.
 - À primeira vista parecem existir centenas de **Distros Linux**, mas na verdade, a maior parte delas são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes **Distros**:
   1. **Debian**: é muito estável, mas apenas recebe actualizações de 2 em 2 anos.
-  2. **Arch**: é muito leve e personalizável, que está constantemente a ser actualizada, modelo Rolling Release.
+  2. **Arch**: é muito leve e personalizável, está constantemente a ser actualizada, modelo Rolling Release.
   3. **Fedora**: é um meio termo entre o Debian e o Arch, recebe grandes actualizções de 6 em 6 meses.
 - A distribuição que uso e que esta documentação aborda é o **CachyOS**, que é um "fork" do **Arch Linux**, e que conta com algumas melhorias e adições, como por exemplo um instalador gráfico, um kernel personalizado para performance e gaming, um conjunto de software pré-instalado, etc.
 
