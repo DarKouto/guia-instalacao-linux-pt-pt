@@ -1,7 +1,7 @@
 # Notas Iniciais
 
 ## O que é um Sistema Operativo Linux
-- Tecnicamente falando, o Linux não é bem um sistema operativo, mas sim um Kernel (núcleo) de um sistema operativo. O Kernel é o que faz a ponte entre o software e o hardware numa máquina. Foi desenvolvido por Linus Torvalds em 1991, e continua a ser actualizado e mantindo aos dias de hoje. Tem a particularidade de ser totalmente Open-Source (código aberto)
+- Tecnicamente falando, o Linux não é bem um sistema operativo, mas sim um Kernel (núcleo). O Kernel é o que faz a ponte entre o software e o hardware numa máquina. Foi desenvolvido por Linus Torvalds em 1991, e continua a ser actualizado e mantindo aos dias de hoje. Tem a particularidade de ser totalmente Open-Source (código aberto)
 - Aquilo que chamámos um sistema operativo Linux, é na verdade uma combinação de várias coisas:
   - O Kernel Linux
   - As utilidades GNU (desenvolvidas por Richard Stallman)
