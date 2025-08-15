@@ -17,6 +17,7 @@ Qual a melhor abordagem? Depende. Eis a minha opinião:
 - Para instalar várias aplicações de uma só vez, usar o **Terminal** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
 **NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+
 Cá fica o comando que instala as aplicações que considero essenciais:
 ```bash
 sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
