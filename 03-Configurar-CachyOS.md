@@ -40,9 +40,9 @@ sudo nano /etc/default/grub
 - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
 - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
 - Copia o seguinte código para o terminal:
-  - ```bash
-    sudo grub-mkconfig -o /boot/grub/grub.cfg
-    ```
+  ```bash
+  sudo grub-mkconfig -o /boot/grub/grub.cfg
+  ```
 - Reinicia o PC. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
 
 ## 5. Configurar o Dolphin (Gestor de Ficheiros)
