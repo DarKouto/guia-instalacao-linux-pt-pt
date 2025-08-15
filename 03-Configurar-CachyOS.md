@@ -37,7 +37,7 @@ Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
 - Reinicia o PC. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
 
 ## 5. Configurar o Dolphin (Gestor de Ficheiros)
-O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows, mas muito mais poderoso.
+O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows, mas muito mais poderoso. Vamos fazer uma ligeira configuração para melhorar a experiência.
 - Vai ao **Menu Iniciar** e procura por **Dolphin** (caso não esteja já afixado no Painel)
 - No Dolphin, clica no **Menu Hamburger** (as 3 linhas horizontais no canto superior esquerdo), procura **Configurar** e depois seleciona **Configure Dolphin**.
 - Na parte lateral de **Interface**:
@@ -45,5 +45,6 @@ O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador
   - No separador **Antevisões** tem uma opção em baixo chamada **Remote Storage** -> Seleciona 15MB. Isto serve para mostrar antevisões de ficheiros em armazenamento de rede.
   - No separador **Confirmações** activa a primeira opção que diz **Ao enviar ficheiros ou pastas para o Lixo**
   - No separador **Status & Location Bar** seleciona **Full Width** e activa a opção **Mostrar barra de Ampliação**
-- Na parte lateral de **View":
+- Na parte lateral de **View**:
   - No separador **General** -> Display Style: Selecionar **Recordar o estilo de apresentação de cada pasta**
+Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slider" que permite aumentar a ampliação das pastas, assim como uma barra que demostra o espaço livre em disco. Outra excelente funcionalidade é a existência de Tabs/Separadores como num browser de internet, se clicares numa pasta com o botão do meio do rato, ele abre essa pasta numa nova tab.
