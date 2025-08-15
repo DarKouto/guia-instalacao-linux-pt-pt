@@ -41,6 +41,25 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
 - Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema  sem qualquer compromisso de instalação.
 - Uma janela chamada **CachyOS Hello** estára aberta por defeito no arraque. Aqui há um botão em baixo e ao centro com o texto **Launch Installer**.
 - **NOTA:** Antes de clicares, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo ethernet.
-- Ao clicares em **Launch Installer**, o CachyOS vai abrir um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
-  1. Teste
-  2. Teste 2
+- Ao clicares em **Launch Installer**, o CachyOS vai abrir um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação:
+  - Primeiro vai-te perguntar qual o **Bootloader** que queres. Aqui escolhes o **GRUB**, é o padrão, funciona bem e não há nada a apontar.
+  - No separador **Location**, escolhes a tua localização e língua (com a internet ligada é automaticamente detectada)
+  - No separador **Keyboard**, escolhes o esquema do teclado (com a internet ligada é automaticamente detectada)
+  - No separador **Partitions**, escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
+    - Caso vás usar Dual-Boot (Recomendado para iniciantes), escolhes **Instalar Paralelamente**. Em baixo, clicas na partição **Actual** (colorida), na partição **Depois** usas o "slider" para definir o tamanho da partição do CachyOS
+    - Caso tenhas um 2º Disco, ou queiras usar somente CachyOS, selecionas a opção **Apagar Disco**. E fazes seguinte. Fácil.
+  - No separador **Desktop**, escolhes o ambiente gráfico (o Desktop Environment - DE). Por defeito aparece o **Plasma Desktop** também conhecido como **KDE Plasma**. Escolhe esse pois é o DE com o qual iremos trabalhar. E porque é de longe o melhor na minha opinião.
+  - No separador **Packages**, escolhes pacotes de software adicionais. Por norma, apenas precisas de selecionar **Printing Support**, e **HP Printer/Scanner support**, caso tenhas ou vás usar uma impressora HP.
+  - No separador **Users**, escolhes o teu nome de utilizador, password, e nome do PC.
+    - No **Nome Completo** escreves o teu primeiro e último nome
+    - No **Nome de Utilizador** escreves um username, tudo com letras minúsculas e sem espaços
+    - No **Nome do Computador**: escreves o nome que queres dar à tua máquina, uma boa prática é chamares: oteuusername-cachyos
+    - Em **Password**: escreves a tua password, tem que ter no mínimo 6 caracteres, e pode ser mudada à posterior.
+    - Finalmente **Activas** a caixa que diz: **Usar a mesma password para conta de administrador**
+  - O **Calamares** irá agora mostrar-te um sumário de todas as tuas opções de instalação. Verifica se está tudo correcto, e se estiver, avanças para a instalação.
+  - Assim que o processo estiver concluído reinicia o PC.
+  - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é o CachyOS. Grava as alterações e sai da BIOS.
+  - NOTA: é possível (e normal) que nesta fase inicial não te apareça o menu de selecção de sistema operativo ao ligares o PC. Mas calma, que já vamos tratar disso no próximo capítulo.
+ 
+## Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧
+## Bem-vindo ao Linux 🐧
