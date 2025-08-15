@@ -45,7 +45,7 @@ Com este comando instalámos as seguintes aplicações:
 - **Stacer-Bin:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
 - **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
 
-Para instalar qualquer outro tipo de letra:
+### 3.1 Para instalar qualquer outro tipo de letra:
 - Procurar na internet e transferir os ficheiros .ttf
 - Ir ao **Iniciar** e procurar por **Gestão de Tipos de Letra**
 - Selecionar **Instalar de um Ficheiro** e procurar os ficheiros .ttf transferidos
