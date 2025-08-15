@@ -30,5 +30,4 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 ## Outras Informações Úteis
 - Esta documentação presume que o utlizador tenha um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
 - O `"~"` (til) representa o caminho da pasta `/home/NomeDoUtilizador/`
-  - Exemplo: `~/` é igual a `/home/NomeDoUtilizador/`
 - No terminal, `sudo` significa (Super User Do) e serve para executar comandos com privilégios de administrador.
