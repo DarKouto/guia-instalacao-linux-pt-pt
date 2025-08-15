@@ -60,7 +60,7 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
     - Finalmente **Activas** a caixa que diz: **Usar a mesma password para conta de administrador**
   - O **Calamares** irá agora mostrar-te um sumário de todas as tuas opções de instalação. Verifica se está tudo correcto, e se estiver, avanças para a instalação.
   - Assim que o processo estiver concluído reinicia o PC.
-  - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é o CachyOS. Grava as alterações e sai da BIOS.
+  - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
   - **NOTA:** é possível (e normal) que nesta fase inicial não te apareça o menu de selecção de sistema operativo ao ligares o PC. Mas calma, já vamos tratar disso no próximo capítulo.
  
 ## Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧
