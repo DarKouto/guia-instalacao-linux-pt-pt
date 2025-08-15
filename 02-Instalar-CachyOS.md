@@ -34,10 +34,13 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
 
 ### 5. Arrancar a partir da Pen no Live ISO do CachyOS
 - Se tudo correu bem, o teu PC irá agora arrancar através da **Pen Drive**.
-- Irá aparecer um menu com várias opções. Usa as **Setas** do teclado para navegar e **Enter** para selecionar:
-  - Se **NÃO** tiveres uma placa gráfica **Nvidia**, escolhe: **CachyOS**
-  - Se **TIVERES** uma placa gráfica **Nvidia**, escolhe: **CachyOS with Nvidia Driver**
-- Agora é só esperar que o processo termine. Vais ficar a usar o **CachyOS** em formato **Live USB**. Isto permite-te experimentar o sistema todo sem qualquer compromisso de instalação.
+- Irá aparecer um menu com várias opções, escolher a primeira que diz **CachyOS** com enter
+- Agora é só esperar que o processo termine.
 
 ### 6. Instalação do CachyOS
-- Certifica-te de que tens a internet ligada (é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo ethernet).
+- Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema  sem qualquer compromisso de instalação.
+- Uma janela chamada **CachyOS Hello** estára aberta por defeito no arraque. Aqui há um botão em baixo e ao centro com o texto **Launch Installer**.
+- **NOTA:** Antes de clicares, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo ethernet.
+- Ao clicares em **Launch Installer**, o CachyOS vai abrir um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
+  1 - Teste
+  2 - Teste2
