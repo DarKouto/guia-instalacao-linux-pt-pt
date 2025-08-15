@@ -36,4 +36,4 @@ Este é o passo mais complexo, mas só tens que fazer uma vez, tranquilo.
     - Quando encontrares o texto `GRUB_DISABLE_OS_PROBER=false` remove o símbolo `#` que aparece antes do texto.
     - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar esta janela e voltar ao terminal.
   - `sudo grub-mkconfig -o /boot/grub/grub.cfg`
- - Reinincia o PC. E agora já pode escolher qual OS queres usar.
+ - Reinincia o PC. E agora já podes escolher qual OS queres usar.
