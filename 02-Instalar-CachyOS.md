@@ -10,8 +10,8 @@
 ## Passos a Seguir
 ### 1. Transferir a imagem .iso do CachyOS
 Este ficheiro é o Sistema Operativo propriamente dito.
-Vai a [https://cachyos.org/download](https://cachyos.org/download) e escolhe a Desktop Edtion. Qualquer método de Download é viável, mas eu costumo usar o Direct. Guarda o ficheiro no teu computador.
+- Vai a [https://cachyos.org/download](https://cachyos.org/download) e escolhe a Desktop Edtion. Qualquer método de Download é viável, mas eu costumo usar o Direct. Guarda o ficheiro no teu computador.
 
 ### 2. Transferir e instalar balenaEtcher
 Este programa serve para injectar a imagem .iso do CachyOS na tua Pen Drive, existem outros, mas este é o mais simples de usar na minha opinião.
-Vai a [https://etcher.balena.io/](https://etcher.balena.io/) e clica no botão Download Etcher, seleciona o teu sistema operativo, transfere e instala o ficheiro.
+- Vai a [https://etcher.balena.io/](https://etcher.balena.io/) e clica no botão Download Etcher, seleciona o teu sistema operativo, transfere e instala o ficheiro.
