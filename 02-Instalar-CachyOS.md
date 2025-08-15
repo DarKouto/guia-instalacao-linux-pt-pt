@@ -42,5 +42,5 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
 - Uma janela chamada **CachyOS Hello** estára aberta por defeito no arraque. Aqui há um botão em baixo e ao centro com o texto **Launch Installer**.
 - **NOTA:** Antes de clicares, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo ethernet.
 - Ao clicares em **Launch Installer**, o CachyOS vai abrir um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
-  1 - Teste
-  2 - Teste2
+  1. Teste
+  2. Teste 2
