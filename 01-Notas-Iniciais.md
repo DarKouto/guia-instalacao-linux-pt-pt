@@ -1,20 +1,20 @@
 # Notas Iniciais
 
 ## O que é um Sistema Operativo Linux
-- Tecnicamente falando, o Linux não é bem um sistema operativo, mas sim um Kernel (núcleo). O Kernel é o que faz a ponte entre o software e o hardware numa máquina. Foi desenvolvido por Linus Torvalds em 1991, e continua a ser actualizado e mantindo aos dias de hoje. Tem a particularidade de ser totalmente Open-Source (código aberto)
-- Aquilo que chamámos um sistema operativo Linux, é na verdade uma combinação de várias coisas:
+- Tecnicamente falando, o **Linux** não é bem um sistema operativo, mas sim um **Kernel** (núcleo). que é o que faz a ponte entre o software e o hardware duma máquina. Foi desenvolvido por **Linus Torvalds** em 1991, e continua a ser actualizado e mantindo aos dias de hoje. Tem a particularidade de ser totalmente **Open Source** (código aberto)
+- Aquilo que chamámos um sistema operativo **Linux**, é na verdade uma combinação de várias coisas:
   - O Kernel Linux
-  - As utilidades GNU (desenvolvidas por Richard Stallman)
-  - O ambiente gráfico (Desktop Environment)
-- Como tal é comum encontrar quem defenda que o termo mais correcto seria GNU/Linux. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente Linux ao sistema operativo.
+  - As utilidades **GNU** (desenvolvidas por **Richard Stallman**)
+  - O ambiente gráfico (**Desktop Environment**)
+- É comum encontrar quem defenda que o termo mais correcto seria **GNU/Linux**. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente **Linux** ao sistema operativo.
 
 ## Distribuições de Linux (Distros)
-- Uma Distro de Linux, de forma muito simplificada. é um sistema operativo completo que conta com o Kernel Linux, utilidades GNU, pacotes de software e um ambiente gráfico (exemplos: KDE Plasma ou Gnome).
-- À primeira vista parecem existir centenas de Distros Linux, mas na verdade, a maior parte delas são adaptações e modificações de outras distribuições. Como tal, considero existirem 3 grandes distribuições de Linux:
-  1. Debian: é muito estável, mas apenas recebe actualizações de 2 em 2 anos.
-  2. Arch: é muito leve e personalizável, que está constantemente a ser actualizada, modelo Rolling Release.
-  3. Fedora: é um meio termo entre o Debian e o Arch, recebe grandes actualizções de 6 em 6 meses.
-- A distribuição que uso que esta documentação aborda é o CachyOS, que é um fork do Arch Linux, que conta com algumas melhorias e adiçõe, como por exemplo um instalador gráfico, um kernel personalizado para performance e gaming, um conjunto de software pré-instalado, etc.
+- Uma **Distro Linux**, de forma muito simplificada, é um sistema operativo completo que conta com o Kernel Linux, utilidades GNU, pacotes de software, um ambiente gráfico (exemplos: KDE Plasma ou Gnome) e outras ferramentas.
+- À primeira vista parecem existir centenas de **Distros Linux**, mas na verdade, a maior parte delas são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes **Distros**:
+  1. **Debian**: é muito estável, mas apenas recebe actualizações de 2 em 2 anos.
+  2. **Arch**: é muito leve e personalizável, que está constantemente a ser actualizada, modelo Rolling Release.
+  3. **Fedora**: é um meio termo entre o Debian e o Arch, recebe grandes actualizções de 6 em 6 meses.
+- A distribuição que uso e que esta documentação aborda é o **CachyOS**, que é um "fork" do **Arch Linux**, e que conta com algumas melhorias e adições, como por exemplo um instalador gráfico, um kernel personalizado para performance e gaming, um conjunto de software pré-instalado, etc.
 
 ### Gestor de Pacotes `pacman`
 - `sudo pacman -S htop cmatrix`: Instala pacotes.
