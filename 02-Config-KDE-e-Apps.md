@@ -1,4 +1,4 @@
-# CachyOS: Configuração do KDE e Instalação de Aplicações
+# Configuração do KDE e Instalação de Aplicações
 
 ## Configuração do KDE
 
