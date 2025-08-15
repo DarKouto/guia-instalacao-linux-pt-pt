@@ -32,4 +32,3 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 - O `"~"` (til) representa o caminho da pasta `/home/NomeDoUtilizador/`
   - Exemplo: `~/` é igual a `/home/NomeDoUtilizador/`
 - No terminal, `sudo` significa (Super User Do) e serve para executar comandos com privilégios de administrador.
-- A "Shell" do terminal que irás usar é a **ZSH**. Se não fores programador, isto é irrelevante. Se fores programador, recuso-me a aceitar que não saibas por que escolhi a ZSH.
