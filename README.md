@@ -1,14 +1,12 @@
 # Instalação e Manutenção do CachyOS Linux em PT-PT
-Documentação para instalação e manutenção do CachyOS Linux em PT-PT
+Uma documentação completa para facilitar a tua transição para o Linux.
 
-Esta documentação foi escrita e actualizado por mim durante mais de ano enquanto fazia a minha transição de Windows para Linux, como forma de documentar todas as minhas descobertas.
+Esta documentação foi criada e mantida por mim ao longo de mais de um ano, durante a minha própria transição do Windows para o Linux. O meu objetivo era registar e organizar todas as descobertas, testes e configurações que fiz.
 
-Agora que me sinto 100% à vontade com o sistema operativo decidi partilhá-la com todos aqueles que quiserem mudar para Linux, com o intuito de lhes facilitar essa transição e lhes poupar todo o tempo que gastei em investigação e testes.
+Agora, sinto-me 100% à vontade com o sistema operativo e decidi partilhar todo este conhecimento. A minha intenção é facilitar a transição para quem quer mudar para o Linux e poupar-lhes o tempo de investigação que eu próprio gastei. Considero esta partilha uma forma de retribuir à comunidade de Linux e Open Source, que me recebeu tão bem.
 
-Considero isto uma forma de contribuir para a comunidade Linux e Open Source que tão bem me recebeu.
+A distribuição que irei abordar é o **CachyOS Linux**. Após vários meses de "distro-hopping" (mudança constante de distribuições), cheguei à conclusão que o CachyOS é o sistema mais estável, com melhor performance, mais "user-friendly" e com uma comunidade fantástica.
 
-A distribuição que cubro nesta documentção é o CachyOS Linux, pois após vários meses de "distro-hopping" (mudança de distribuições Linux) cheguei à conclusão que o CachyOS é o sistema mais estável, com melhor performance, mais "user-friendly" e com melhor comunidade.
+Tenho o CachyOS instalado no meu computador de secretária, no meu portátil e até nos computadores da minha empresa e no portátil pessoal do meu pai, que não é uma pessoa com conhecimentos técnicos.
 
-Tenho esta distribuição instalada no meu Desktop, Laptop, assim como nos computadores da minha empresa, e inclusivamente no Laptop pessoal do meu pai que não é uma pessoa "tech-savvy".
-
-Acredito que com esta documentação e com a evolução dos sistemas operativos baseados em Linux, qualquer pessoa pode fazer essa transição com muito pouca inércia.
+Acredito que, com este guia e a evolução dos sistemas operativos baseados em Linux, qualquer pessoa pode fazer esta transição sem grandes dificuldades.
