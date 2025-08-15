@@ -24,6 +24,7 @@
 - Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que contém o programa/app em si, assim como todas as librarias e depenências necessárias para o executar.
 
 ## Outras Informações
-- O `"~"` (til) significa `/home/NomeDoUtilizador/`.
-- `sudo`: Significa (Super User Do).
-- `sudo -i`: Dá acesso root (ainda mais forte que admin).
+- Esta documentção presume que o utlizador tenha já um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
+- O `"~"` (til) represente o caminho da pasta `/home/NomeDoUtilizador/`.
+- No terminal, `sudo`: Significa (Super User Do).
+- A Shell do terminal que iremos usar é a ZSH. Se o utilizador não for programador, isto é irrelevante. Se for programador, recuso-me a aceitar que não saiba porque escolhi a ZSH.
