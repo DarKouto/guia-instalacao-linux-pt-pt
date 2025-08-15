@@ -28,11 +28,11 @@ Com este comando instalámos algumas biblitecas importantes, assim como as segui
 - **Brave Browser:** Um browser baseado no Google Chrome mas com melhores funcionalidades e privacidade.
 - **Discord:** De certeza que sabes o que é Discord.
 - **Gnome-Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
-- **KolourPaint:**: Um programa semelhante ao MS Paint.
-- **LibreOffice:**: Um conjunto de programas semelhantes ao MS Office
+- **KolourPaint:** Um programa semelhante ao MS Paint.
+- **LibreOffice:** Um conjunto de programas semelhantes ao MS Office
 - **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Offica (usa aquele que achares melhor)
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
-- **VLC:**: Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
+- **VLC:** Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
 Para instalar aplicações do AUR tem mesmo que se usar o **Terminal**, com um "helper" chamado **yay**, que instalamos no comando anterior. Copia o seguinte comando para o teu **Terminal**:
