@@ -50,6 +50,14 @@ Para instalar qualquer outro tipo de letra:
 - Selecionar **Instalar de um Ficheiro** e procurar os ficheiros .ttf transferidos
 
 ## 4. Aplicações Flatpak/Flathub
-Para instalar Flatpaks
+Para instalar Flatpaks, também temos que usar o Terminal, mas apenas precisamos de ir ao site https://flathub.org/, procurar a aplicação desejada, clicar na setinha ao lado do botão Install e copiar o código que lá está para o nosso Terminal.
 
+Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
+```bash
+flatpak install spotify vesktop warehouse
+```
+Com este comando instalámos as seguintes aplicações:
+- **Spotify:** até a minha avó sabe o que é o Spotify...
+- **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Apenas uso quando o Discord oficial está com algum problema.
+- **Warehouse:**: é um programa que nos permite navegar a estrutura de pastas do Flapak, apenas necessário em casos específicos.
 
