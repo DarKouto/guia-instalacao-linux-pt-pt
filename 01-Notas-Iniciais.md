@@ -26,8 +26,3 @@ A forma mais comum de instalar programas e aplicações em **Linux** é através
 As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém muitas vezes programas que não se encontram nos repositórios oficiais.
 
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
-
-## Outras Informações Úteis
-- Esta documentação presume que o utlizador tenha um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
-- O `"~"` (til) representa o caminho da pasta `/home/NomeDoUtilizador/`
-- No terminal, `sudo` significa (Super User Do) e serve para executar comandos com privilégios de administrador.
