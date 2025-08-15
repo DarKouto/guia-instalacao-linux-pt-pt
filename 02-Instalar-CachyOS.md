@@ -2,7 +2,7 @@
 
 **NOTA:** Este guia irá instalar o CachyOS num sistema que já tenha Windows, ou seja, irás ficar com 2 sistemas operativos a funcionar, e quando ligares o computador ele pergunta-te se queres arrancar para Linux ou para Windows, chama-se a isto **Dual-Boot**. Isto é o ideal, porque quem está a começar não tem se comprometer a usar apenas Linux. Caso queiras ignorar este passo, a instalação é ainda mais fácil, e essa informação estará disponível nessa parte.
 
-## Requesitos:
+## Requisitos:
 - Internet
 - Pen Drive USB (min. 4GB)
 - Um computador (óbvio)
