@@ -35,7 +35,7 @@ sudo os-prober
 ```
 ```bash
 sudo nano /etc/default/grub
-```bash
+```
 - Este segundo comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
 - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
 - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
