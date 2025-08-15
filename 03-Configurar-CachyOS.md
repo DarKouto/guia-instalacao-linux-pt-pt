@@ -47,4 +47,5 @@ O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador
   - No separador **Status & Location Bar** seleciona **Full Width** e activa a opção **Mostrar barra de Ampliação**
 - Na parte lateral de **View**:
   - No separador **General** -> Display Style: Selecionar **Recordar o estilo de apresentação de cada pasta**
+
 Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slider" que permite aumentar a ampliação das pastas, assim como uma barra que demostra o espaço livre em disco. Outra excelente funcionalidade é a existência de Tabs/Separadores como num browser de internet, se clicares numa pasta com o botão do meio do rato, ele abre essa pasta numa nova tab.
