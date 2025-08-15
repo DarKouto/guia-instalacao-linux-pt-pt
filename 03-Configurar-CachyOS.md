@@ -30,10 +30,10 @@ O KWallet é uma aplicação de gestão de passwords, cuja utilidade é no míni
 Este é o passo mais complexo, mas só tens que fazer uma vez, tranquilo.
 - Vai a **Iniciar** e procura por **Konsole** (Terminal)
 - Escreve os seguintes comandos por ordem:
-  - sudo os-prober
-  - sudo nano /etc/default/grub
+  - `sudo os-prober`
+  - `sudo nano /etc/default/grub`
     - Isto vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
-    - Quando encontrares o texto **GRUB_DISABLE_OS_PROBER=false** remove o símbolo "#" que aparece antes do texto.
+    - Quando encontrares o texto `GRUB_DISABLE_OS_PROBER=false` remove o símbolo `#` que aparece antes do texto.
     - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar esta janela.
     - Agora estás de volta ao Terminal.
   - sudo grub-mkconfig -o /boot/grub/grub.cfg
