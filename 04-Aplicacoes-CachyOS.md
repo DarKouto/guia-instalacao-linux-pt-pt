@@ -16,7 +16,7 @@ Existem duas formas de instalar aplicações dos repositórios oficiais do Cachy
 Qual a melhor abordagem? Depende. Eis a minha opinião:
 - Para instalar uma única aplicação, o **Octopi** é mais fácil e intuitivo:
   - Pesquisas pela aplicação que queres instalar
-  - Clicas com o botão direito no nome do pacote e escolhes **+ Instalar**
+  - Clicas com o botão direito no nome do pacote e escolhes "**+ Instalar**"
   - Clicas no **"Visto"** que aparece no canto superior esquerdo
 - Para instalar várias aplicações de uma só vez, usar o **Terminal** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
