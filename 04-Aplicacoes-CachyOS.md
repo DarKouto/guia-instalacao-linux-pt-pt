@@ -1,6 +1,6 @@
 # Aplicações CachyOS
 
-Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas no CachyOS, e quais algumas aplicações essenciais que são necessárias instalar.
+Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas no CachyOS, e quais algumas aplicações essenciais recomendo instalar.
 
 ## Aplicações Pré-Instaladas e o seu Propósito
 - **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
