@@ -1,4 +1,4 @@
-# Configurar CachyOS, KDE Plasma e Instalar Aplicações Essenciais
+# Configurar CachyOS e KDE Plasma
 
 Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamos proceder a algumas configurações simples e essenciais que melhoram a experiência.
 
