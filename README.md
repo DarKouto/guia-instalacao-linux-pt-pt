@@ -8,6 +8,6 @@ A distribuição que irei abordar é o **CachyOS Linux**. Após vários meses de
 
 Tenho o **CachyOS** instalado no meu Desktop, Laptop, nos computadores da minha empresa e até no portátil pessoal do meu pai, que é uma pessoa sem conhecimentos técnicos.
 
-Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o actualmente um sistema mais simples e intuitivo de usar do que Windows ou MacOS.
+Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema mais simples e intuitivo de usar do que Windows ou MacOS.
 
 Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux** sem grandes dificuldades.
