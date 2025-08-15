@@ -13,11 +13,12 @@ Esta janela abre assim que entras no sistema.
 - Fecha a janela.
 
 ## 2. Mudar o Tema Global
+Isto é um caso de preferência pessoal, porque considero o tema oficial do CachyOS demasiado escuro e pequeno. Mas podes escolher o que quiseres.
 - Vai a **Iniciar**, procura por **Tema Global** (Global Theme)
 - Escolhe **Brisa ao Anoitecer**.
 - Activa as opções **Configuração da Aparência** e **Disposição da Área de Trabalho e das Janelas**
 - Reinicia o PC.
-- Isto é um caso de preferência pessoal, porque considero o tema oficial do CachyOS demasiado escuro e pequeno. Mas podes escolher o que quiseres.
+
 
 ## 3. Desactivar KWallet
 O KWallet é uma aplicação de gestão de passwords, cuja utilidade é no mínimo "discutível", além de ser chata e estar sempre a aparecer. O ideal é desactivar.
