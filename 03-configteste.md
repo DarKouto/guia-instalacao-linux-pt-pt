@@ -1,0 +1,42 @@
+# Configurar CachyOS, KDE Plasma e Instalar Aplicações Essenciais
+
+Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamos proceder a algumas configurações simples e essenciais que melhoram a experiência.
+
+**NOTA:** No KDE Plasma, o **Menu Iniciar** chama-se **Lançador de Aplicações**. No entanto, por uma questão de facilidade e hábito, vamos continuar a chamá-lo de **Menu Iniciar** ao longo deste guia.
+
+## 1. Janela CachyOS Hello
+Esta janela abre automaticamente assim que entras no sistema.
+- **Desativa** a opção **Launch at Start** (no canto inferior direito).
+- Clica em **Apps/Tweaks**.
+  - **Ativa** as opções **Ananicy Cpp** e **Bluetooth** (devem estar ativadas por defeito).
+  - Clica no botão **Rank Mirrors** e espera que o processo termine. Isto serve para selecionar o servidor mais rápido para instalares software e atualizares o sistema.
+- Fecha a janela.
+
+## 2. Mudar o Tema Global
+Isto é uma preferência pessoal, pois considero o tema oficial do CachyOS demasiado escuro.
+- Vai ao **Menu Iniciar** e procura por **Tema Global** (**Global Theme**).
+- Escolhe **Brisa ao Anoitecer**.
+- **Ativa** as opções **Configuração da Aparência** e **Disposição da Área de Trabalho e das Janelas**.
+- **Reinicia o PC** para que todas as alterações sejam aplicadas corretamente.
+
+## 3. Desativar o KWallet
+O **KWallet** é um gestor de passwords cuja utilidade é discutível para a maioria dos utilizadores. Além disso, a sua janela está sempre a aparecer, por isso é melhor desativá-lo.
+- Vai ao **Menu Iniciar** e procura por **Carteira KDE** (**Wallet**).
+- Desativa o visto da opção inferior, clica em **Aplicar** e depois desativa o visto da opção superior.
+- Fecha a janela.
+
+## 4. Ativar o Menu de Seleção de SO no Arranque (Grub)
+Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
+- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**).
+- Escreve os seguintes comandos por ordem:
+  - `sudo os-prober`
+  - `sudo nano /etc/default/grub`
+  - Este comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
+  - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
+  - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
+  - `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+- Reinicia o PC. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
+
+## 5. Configurar o Dolphin (Gestor de Ficheiros)
+O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows, mas muito mais poderoso.
+- Vai ao **Menu Iniciar** e procura por **Dolphin** (caso não esteja já afixado no Painel).
