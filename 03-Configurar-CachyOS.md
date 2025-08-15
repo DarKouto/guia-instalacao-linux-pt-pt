@@ -60,3 +60,15 @@ Para adicionar um programa favorito (atalho) ao **Menu Iniciar** ou ao **Painel*
 ## 8. Outras Configurações (Painel de Controlo)
 - Vai ao **Menu Iniciar** e procura **Configuração do Sistema**, isto é semelhante ao **Painel de Controlo/Definições** do Windows, mas mais uma vez, muito mais poderoso.
 - Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
+
+## 9. Aceder ao Disco Windows (NTFS)
+Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça, copiar estes 2 comandos para o **Konsole (Terminal)**:
+
+**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+```bash
+sudo pacman -S ntfs-3g
+```
+```bash
+sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
+```
+
