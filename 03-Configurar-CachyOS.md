@@ -49,3 +49,14 @@ O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador
   - No separador **General** -> Display Style: Selecionar **Recordar o estilo de apresentação de cada pasta**
 
 Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slider" que permite aumentar a ampliação das pastas, assim como uma barra que demostra o espaço livre em disco. Outra excelente funcionalidade é a existência de Tabs/Separadores como num browser de internet, se clicares numa pasta com o botão do meio do rato, ele abre essa pasta numa nova tab.
+
+## 6. Conta de Utilizador, Password e Foto
+- Vai ao **Menu Iniciar** e clica no teu nome, que aparece no canto superior esquerdo, isto abre o menu de Conta de Utilizador
+- Aqui podes modificar a tua password, assim como a foto de perfil.
+
+## 7. Favoritos no Menu Iniciar e no Painel
+Para adicionar um programa favorito (atalho) ao **Menu Iniciar** ou ao **Painel**, procuras o programa no **Iniciar**, clicas com o botão direito e escolhes **Adicionar aos favoritos** (para Iniciar) ou **Fixar no Gestor de Tarefas (para o Painel)
+
+## 8. Outras Configurações (Painel de Controlo)
+- Vai ao **Menu Iniciar** e procura **Configuração do Sistema**, isto é semelhante ao **Painel de Controlo/Definições** do Windows, mas mais uma vez, muito mais poderoso.
+- Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
