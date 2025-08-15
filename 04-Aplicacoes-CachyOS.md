@@ -10,7 +10,8 @@ Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas
 ## Aplicações a Instalar dos Repositórios Oficiais
 Existem duas formas de instalar aplicações dos repositórios oficiais do CachyOS:
 1. Usar a **Konsole** (Terminal) com o gestor de pacotes do Arch chamado **pacman**, exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
-3. Ir ao **Iniciar** e procurar o **Octopi** que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
+2. Ir ao **Iniciar** e procurar o **Octopi** que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
+
 Qual a melhor abordagem? Depende. Eis a minha opinião:
 - Para instalar uma único aplicação, o Octopi é mais fácil e intuitivo, é simplesmente chegar lá, procurar, selecionar e instalar.
 - Para instalar várias aplicações de uma só vez, usar o Terminal é melhor, pois com um único comando (que vais copiar daqui) consegues instalar tudo ao mesmo tempo.
