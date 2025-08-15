@@ -27,13 +27,16 @@ O **KWallet** é um gestor de passwords cuja utilidade é discutível para a mai
 
 ## 4. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
-- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**).
+- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**)
 - Escreve: `sudo os-prober`
 - Escreve: `sudo nano /etc/default/grub`
   - Este comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
   - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
   - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
-- Escreve: `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+- Copia o seguinte código para o terminal:
+  - ```bash
+    sudo grub-mkconfig -o /boot/grub/grub.cfg
+    ```
 - Reinicia o PC. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
 
 ## 5. Configurar o Dolphin (Gestor de Ficheiros)
