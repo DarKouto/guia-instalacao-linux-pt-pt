@@ -2,12 +2,12 @@
 
 Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas no CachyOS, e quais algumas aplicações essenciais recomendo instalar.
 
-## Aplicações Pré-Instaladas e o seu Propósito
+## 1. Aplicações Pré-Instaladas e o seu Propósito
 - **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
 - **GwenView**: visualizador de imagens, também permite rodar, recortar e inverter imagens, assim como ver vídeos.
 - **Firefox**: é o browser que vem instalado por defeito. Recuso-me a acreditar que não saibas o que é o Firefox.
 
-## Aplicações a Instalar dos Repositórios Oficiais
+## 2. Aplicações a Instalar dos Repositórios Oficiais
 Existem duas formas de instalar aplicações dos repositórios oficiais do CachyOS:
 1. Usar a **Konsole** (Terminal) com o gestor de pacotes do Arch chamado **pacman**, exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
 2. Ir ao **Iniciar** e procurar o **Octopi** que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
@@ -22,3 +22,34 @@ Cá fica o comando que instala as aplicações que considero essenciais:
 ```bash
 sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
 ```
+
+Com este comando instalámos algumas biblitecas importantes, assim como as seguintes aplicações:
+- **Brave Browser:** Um browser baseado no Google Chrome mas com melhores funcionalidades e privacidade.
+- **Discord:** De certeza que sabes o que é Discord.
+- **Gnome-Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
+- **KolourPaint:**: Um programa semelhante ao MS Paint.
+- **LibreOffice:**: Um conjunto de programas semelhantes ao MS Office
+- **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Offica (usa aquele que achares melhor)
+- **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
+- **VLC:**: Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
+
+## 3. Aplicações a Instalar do AUR
+Para instalar aplicações do AUR tem mesmo que se usar o **Terminal**, com um "helper" chamado **yay**, que instalamos no comando anterior. Copia o seguinte comando para o teu **Terminal**:
+```bash
+yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
+```
+Com este comando instalámos as seguintes aplicações:
+- **Discover-Overlay:** uma forma de conseguirmos usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
+- **pCloud-Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
+- **Stacer-Bin:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
+- **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
+
+Para instalar qualquer outro tipo de letra:
+- Procurar na internet e transferir os ficheiros .ttf
+- Ir ao **Iniciar** e procurar por **Gestão de Tipos de Letra**
+- Selecionar **Instalar de um Ficheiro** e procurar os ficheiros .ttf transferidos
+
+## 4. Aplicações Flatpak/Flathub
+Para instalar Flatpaks
+
+
