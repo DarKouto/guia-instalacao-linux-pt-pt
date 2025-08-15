@@ -15,3 +15,16 @@ Este ficheiro é o Sistema Operativo propriamente dito.
 ### 2. Transferir e instalar balenaEtcher
 Este programa serve para injectar a imagem .iso do CachyOS na tua Pen Drive, existem outros, mas este é o mais simples de usar na minha opinião.
 - Vai a [https://etcher.balena.io/](https://etcher.balena.io/) e clica no botão Download Etcher, seleciona o teu sistema operativo, transfere e instala o ficheiro.
+
+### 3. Colocar a imagem .iso do CachyOS na Pen Drive com balenaEtcher
+- **ATENÇÃO: Usar este processo irá apagar todos os dados que estejam previamente na tua Pen, por isso certifica-te que tens um backup**
+- Conecta a tua Pen Drive ao PC, certifica-te que está detectada
+- Abre o programa balenaEtcher que instalaste
+- Clicas em **"Flash From File"** e selecionas o ficheiro .iso que transferiste do site do CachyOS
+- Clicas em **"Select Target"**" e escolhes a tua Pen Drive
+- Clicas em **"Flash"** e esperas que o processo termime.
+
+### 4. Entrar na BIOS
+- **NOTA:** Este processo não é igual em todas as máquinas, pois todas as motherboards têm uma BIOS diferente
+- Reinicia o computador, e entra na BIOS. , mas regra geral é ir carregando de forma intermitente na tecla DEL ou F12 assim que ligas o computador.
+- Assim que estiveres na BIOS, procura
