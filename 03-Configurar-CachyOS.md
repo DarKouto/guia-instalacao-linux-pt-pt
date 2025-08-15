@@ -27,9 +27,15 @@ O **KWallet** é um gestor de passwords cuja utilidade é discutível para a mai
 
 ## 4. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
-- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**)
-- Escreve: `sudo os-prober`
-- Escreve: `sudo nano /etc/default/grub`
+
+**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**), copia os seguintes comandos para lá
+- ```bash
+  sudo os-prober
+  ```
+- ```bash
+  sudo nano /etc/default/grub
+  ```bash
   - Este comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
   - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
   - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
@@ -66,8 +72,6 @@ Para adicionar um programa favorito (atalho) ao **Menu Iniciar** ou ao **Painel*
 
 ## 9. Aceder ao Disco Windows (NTFS)
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça, copiar estes 2 comandos para o **Konsole (Terminal)**:
-
-**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo pacman -S ntfs-3g
 ```
