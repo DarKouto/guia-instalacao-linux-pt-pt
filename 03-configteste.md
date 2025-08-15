@@ -2,7 +2,7 @@
 
 Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamos proceder a algumas configurações simples e essenciais que melhoram a experiência.
 
-**NOTA:** No KDE Plasma, o **Menu Iniciar** chama-se **Lançador de Aplicações**. No entanto, por uma questão de facilidade e hábito, vamos continuar a chamá-lo de **Menu Iniciar** ao longo deste guia.
+**NOTA:** No KDE Plasma, o **Menu Iniciar** chama-se **Lançador de Aplicações**. No entanto, por uma questão de facilidade e hábito, vamos continuar a chamá-lo **Menu Iniciar** ao longo deste guia.
 
 ## 1. Janela CachyOS Hello
 Esta janela abre automaticamente assim que entras no sistema.
@@ -28,13 +28,12 @@ O **KWallet** é um gestor de passwords cuja utilidade é discutível para a mai
 ## 4. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
 - Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**).
-- Escreve os seguintes comandos por ordem:
-  - `sudo os-prober`
-  - `sudo nano /etc/default/grub`
+- Escreve: `sudo os-prober`
+- Escreve: `sudo nano /etc/default/grub`
   - Este comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
   - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
   - Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
-  - `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+- Escreve: `sudo grub-mkconfig -o /boot/grub/grub.cfg`
 - Reinicia o PC. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
 
 ## 5. Configurar o Dolphin (Gestor de Ficheiros)
