@@ -42,12 +42,14 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
 - Uma janela chamada **CachyOS Hello** estára aberta por defeito no arraque. Aqui há um botão em baixo e ao centro com o texto **Launch Installer**.
 - **NOTA:** Antes de clicares, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo ethernet.
 - Ao clicares em **Launch Installer**, o CachyOS vai abrir um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação:
-  - Primeiro vai-te perguntar qual o **Bootloader** que queres. Aqui escolhes o **GRUB**, é o padrão, funciona bem e não há nada a apontar.
+  - Quando perguntar o **Bootloader** que queres, escolhes o **GRUB**, é o padrão, funciona bem e não há nada a apontar.
   - No separador **Location**, escolhes a tua localização e língua (com a internet ligada é automaticamente detectada)
   - No separador **Keyboard**, escolhes o esquema do teclado (com a internet ligada é automaticamente detectada)
+    
   - No separador **Partitions**, escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
     - Caso vás usar Dual-Boot (Recomendado para iniciantes), escolhes **Instalar Paralelamente**. Em baixo, clicas na partição **Actual** (colorida), na partição **Depois** usas o "slider" para definir o tamanho da partição do CachyOS
     - Caso tenhas um 2º Disco, ou queiras usar somente CachyOS, selecionas a opção **Apagar Disco**. E fazes seguinte. Fácil.
+   
   - No separador **Desktop**, escolhes o ambiente gráfico (o Desktop Environment - DE). Por defeito aparece o **Plasma Desktop** também conhecido como **KDE Plasma**. Escolhe esse pois é o DE com o qual iremos trabalhar. E porque é de longe o melhor na minha opinião.
   - No separador **Packages**, escolhes pacotes de software adicionais. Por norma, apenas precisas de selecionar **Printing Support**, e **HP Printer/Scanner support**, caso tenhas ou vás usar uma impressora HP.
   - No separador **Users**, escolhes o teu nome de utilizador, password, e nome do PC.
