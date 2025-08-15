@@ -38,4 +38,12 @@ Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
 
 ## 5. Configurar o Dolphin (Gestor de Ficheiros)
 O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows, mas muito mais poderoso.
-- Vai ao **Menu Iniciar** e procura por **Dolphin** (caso não esteja já afixado no Painel).
+- Vai ao **Menu Iniciar** e procura por **Dolphin** (caso não esteja já afixado no Painel)
+- No Dolphin, clica no **Menu Hamburger** (as 3 linhas horizontais no canto superior esquerdo), procura **Configurar** e depois seleciona **Configure Dolphin**.
+- Na parte lateral de **Interface**:
+  - No separador **Folders e Tabs** -> **Mostrar no Arraque**: Seleciona a 2º opção: `/home/OTeuUserName`
+  - No separador **Antevisões** tem uma opção em baixo chamada **Remote Storage** -> Seleciona 15MB. Isto serve para mostrar antevisões de ficheiros em armazenamento de rede.
+  - No separador **Confirmações** activa a primeira opção que diz **Ao enviar ficheiros ou pastas para o Lixo**
+  - No separador **Status & Location Bar** seleciona **Full Width** e activa a opção **Mostrar barra de Ampliação**
+- Na parte lateral de **View":
+  - No separador **General** -> Display Style: Selecionar **Recordar o estilo de apresentação de cada pasta**
