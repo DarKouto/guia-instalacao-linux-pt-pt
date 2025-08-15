@@ -5,7 +5,7 @@ Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas
 ## Aplicações Pré-Instaladas e o seu Propósito
 - **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
 - **GwenView**: visualizador de imagens, também permite rodar, recortar e inverter imagens, assim como ver vídeos.
-- **Firefox**: é o browser que vem instalado por defeito. Recuso-me a aceitar que não saibas o que é o Firefox.
+- **Firefox**: é o browser que vem instalado por defeito. Recuso-me a acreditar que não saibas o que é o Firefox.
 
 ## Aplicações a Instalar dos Repositório Oficiai
 Existem duas formas de instalar aplicações do repositório oficial do CachyOS:
