@@ -38,8 +38,11 @@ Com este comando instalámos algumas dependências importantes, assim como as se
 - **qBitTorrent:** Um cliente de BitTorrent
 - **VLC:** Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
 
+
 ## 3. Aplicações a Instalar do AUR
-Para instalar aplicações do AUR tem mesmo que se usar o **Terminal**, com um "helper" chamado **yay**, que instalamos no comando anterior. Copia o seguinte comando para o teu **Terminal**:
+Para instalar aplicações do AUR, tens mesmo que se usar o **Terminal**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
+
+Cá ficam algumas apps essenciais, copia o seguinte comando para o teu **Terminal**:
 ```bash
 yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
 ```
@@ -65,3 +68,9 @@ Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
 - **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Usar só quando o Discord oficial está com algum problema.
 - **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flapak, apenas necessário em casos específicos.
+
+## 5. Outras Aplicações
+Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. Mas lembra-te da ordem de preferências:
+1. Procura a app no Octopi, que instala directamente dos repositórios oficiais
+2. Caso não exista, procura no AUR em https://aur.archlinux.org/, e corres o comando: `yay -S nome-do-pacote`
+3. Caso também não exista, procuras no Flathub em https://flathub.org/
