@@ -18,3 +18,4 @@ Cá fica o comando que podes e deves copiar para o teu Terminal:
 ```bash
 sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
 ```
+**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
