@@ -42,8 +42,8 @@ Além disso, existem várias vantagens em mudar para Linux, das quais se destaca
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou macOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
 - **Estabilidade:** Por norma o kernel Linux é muito mais estavél que qualquer outro. Não é por acaso que 95% dos servidores no mundo correm Linux.
 - **Segurança:** Devido à sua natureza de código aberto, é muito mais díficil existirem vírus em Linux, e as pequenas falhas de segurança no código podem ser vistas e corrigidas por qualquer pessoa.
-- **Privacidade:** Contrariamente ao Windows e macOS que estão cheios de funcionalidades invasivas e telemetria, o Linux não recolher quaisquer dados sobre os seus utilizadores.
-- E é **Grátis**. Qual é o Português que não gosta de coisas grátis?
+- **Privacidade:** Contrariamente ao Windows e macOS que estão cheios de telemetria, funcionalidades invasivas e duvidosas (para dizer o mínimo), o Linux não recolhe quaisquer dados sobre os seus utilizadores.
+- É **Grátis**. Qual é o Português que não gosta de coisas grátis?
 
 <hr>
 <div align="left">
