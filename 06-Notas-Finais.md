@@ -15,7 +15,7 @@ Para terminar, tenho mais algumas pequenas recomendações:
 - Lê o Wiki oficial para qualquer outra dúvida: https://wiki.cachyos.org/support/social/
 - Considera fazer uma doação a este fantástico projecto: https://wiki.cachyos.org/support/donation/
 
-# FIM
+# Fim.
 Documentação escrita por **Daniel Couto (DarKouto)**
 
 <hr>
