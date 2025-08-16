@@ -12,7 +12,10 @@ Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux
 
 ## Outras Informações Úteis
 - Esta documentação presume que o utlizador tenha um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
+- Tudo que está aqui descrito é verdade e factual ao dia **18 de Agosto de 2025**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
+- O autor irá procurar ter o cuidado de manter esta documentação e repositório actualizados, visto que ele próprio é um utilizador de CachyOS.
 - O autor não assume qualquer responsabilidade por erros que o utilizador possa cometer. O uso desta documentação é da inteira responsabilidade de quem a segue.
+
 
 <hr>
 <h3>Índice </h3>
