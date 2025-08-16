@@ -36,7 +36,7 @@ As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
 
 ## Vantagens de usar Linux
-*"Eu tenho o Windows 10 e funciona, porque razão devo eu mudar agora para Linux?"* Existem várias razões, a começar pelo facto de que o Windows 10 vai deixar de receber actualizações de segurança no final deste ano.<br>
+*"Eu tenho o Windows 10 e funciona, porque razão devo eu mudar agora para Linux?"* Existem várias razões, a começar pelo facto de que o Windows 10 vai deixar de ser suportado em Outubro de 2025.
 
 Além disso, existem várias vantagens em mudar para Linux, das quais se destacam:
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou macOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
