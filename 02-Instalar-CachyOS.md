@@ -71,8 +71,8 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
   - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
   - **NOTA:** é possível (e normal) que nesta fase inicial não te apareça o menu de selecção de sistema operativo ao ligares o PC. Mas calma, já vamos tratar disso no próximo capítulo.
  
-<div align="center">Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧</div>
-<div align="center"> Bem-vindo ao Linux 🐧</div>
+<div align="center"><h1>Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧</h1></div>
+<div align="center"><h1>Bem-vindo ao Linux 🐧</h1></div>
 
 <hr>
 <div align="left">
