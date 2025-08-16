@@ -14,22 +14,16 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 - O **Proton** oficial da Valve
 - O **GE-Proton** desenvolvido pelo **GloriousEggRoll**
 - O **Proton-CachyOS** desenvolvido pela equipa do CachyOS, e que já vem pré-instalado nesta distro.
-- 
-**NOTA**: O GE-Proton e o Proton-CachyOS são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de codecs de vídeos proprietários que permitem ver as *cutscenes* de alguns jogos.
-- No entanto, isto pode variar de jogo para jogo, há inclusivamente jogos que funcionam melhor com uma versão mais antiga do Proton.
-  - **EXEMPLOS**:
-    - O Dead Cells tem versão nativa (não precisa de Proton).
-    - O Remnant: From The Ashes corre muito melhor com o Proton-GE.
-    - O Wukong corre bem com o Proton Experimental (segundo relatos).
-    - O WH40K só corre bem com o Proton 9.0.4.
-    - O 20XX só abre se tiver uma versão do Proton oficial mais antiga (8.0).
-- O ideal é testar o jogo com as várias versões, ou então procurar pelo jogo no site: [https://www.protondb.com/](https://www.protondb.com/) e ler os comentários do pessoal.
+
+**NOTA**: O GE-Proton e o Proton-CachyOS são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de codecs de vídeos proprietários que permitem ver as *cutscenes* de alguns jogos. Regra geral, usar estas versões é melhor que usar a versão original, mas nem sempre é o caso. A sua eficiência varia de jogo para jogo, como vamos ver nos seguintes exemplos:
+- O *Dead Cells* tem versão nativa (não precisa de Proton).
+- O *Remnant: From The Ashes* corre muito melhor com o **Proton-GE**.
+- O *WH40K: Space Marine 2* só corre bem com o **Proton** 9.0.4 (oficial).
+- O 20XX só abre se tiver uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior.
+O ideal é testar o jogo com as várias versões, ou então procurar pelo jogo no site: [https://www.protondb.com/](https://www.protondb.com/) e ler os comentários do pessoal.
 
 ## Configuração de Jogos
 
-### Game-Performance
-- Na Steam usar `game-performance %command%`.
-- Isto muda o power profile para performance, também pode ser feito manualmente.
 
 <hr>
 <div align="left">
