@@ -34,7 +34,15 @@ O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assi
 Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
 - Vai a **Iniciar** e procura por **Steam (Runtime)** (não abras a versão Steam (Native) pois é mais pesada e desnecessária)
 - Entra com a tua conta, e faz as tuas configurações habituais, como farias no Windows
-- 
+- Vai a **Definições** e depois **Compatibilidade**
+- Irás reparar que por defeito já aparece o **proton-cachyos** selecionado
+- Clica nesse menu *dropdown* e seleciona as seguintes versões, uma de cada vez:
+  - Proton Experimental
+  - Proton 10.0-xxx
+  - Proton 9.0.4
+  - Proton 8.0-5
+- De cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão.
+
 
 <hr>
 <div align="left">
