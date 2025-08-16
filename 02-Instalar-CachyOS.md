@@ -4,6 +4,7 @@
 <div align="right">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a>
 </div>
+<hr>
 
 # Instalação do Sistema Operativo CachyOS Linux
 
@@ -73,6 +74,7 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
 ## Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧
 ## Bem-vindo ao Linux 🐧
 
+<hr>
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md">[01 - Notas Iniciais]</a>
 </div>
