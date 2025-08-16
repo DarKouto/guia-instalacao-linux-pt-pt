@@ -1,6 +1,8 @@
-<div style="display: flex; justify-content: space-between;">
-  <a href="caminho-para-o-ficheiro-anterior.md"> [Capítulo Anterior] </a>
-  <a href="caminho-para-o-ficheiro-seguinte.md"> [Capítulo Seguinte] </a>
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md">[01 - Notas Iniciais]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a>
 </div>
 
 # Instalação do Sistema Operativo CachyOS Linux
@@ -70,3 +72,10 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
  
 ## Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧
 ## Bem-vindo ao Linux 🐧
+
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md">[01 - Notas Iniciais]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a>
+</div>
