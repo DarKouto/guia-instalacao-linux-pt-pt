@@ -4,6 +4,7 @@
 <div align="right">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a>
 </div>
+<hr>
 
 # Notas Iniciais
 
@@ -34,6 +35,7 @@ As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository
 
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
 
+<hr>
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/README.md">[README.md]</a>
 </div>
