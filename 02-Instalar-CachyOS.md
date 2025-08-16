@@ -1,6 +1,7 @@
 <div align="left">
   [01 - Notas Iniciais](https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md)
 </div>
+---
 <div align="right">
   [03 - Configurar CachyOS](https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md)
 </div>
