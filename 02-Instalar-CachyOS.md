@@ -1,3 +1,10 @@
+<div align="left">
+  [Capítulo Anterior](caminho-para-o-ficheiro-anterior.md)
+</div>
+<div align="right">
+  [Capítulo Seguinte](caminho-para-o-ficheiro-seguinte.md)
+</div>
+
 # Instalação do Sistema Operativo CachyOS Linux
 
 **NOTA:** Este guia irá instalar o **CachyOS** num sistema que já tenha Windows. Assim, irás ficar com dois sistemas operativos a funcionar, e no arranque do computador podes escolher se queres arrancar para **Linux** ou para **Windows**, num processo que se chama **Dual-Boot**. Esta opção é ideal para quem está a começar e não se quer comprometer a usar apenas Linux. Caso queiras ignorar este passo, a instalação será ainda mais simples.
