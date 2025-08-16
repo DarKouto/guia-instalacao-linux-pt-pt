@@ -10,10 +10,12 @@
 
 O Gaming em Linux melhorou de forma muito significativa nos últimos anos, ao ponto de que actualmente é possível jogar *quase* 100% dos jogos disponíveis para Windows. Esta melhoria deve-se muito à **Valve** e ao lançamento do seu **Steam Deck**, que tem como sistema operativo o **SteamOS** (que é Linux). Para isso funcionar, a Valve desenvolveu uma *Camada de Compatibilidade* chamada **Proton**, que **NÃO É UM EMULADOR**, mas sim uma espécie de tradutor Windows-Linux. O **Proton** tem como base um software chamado **WINE**, que já existe há alguns anos e serve para suportar aplicações Windows em Linux.
 
-O Proton é necessário para todos os jogos, exceto aqueles que têm uma versão nativa para Linux.
-Existem várias versões do Proton oficial da Valve e modificações como o **Proton-GE** ou o **Proton-CachyOS**.
-- Regra geral, as melhores versões são o Proton-GE, Proton-CachyOS, Proton 10.0 e o Proton Experimental.
-- Tanto o Proton-GE como o Proton-CachyOS contêm codecs para reproduzir cutscenes de alguns jogos. Algo que o Proton oficial da Valve não tem.
+O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma versão nativa para Linux. E existem 3 principais versões do Proton que iremos usar:
+- O **Proton** oficial da Valve
+- O **GE-Proton** desenvolvido pelo **GloriousEggRoll**
+- O **Proton-CachyOS** desenvolvido pela equipa do CachyOS, e que já vem pré-instalado nesta distro.
+- 
+**NOTA**: O GE-Proton e o Proton-CachyOS são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de codecs de vídeos proprietários que permitem ver as *cutscenes* de alguns jogos.
 - No entanto, isto pode variar de jogo para jogo, há inclusivamente jogos que funcionam melhor com uma versão mais antiga do Proton.
   - **EXEMPLOS**:
     - O Dead Cells tem versão nativa (não precisa de Proton).
