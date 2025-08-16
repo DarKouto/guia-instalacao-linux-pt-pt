@@ -79,9 +79,9 @@ Com este comando instalámos as seguintes aplicações:
 
 ## 5. Outras Aplicações
 Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. Mas lembra-te da ordem de preferências:
-1. Procura a app no Octopi, que instala directamente dos repositórios oficiais
-2. Caso não exista, procura no AUR em https://aur.archlinux.org/, e corres o comando: `yay -S nome-do-pacote`
-3. Caso também não exista, procuras no Flathub em https://flathub.org/
+1. Procura a app no **Octopi**, que instala directamente dos repositórios oficiais
+2. Caso não exista, procura no **AUR** em https://aur.archlinux.org/, e corres o comando: `yay -S nome-do-pacote`
+3. Caso também não exista, procuras no **Flathub** em https://flathub.org/
 
 <hr>
 <div align="left">
