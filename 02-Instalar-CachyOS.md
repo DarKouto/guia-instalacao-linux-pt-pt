@@ -70,7 +70,7 @@ Este programa serve para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive.
   - Assim que o processo estiver concluído reinicia o PC.
   - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
 
-**NOTA:** é possível (e normal) que nesta fase inicial não te apareça a opção Windows no menu de selecção de sistema operativo (Grub). Mas calma, já vamos tratar disso no próximo capítulo.
+**NOTA:** é possível que nesta fase inicial não te apareça a opção para selecionar o Windows no **GRUB** assim que ligas o PC. É normal, já vamos resolver disso no próximo capítulo.
  
 <div align="center">
   <h1>
