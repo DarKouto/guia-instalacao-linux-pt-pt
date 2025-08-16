@@ -11,8 +11,8 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux** sem grandes dificuldades.
 
 ## Outras Informações Úteis
-- **PROJECTO AINDA EM DESENVOLVIMENTO**
 - Esta documentação presume que o utlizador tenha um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
+- O autor não assume qualquer responsabilidade por erros que o utilizador possa cometer. O uso desta documentação é da inteira responsabilidade de quem a segue.
 
 <hr>
 <h3>Índice </h3>
