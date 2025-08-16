@@ -81,7 +81,15 @@ flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
 De resto, o funcionamento da versão Flatpak é igual à versão normal.
 
 ## 5. Lutris (Todos os outros Launchers)
-
+O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubisoft, etc. Também permite instalar a EPIC e a GOG, mas para esses 2 considero o Heroic melhor.
+- Vai a **Iniciar** e procura por **Lutris**
+- Vai ao menu **Hamburger** (as 3 linhas horizontais no canto superior esquerdo) e clica em **Preferences**
+- No separador **Global Options**
+  - Activa **Advanced** na parte de cima
+  - Activa **FPS Counter/MangoHud**
+  - Desactiva **Feral GameMode** (o CachyOS tem o Ananicy Cpp que faz o mesmo efeito)
+- Para instalar qualquer Launcher, basta clicar no seu ícone que aparece no separador esquerdo.
+- Para instalar a Battle.net é preciso ir ao site https://lutris.net/games/battlenet/ e clicar no botão **Install**
 
 <hr>
 <div align="left">
