@@ -16,6 +16,7 @@ Para terminar, tenho mais algumas pequenas recomendações:
 - Considera fazer uma doação a este fantástico projecto: https://wiki.cachyos.org/support/donation/
 
 # FIM
+Documentação escrita por **Daniel Couto (DarKouto)**
 
 <hr>
 <div align="left">
