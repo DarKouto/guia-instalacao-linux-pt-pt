@@ -21,9 +21,9 @@ Isto é uma preferência pessoal, pois considero o tema oficial do CachyOS demas
 
 ## 3. Desativar o KWallet
 O **KWallet** é um gestor de passwords cuja utilidade é discutível para a maioria dos utilizadores. Além disso, a sua janela está sempre a aparecer, por isso é melhor desativá-lo.
-- Vai ao **Menu Iniciar** e procura por **Carteira KDE** (**Wallet**).
-- Primeiro: desativa o visto da opção **inferior**, clica em **Aplicar**
-- Segundo: desativa o visto da opção **superior**, clica em **Aplicar**
+- Vai ao **Menu Iniciar** e procura por **Carteira KDE** (**Wallet**), e faz estes 2 passos **pela ordem descrita**:
+  1. **Desativa** o visto da opção **inferior**, clica em **Aplicar**
+  2. **Desativa** o visto da opção **superior**, clica em **Aplicar**
 - Fecha a janela. O KWallet já não te chateia mais.
 
 ## 4. Configurar o Dolphin (Gestor de Ficheiros)
