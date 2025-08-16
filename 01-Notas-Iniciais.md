@@ -1,3 +1,10 @@
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/README.md">[README.md]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a>
+</div>
+
 # Notas Iniciais
 
 ## O que é um Sistema Operativo Linux
@@ -26,3 +33,10 @@ A forma mais comum de instalar programas e aplicações em **Linux** é através
 As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém muitas vezes programas que não se encontram nos repositórios oficiais.
 
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
+
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/README.md">[README.md]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a>
+</div>
