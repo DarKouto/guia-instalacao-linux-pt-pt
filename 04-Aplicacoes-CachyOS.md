@@ -1,3 +1,11 @@
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
+</div>
+<hr>
+
 # Aplicações CachyOS
 
 Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas no CachyOS, e quais algumas aplicações essenciais recomendo instalar.
@@ -74,3 +82,11 @@ Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. 
 1. Procura a app no Octopi, que instala directamente dos repositórios oficiais
 2. Caso não exista, procura no AUR em https://aur.archlinux.org/, e corres o comando: `yay -S nome-do-pacote`
 3. Caso também não exista, procuras no Flathub em https://flathub.org/
+
+<hr>
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
+</div>
