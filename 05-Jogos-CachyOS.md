@@ -20,8 +20,8 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 - O *Remnant: From The Ashes* corre muito melhor com o **Proton-GE**.
 - O *WH40K: Space Marine 2* só corre bem com o **Proton 9.0.4** (oficial).
 - O **20XX** só abre com uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior.
-- 
-O ideal é testar o jogo com as várias versões, ou então procurar pelo jogo no site: [https://www.protondb.com/](https://www.protondb.com/) e ler os comentários do pessoal.
+
+Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.com/](https://www.protondb.com/). Aqui encontramos todos os jogos, cin relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento.
 
 ## Configuração de Jogos
 
