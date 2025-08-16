@@ -20,6 +20,6 @@ Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a><br>
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a><br>
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicações CachyOS]</a><br>
-<a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
+<a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a><br>
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Notas-Finais.md">[06 - Notas Finais]</a>
 <hr>
