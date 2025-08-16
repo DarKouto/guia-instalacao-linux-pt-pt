@@ -1,4 +1,4 @@
-# Instalação e Manutenção do CachyOS Linux em PT-PT
+# Instalação e Configuração do CachyOS Linux em PT-PT
 
 Esta documentação foi criada e mantida por mim ao longo de mais de um ano, durante a minha própria transição do Windows para o **Linux**. O meu objetivo era registar e organizar todas as descobertas, testes e configurações que fiz.
 
