@@ -55,7 +55,7 @@ sudo pacman -S ntfs-3g
 ```bash
 sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
-**Reinicia o PC.**
+- **Reinicia o PC.** Agora já podes aceder e ver o conteúdo dos discos NTFS do Windows.
 
 ## 7. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
