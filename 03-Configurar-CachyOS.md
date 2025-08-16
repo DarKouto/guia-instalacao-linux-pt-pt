@@ -46,9 +46,9 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 - Carregar na tecla **PrintScreen** abre automaticamente um programa chamado **Spectacle** que te permite fazer e editar capturas de ecrã rapidamente.
 
 ## 6. Aceder ao Disco Windows (NTFS)
-Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça, copiar estes 2 comandos para o **Konsole (Terminal)**:
-
-**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
+- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**), copia os seguintes comandos para lá
+- **NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo pacman -S ntfs-3g
 ```
@@ -59,9 +59,8 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 
 ## 7. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Este é o passo mais complexo, mas só tens de o fazer uma vez. **Tranquilo!**
-
-**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 - Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**), copia os seguintes comandos para lá
+- **NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo os-prober
 ```
