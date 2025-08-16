@@ -16,6 +16,7 @@ Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux
 
 <hr>
 <div align="left">
+  <h3> Indice </h3>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md">[01 - Notas Iniciais]</a><br>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a><br>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a><br>
