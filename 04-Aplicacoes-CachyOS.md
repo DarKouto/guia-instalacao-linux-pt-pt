@@ -75,7 +75,7 @@ flatpak install spotify vesktop warehouse
 Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
 - **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Usar só quando o Discord oficial está com algum problema.
-- **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flapak, apenas necessário em casos específicos.
+- **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flatpak, apenas necessário em casos específicos.
 
 ## 5. Outras Aplicações
 Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. Mas lembra-te da ordem de preferências:
