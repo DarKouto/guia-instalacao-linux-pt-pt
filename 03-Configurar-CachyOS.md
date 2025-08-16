@@ -35,7 +35,7 @@ O **KWallet** é um gestor de passwords cuja utilidade é discutível para a mai
 - Fecha a janela. O KWallet já não te chateia mais.
 
 ## 4. Configurar o Dolphin (Gestor de Ficheiros)
-O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows, mas muito mais poderoso. Vamos fazer uma ligeira configuração para melhorar a experiência.
+O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows ou **Finder** no macOS, mas muito mais poderoso. Vamos fazer uma ligeira configuração para melhorar a experiência.
 - Vai ao **Menu Iniciar** e procura por **Dolphin** (caso não esteja já afixado no Painel)
 - No Dolphin, clica no **Menu Hamburger** (as 3 linhas horizontais no canto superior esquerdo), procura **Configurar** e depois seleciona **Configure Dolphin**.
 - Na parte lateral de **Interface**:
