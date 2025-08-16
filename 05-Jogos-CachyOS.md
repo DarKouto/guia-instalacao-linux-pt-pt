@@ -41,7 +41,17 @@ Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal
   - Proton 10.0-xxx
   - Proton 9.0.4
   - Proton 8.0-5
-- De cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão.
+- De cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão. Assim ficas preparado para todas as eventualidades.
+- Agora instala um jogo qualquer. Após conclusão, clicas com o **botão direito do rato** no jogo e vais a **Propriedades**:
+  - No separador **Geral**, nas **Opções de Arranque** recomendo escrever: `game-performance mangohud %command%`
+    - **game-performace** é um *daemon/serviço* que automaticamente coloca o teu PC em modo de Performance assim que abres um jogo, e que retorna ao normal assim que o fechas.
+    - **MangoHud** é um overlay que conta os FPS, carga de CPU, GPU, Ram, etc. Semelhante ao **MSI Afterburner**. Podes fechar este overlay com **SHIFT+F12**
+  - No separador **Compatibilidade**, podes activar a opção **Forçar uso de ferramenta específica** e isso permite-te selecionar a versão do **Proton** que queres usar. Se nada fizeres, a Steam automaticamente assume e aplica o **proton-cachyos**
+ 
+## 3. ProtonUP-QT
+O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton** (assim como outras modificações) nos nossos Launchers.
+- Vai a **Iniciar** e procura **ProtonUP-QT**
+- 
 
 
 <hr>
