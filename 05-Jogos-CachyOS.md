@@ -72,10 +72,10 @@ O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games 
 Em alguns PC's, a versão oficial do **Heroic** pode ter alguns problemas de estabilidade. Caso isso suceda, temos que instalar a sua versão **Flatpak**, assim como a versão **Flatpak** do **MangoHud**.
 - Abre o **Terminal** e escreve:
 ```bash
-flatpak install heroic
+flatpak install com.heroicgameslauncher.hgl
 ```
 ```bash
-flatpak install flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
+flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
 ```
 - Quando te perguntar que versão do MangoHud queres instalar, escolhe a 23 e a 24. Talvez tenhas que correr este comando 2 vezes para instalar as 2 versões.
 De resto, o funcionamento da versão Flatpak é igual à versão normal.
