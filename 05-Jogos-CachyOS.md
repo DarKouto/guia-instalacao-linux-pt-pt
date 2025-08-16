@@ -18,7 +18,7 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 **NOTA**: O GE-Proton e o Proton-CachyOS são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de codecs de vídeos proprietários que permitem ver as *cutscenes* de alguns jogos. Regra geral, usar estas versões é melhor que usar a versão original, mas nem sempre é o caso. A sua eficiência varia de jogo para jogo, como vamos ver nos seguintes exemplos:
 - O *Dead Cells* tem versão nativa (não precisa de Proton).
 - O *Remnant: From The Ashes* corre muito melhor com o **Proton-GE**.
-- O *WH40K: Space Marine 2* só corre bem com o **Proton** 9.0.4 (oficial).
+- O *WH40K: Space Marine 2* só corre bem com o **Proton 9.0.4** (oficial).
 - O 20XX só abre se tiver uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior.
 O ideal é testar o jogo com as várias versões, ou então procurar pelo jogo no site: [https://www.protondb.com/](https://www.protondb.com/) e ler os comentários do pessoal.
 
