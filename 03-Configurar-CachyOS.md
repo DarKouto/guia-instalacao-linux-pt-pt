@@ -4,8 +4,8 @@
 <div align="right">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicações CachyOS]</a>
 </div>
----
----
+<hr>
+
 # Configurar CachyOS e KDE Plasma
 
 Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamos proceder a algumas configurações simples e essenciais que melhoram a experiência.
