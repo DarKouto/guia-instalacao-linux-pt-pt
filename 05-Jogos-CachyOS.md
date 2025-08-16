@@ -23,8 +23,18 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 
 Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.com/](https://www.protondb.com/). Aqui encontramos os jogos, com relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento. Atenção que isto não é a Verdade Universal, mas sim um guia de orientação que nos poupa muito trabalho em testes.
 
-## Configuração de Jogos
+## 1. Instalar Gaming Packages
+Vai a **Iniciar** e procura por **CachyOS Hello**
+- Vai a **Apps/Tweaks**
+- Clica em **Install Gaming Packages**
 
+O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outras librarias e dependências necessárias para jogares sem qualquer problema.
+
+## 2. Steam
+Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
+- Vai a **Iniciar** e procura por **Steam (Runtime)** (não abras a versão Steam (Native) pois é mais pesada e desnecessária)
+- Entra com a tua conta, e faz as tuas configurações habituais, como farias no Windows
+- 
 
 <hr>
 <div align="left">
