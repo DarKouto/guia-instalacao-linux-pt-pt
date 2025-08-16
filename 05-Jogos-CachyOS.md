@@ -15,7 +15,7 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 - O **GE-Proton** desenvolvido pelo **GloriousEggRoll**
 - O **Proton-CachyOS** desenvolvido pela equipa do CachyOS, e que já vem pré-instalado nesta distro.
 
-**NOTA**: O GE-Proton e o Proton-CachyOS são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de codecs de vídeos proprietários que permitem ver as *cutscenes* de alguns jogos. Regra geral, usar estas versões é melhor que usar a versão original, mas nem sempre é o caso. A sua eficiência varia de jogo para jogo, como vamos ver nos seguintes exemplos:
+**NOTA**: O **GE-Proton** e o **Proton-CachyOS** são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de **codecs de vídeo** proprietários que permitem ver as *cutscenes* de alguns jogos. Regra geral, usar estas versões é melhor que usar a versão original, mas nem sempre é o caso. A sua eficiência varia de jogo para jogo, como vamos ver nos seguintes exemplos:
 - O *Dead Cells* tem versão nativa (não precisa de Proton).
 - O *Remnant: From The Ashes* corre muito melhor com o **Proton-GE**.
 - O *WH40K: Space Marine 2* só corre bem com o **Proton 9.0.4** (oficial).
