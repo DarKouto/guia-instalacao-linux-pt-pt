@@ -36,11 +36,13 @@ As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
 
 ## Vantagens de usar Linux
-*"Eu tenho o Windows 10 e funciona, porque motivo devo eu mudar agora para Linux?"* Existem várias vantagens para o utilizador em mudar para Linux, entre as quais podemos destacar:
+*"Eu tenho o Windows 10 e funciona, porque razão devo eu mudar agora para Linux?"*<br>
+Existem várias razões, a começar pelo facto de que o Windows 10 vai deixar de receber actualizações de segurança no final deste ano.<br>
+Além disso, existem várias vantagens em mudar para Linux, das quais se destacam:
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou macOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
-- **Estabilidade:**: Os sistemas Linux são por norma mais estavéis que qualquer outro. Não é por acaso que 95% dos servidores no mundo correm Linux.
-- **Segurança:**: Devido à sua natureza de código aberto, é muito mais díficil existirem vírus em Linux, e as pequenas falhas de segurança no código podem ser vistas e corrigidas por qualquer pessoa.
-- **Privacidade:**: Contrariamente ao Windows e macOS que estão cheios de funcionalidades invasivas e telemetria, o Linux não recolher quaisquer dados sobre os seus utilizadores.
+- **Estabilidade:** Por norma o kernel Linux é muito mais estavél que qualquer outro. Não é por acaso que 95% dos servidores no mundo correm Linux.
+- **Segurança:** Devido à sua natureza de código aberto, é muito mais díficil existirem vírus em Linux, e as pequenas falhas de segurança no código podem ser vistas e corrigidas por qualquer pessoa.
+- **Privacidade:** Contrariamente ao Windows e macOS que estão cheios de funcionalidades invasivas e telemetria, o Linux não recolher quaisquer dados sobre os seus utilizadores.
 - E é **Grátis**. Qual é o Português que não gosta de coisas grátis?
 
 <hr>
