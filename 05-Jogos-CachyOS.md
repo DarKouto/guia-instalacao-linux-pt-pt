@@ -28,7 +28,7 @@ Vai a **Iniciar** e procura por **CachyOS Hello**
 - Vai a **Apps/Tweaks**
 - Clica em **Install Gaming Packages**
 
-O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outras librarias e dependências necessárias para jogares sem qualquer problema.
+O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outros utilitários, librarias e dependências necessárias para jogares sem qualquer problema.
 
 ## 2. Steam
 Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
@@ -51,7 +51,36 @@ Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal
 ## 3. ProtonUP-QT
 O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton** (assim como outras modificações) nos nossos Launchers.
 - Vai a **Iniciar** e procura **ProtonUP-QT**
-- 
+- Clicas em **Adicionar Versão**
+- Na **Ferramenta** escolhes **GE-Proton**
+- Na **Versão** escolhes:
+  - GE-Proton-10-(*nr-mais-recente*), e clicas **Instalar**
+  - Quando terminar, esoclhes GE-Proton-9-27, e clicas **Instalar**
+- Isto vai injetar estas versões do **GE-Proton** na Steam (mas também fica automaticamente disponível nos outros 2 Launchers). Agora já o podes usar em qualquer jogo.
+
+## 4. Heroic Games Launcher (EPIC e GOG)
+O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games Store e GOG.
+- Vai a **Iniciar** e procura por **Heroic**
+- Vai ao separador **Stores**, e faz login com as tuas credenciais Epic e GOG
+- Agora os teus jogos aparecem todos no separador **Library**
+- Para instalar um jogo, basta clicar nele, e fazer **Install**, isto abre uma janela com várias definições:
+  - Clica no *dropdown* com o texto **Show Wine Settings**
+  - Aqui poderás selecionar a versão **Proton** que pretendes usar
+- Após instalado, podes explorar outras definições de cada jogo, como comandos de lançamento.
+
+### 4.1 Heroic Games Launcher (Flatpak)
+Em alguns PC's, a versão oficial do **Heroic** pode ter alguns problemas de estabilidade. Caso isso suceda, temos que instalar a sua versão **Flatpak**, assim como a versão **Flatpak** do **MangoHud**.
+- Abre o **Terminal** e escreve:
+```bash
+flatpak install heroic
+```
+```bash
+flatpak install flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
+```
+- Quando te perguntar que versão do MangoHud queres instalar, escolhe a 23 e a 24. Talvez tenhas que correr este comando 2 vezes para instalar as 2 versões.
+De resto, o funcionamento da versão Flatpak é igual à versão normal.
+
+## 5. Lutris (Todos os outros Launchers)
 
 
 <hr>
