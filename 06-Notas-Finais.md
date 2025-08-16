@@ -1,6 +1,9 @@
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
 </div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/">[Voltar ao Ínicio]</a>
+</div>
 <hr>
 
 # Notas Finais
@@ -14,4 +17,7 @@ Para terminar, tenho mais algumas pequenas recomendações:
 <hr>
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/">[Voltar ao Ínicio]</a>
 </div>
