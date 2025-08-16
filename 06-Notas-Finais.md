@@ -4,11 +4,12 @@
 <hr>
 
 # Notas Finais
+## Agora sim, podes afirmar que és um Linux Power User 🐧
 
-- Juntar ao discord
-- Juntar ao reddit
-- ler o wiki
-- etc
+Para terminar, tenho mais algumas pequenas recomendações:
+- Junta-te ao Discord do CachyOS em: https://discord.com/invite/cachyos-862292009423470592
+- Junta-te ao SubReddit do CachyOS em: https://www.reddit.com/r/cachyos/
+- Lê o Wiki oficial para qualquer outra dúvida: https://wiki.cachyos.org/support/social/
 
 <hr>
 <div align="left">
