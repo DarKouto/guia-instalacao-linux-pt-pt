@@ -32,7 +32,7 @@ Cá fica o comando que instala as aplicações que considero essenciais:
 
 **NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
-sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
+sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
 ```
 
 Com este comando instalámos algumas dependências importantes, assim como as seguintes aplicações:
@@ -42,6 +42,7 @@ Com este comando instalámos algumas dependências importantes, assim como as se
 - **KolourPaint:** Um programa semelhante ao MS Paint.
 - **LibreOffice:** Um conjunto de programas semelhantes ao MS Office
 - **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Offica (usa aquele que achares melhor)
+- **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
 - **qBitTorrent:** Um cliente de BitTorrent
 - **VLC:** Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
