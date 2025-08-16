@@ -90,6 +90,8 @@ O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubis
   - Desactiva **Feral GameMode** (o CachyOS tem o Ananicy Cpp que faz o mesmo efeito)
 - Para instalar qualquer Launcher, basta clicar no seu ícone que aparece no separador esquerdo.
 - Agora os teus Launchers e jogos aparecem no separador **Windows**
+- Clica com o botão direito do rato no Launcher/Jogo instalado e escolhe **Configure**
+  - No separador **Runner Options** onde diz **Wine Options** podes escolher a versão do Proton.
 
 ## 5.1 Battle.net no Lutris
 O processo para instalar a **Battle.net** é ligeiramente diferente dos outros Launchers: 
