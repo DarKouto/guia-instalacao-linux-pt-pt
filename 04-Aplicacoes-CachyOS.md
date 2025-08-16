@@ -92,7 +92,7 @@ Dito isto, podes e **deves** actualizar o teu sistema com regularidade. A equipa
 yay
 flatpak update
 ```
-- O *yay* actualiza as aplicações dos **Repositórios Oficiais** e do **AUR**, assim como actualiza o sistema.
+- O *yay* actualiza as aplicações dos **Repositórios Oficiais** e do **AUR**, e também actualiza o sistema.
 - O *flatpak update* actualiza as aplicações **Flatpak**
 
 Não precisas de estar constantemente a fazer isto, mas pelo menos uma vez por semana é recomendado.
