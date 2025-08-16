@@ -15,11 +15,9 @@ Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux
 - Esta documentação presume que o utlizador tenha um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
 
 <hr>
-<div align="left">
-  <h3> Indice </h3>
+  <h3>Índice </h3>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md">[01 - Notas Iniciais]</a><br>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a><br>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a><br>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicações CachyOS]</a><br>
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a><br>
-</div>
