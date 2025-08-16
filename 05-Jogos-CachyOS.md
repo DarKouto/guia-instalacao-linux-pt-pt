@@ -1,3 +1,11 @@
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicacções CachyOS]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Notas-Finais.md">[06 - Notas Finais]</a>
+</div>
+<hr>
+
 # Jogos no CachyOS
 
 ---
@@ -25,3 +33,11 @@
 ### Game-Performance
 - Na Steam usar `game-performance %command%`.
 - Isto muda o power profile para performance, também pode ser feito manualmente.
+
+<hr>
+<div align="left">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicacções CachyOS]</a>
+</div>
+<div align="right">
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Notas-Finais.md">[06 - Notas Finais]</a>
+</div>
