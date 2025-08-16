@@ -55,9 +55,9 @@ Cá ficam algumas apps essenciais, copia o seguinte comando para o teu **Termina
 yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
 ```
 Com este comando instalámos as seguintes aplicações:
-- **Discover-Overlay:** uma forma de conseguirmos usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
-- **pCloud-Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
-- **Stacer-Bin:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
+- **Discover Overlay:** uma forma de conseguirmos usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
+- **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
+- **Stacer:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
 - **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
 
 ### 3.1 Para instalar qualquer outro tipo de letra:
