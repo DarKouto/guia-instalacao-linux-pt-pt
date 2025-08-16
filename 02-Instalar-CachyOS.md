@@ -1,8 +1,8 @@
 <div align="left">
-  [Capítulo Anterior](caminho-para-o-ficheiro-anterior.md)
+  [01 - Notas Iniciais](https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/01-Notas-Iniciais.md)
 </div>
 <div align="right">
-  [Capítulo Seguinte](caminho-para-o-ficheiro-seguinte.md)
+  [03 - Configurar CachyOS](https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md)
 </div>
 
 # Instalação do Sistema Operativo CachyOS Linux
