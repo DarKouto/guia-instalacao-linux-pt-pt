@@ -84,7 +84,7 @@ Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. 
 3. Caso também não exista, procuras no **Flathub** em https://flathub.org/
 
 ## 6. Actualizar Sistema e Aplicações
-Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga rigorsamente a nada.
+Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada.
 
 Dito isto, podes e **deves** actualizar o teu sistema com regularidade. A equipa por detrás do **CachyOS** está neste momento a trabalhar numa funcionalidade que permite actualizar o sistema automaticamente, mas enquanto isso não está disponível tens que o fazer manualmente.
 - O processo é muito simples, vais a Iniciar, abres a **Konsole** e escreves:
