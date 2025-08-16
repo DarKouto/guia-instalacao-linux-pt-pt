@@ -36,7 +36,7 @@ sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-ad
 ```
 
 Com este comando instalámos algumas dependências importantes, assim como as seguintes aplicações:
-- **Brave Browser:** Um browser baseado no Google Chrome mas com melhores funcionalidades e privacidade.
+- **Brave Browser:** Um browser baseado no Chromium mas com melhores funcionalidades e privacidade.
 - **Discord:** De certeza que sabes o que é Discord.
 - **Gnome-Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
 - **KolourPaint:** Um programa semelhante ao MS Paint.
