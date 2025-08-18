@@ -12,9 +12,10 @@ Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas
 
 ## 1. Aplicações Pré-Instaladas e o seu Propósito
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
-- **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
-- **GwenView**: visualizador de imagens, também permite rodar, recortar e inverter imagens, assim como ver vídeos.
 - **Firefox**: é o browser que vem instalado por defeito. Recuso-me a acreditar que não saibas o que é o Firefox.
+- **GwenView**: visualizador de imagens, também permite rodar, recortar e inverter imagens, assim como ver vídeos.
+- **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
+- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** é a tecla Windows)
 
 ## 2. Aplicações a Instalar dos Repositórios Oficiais
 Existem duas formas de instalar aplicações dos repositórios oficiais do CachyOS:
@@ -45,8 +46,7 @@ Com este comando instalámos algumas dependências importantes, assim como as se
 - **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
 - **qBitTorrent:** Um cliente de BitTorrent
-- **VLC:** Um reprodutor de vídeo avançado. Certamente também já conheces o VLC.
-
+- **VLC:** Um reprodutor de áduio e vídeo. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
 Para instalar aplicações do AUR, tens mesmo que se usar o **Terminal**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
@@ -84,7 +84,10 @@ Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. 
 2. Caso não exista, procura no **AUR** em https://aur.archlinux.org/, e corres o comando: `yay -S nome-do-pacote`
 3. Caso também não exista, procuras no **Flathub** em https://flathub.org/
 
-## 6. Actualizar Sistema e Aplicações
+## 6. Aplicações predefinidas
+Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
+
+## 7. Actualizar Sistema e Aplicações
 Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada.
 
 Dito isto, podes e **deves** actualizar o teu sistema com regularidade. A equipa por detrás do **CachyOS** está neste momento a trabalhar numa funcionalidade que permite actualizar o sistema automaticamente, mas enquanto isso não está disponível tens que o fazer manualmente.
