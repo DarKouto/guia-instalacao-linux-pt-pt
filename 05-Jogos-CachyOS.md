@@ -99,7 +99,7 @@ O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubis
 ## 5.1 Battle.net no Lutris
 O processo para instalar a **Battle.net** é ligeiramente diferente dos outros Launchers: 
 - Vai ao site https://lutris.net/games/battlenet/ e clica no botão **Install**
-- **Aceita** o pedido do teu browser para abrir a ligação no Lutris, e segue as intruções que te aparecem no ecrã:
+- **Aceita** o pedido do teu browser para abrir a ligação no Lutris, e segue as intruções que te aparecem no ecrã
   - Exemplo: da primeira vez que aparece a janela para fazer login, não faças nada, apenas fecha a janela.
 
 **NOTA**: Para a Battle.net fucionar é necessário usar uma **versão 10 ou superior** do Proton, GE-Proton ou proton-cachyos.
