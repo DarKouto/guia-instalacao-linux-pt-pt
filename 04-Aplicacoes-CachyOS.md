@@ -88,9 +88,11 @@ Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. 
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
 ## 7. Actualizar Sistema e Aplicações
-Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** actualizar o teu sistema com regularidade (uma vez por semana pelo menos)
-- Para actualizar, basta clicares no **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio), esse é o **Cachy Updater** que se activou no ínicio da configuração.
-- Caso queiras fazer este processo manualmente abres a **Konsole** (Terminal) e escreves:
+Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** actualizar o teu sistema com regularidade (uma vez por semana pelo menos).
+
+Há duas formas para **actulizar o sistema** escolhe o método que preferires:
+1. Clicar no **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio), esse é o **Cachy Updater** que se activou no ínicio da configuração.
+2. Abrir a **Konsole** (Terminal) e escrever:
 ```bash
 yay
 flatpak update
