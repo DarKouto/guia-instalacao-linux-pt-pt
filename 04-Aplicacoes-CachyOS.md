@@ -27,11 +27,11 @@ Qual a melhor abordagem? Depende. Eis a minha opinião:
   - Pesquisas pela aplicação que queres instalar
   - Clicas com o botão direito no nome do pacote e escolhes "**+ Instalar**"
   - Clicas no **"Visto"** que aparece no canto superior esquerdo
-- Para instalar **várias aplicações** de uma só vez, usar o **Terminal** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
+- Para instalar **várias aplicações** de uma só vez, usar a **Konsole** (Terminal) é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
 Cá fica o comando que instala as aplicações que considero essenciais:
 
-**NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
 ```
@@ -49,9 +49,9 @@ Com este comando instalámos algumas dependências importantes, assim como as se
 - **VLC:** Um reprodutor de áduio e vídeo. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
-Para instalar aplicações do AUR, tens mesmo que se usar o **Terminal**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
+Para instalar aplicações do AUR, tens mesmo que se usar a **Konsole**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
 
-Cá ficam algumas apps essenciais, copia o seguinte comando para o teu **Terminal**:
+Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole**:
 ```bash
 yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
 ```
@@ -67,7 +67,7 @@ Com este comando instalámos as seguintes aplicações:
 - Selecionar **Instalar de um Ficheiro** e procurar os ficheiros .ttf transferidos
 
 ## 4. Aplicações Flatpak/Flathub
-Para instalar Flatpaks, também temos que usar o Terminal, mas apenas precisamos de ir ao site https://flathub.org/, procurar a aplicação desejada, clicar na setinha ao lado do botão Install e copiar o código que lá está para o nosso Terminal.
+Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos de ir ao site https://flathub.org/, procurar a aplicação desejada, clicar na setinha ao lado do botão Install e copiar o código que lá está para a **Konsole**.
 
 Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
 ```bash
