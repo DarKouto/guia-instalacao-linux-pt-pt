@@ -73,7 +73,7 @@ O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games 
 
 ### 4.1 Heroic Games Launcher (Flatpak)
 Em alguns PC's, a versão oficial do **Heroic** pode ter alguns problemas de estabilidade. Caso isso suceda, temos que instalar a sua versão **Flatpak**, assim como a versão **Flatpak** do **MangoHud**.
-- Abre o **Terminal** e escreve:
+- Abre a **Konsole** (Terminal) e escreve:
 ```bash
 flatpak install com.heroicgameslauncher.hgl
 ```
