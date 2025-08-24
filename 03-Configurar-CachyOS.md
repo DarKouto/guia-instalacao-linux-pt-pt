@@ -86,6 +86,7 @@ sudo nano /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 - **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca. Viste? Não custou nada.
+
 "O Terminal é nosso amigo" - Linus Torvalds, provavelmente.
 <hr>
 <div align="left">
