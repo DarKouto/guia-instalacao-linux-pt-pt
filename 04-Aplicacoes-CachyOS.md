@@ -92,7 +92,7 @@ Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e n
 
 Há duas formas para **actulizar o sistema**, escolhe o método que preferires:
 1. Clicar no **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio), esse é o **Cachy Updater** que se activou no ínicio da configuração.
-2. Abrir a **Konsole** (Terminal) e escrever:
+2. Ir a **Iniciar**, procurar por **Konsole** (Terminal) e escrever:
 ```bash
 yay
 flatpak update
