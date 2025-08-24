@@ -56,8 +56,8 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 
 ## 6. Aceder ao Disco Windows (NTFS)
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
-- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**), copia os seguintes comandos para lá
-- **NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
+- **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo pacman -S ntfs-3g
 ```
@@ -70,8 +70,8 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 
 **NOTA:** Este é o passo mais complexo, mas se seguires o guia, nada tens a temer. **Tranquilo!**
-- Vai ao **Menu Iniciar** e procura por **Konsole** (**Terminal**), copia os seguintes comandos para lá
-- **NOTA:** para colar texto no terminal, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
+- **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo os-prober
 ```
@@ -80,8 +80,8 @@ sudo nano /etc/default/grub
 ```
 - Este segundo comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
 - Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
-- Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar ao terminal.
-- **Finalmente** copia o seguinte código para o terminal:
+- Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar à **Konsole**.
+- **Finalmente** copia o seguinte código para a **Konsole**:
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
