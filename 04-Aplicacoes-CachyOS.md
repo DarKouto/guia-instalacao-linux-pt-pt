@@ -7,8 +7,15 @@
 <hr>
 
 # Aplicações CachyOS
+Existem várias formas de instalar software no CachyOS, mas a principais são as seguintes:
+1. Repositórios Oficiais
+2. AUR (Arch User Repository)
+3. Flatpak/Flathub
+Um **repositório** é basicamente um servidor onde o software está armazenado, ao qual pedimos para instalar um certo pacote, podes pensar nisso como se fosse uma **App Store** ou **Play Store**. Atualizar ou remover software também é feito através do **repositório**.
 
-Está finalmente na hora de explicar quais sãos as aplicações pré-instaladas no CachyOS, e quais algumas aplicações essenciais recomendo instalar.
+As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém muitas vezes programas que não se encontram nos repositórios oficiais.
+
+Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
 
 ## 1. Aplicações Pré-Instaladas e o seu Propósito
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
@@ -78,16 +85,10 @@ Com este comando instalámos as seguintes aplicações:
 - **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Usar só quando o Discord oficial está com algum problema.
 - **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flatpak, apenas necessário em casos específicos.
 
-## 5. Outras Aplicações
-Qualquer outra aplicação que queiras instalar, terás que ser tu a pesquisar. Mas lembra-te da ordem de preferências:
-1. Procura a app no **Octopi**, que instala directamente dos repositórios oficiais
-2. Caso não exista, procura no **AUR** em https://aur.archlinux.org/, e corres o comando: `yay -S nome-do-pacote`
-3. Caso também não exista, procuras no **Flathub** em https://flathub.org/
-
-## 6. Aplicações predefinidas
+## 5. Aplicações predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
-## 7. Actualizar Sistema e Aplicações
+## 6. Actualizar Sistema e Aplicações
 Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** actualizar o teu sistema com regularidade (uma vez por semana pelo menos).
 
 Há duas formas para **actulizar o sistema**, escolhe o método que preferires:
