@@ -29,8 +29,9 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 
 ## 2. Aplicações a Instalar dos Repositórios Oficiais
 Existem duas formas de instalar aplicações dos **Repositórios Oficiais** do CachyOS:
-1. Usar a **Konsole** (Terminal) com o gestor de pacotes do Arch chamado **pacman**, exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
-2. Ir ao **Iniciar** e procurar o **Octopi**, que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
+1. Usar a **Konsole** (Terminal) com o gestor de pacotes do **Arch** chamado **pacman**
+   - Exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
+3. Ir ao **Iniciar** e procurar o **Octopi**, que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
 
 Qual a melhor abordagem? Depende. Eis a minha opinião:
 - Para instalar **uma única aplicação**, o **Octopi** é mais fácil e intuitivo:
