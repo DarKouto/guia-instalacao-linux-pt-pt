@@ -47,7 +47,9 @@ Qual a melhor abordagem? Depende:
 - Para instalar **uma única aplicação** o **Octopi** é melhor, pois é mais fácil e intuitivo.
 - Para instalar **várias aplicações** de uma só vez, a **Konsole** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
-Cá fica o comando que instala as aplicações que considero essenciais:
+### Aplicações Essenciais
+
+Ficam aqui algumas aplicações que considero essenciais. Como são várias aplicações de uma só vez, o melhor é usar a **Konsole**, copia este comando para o teu Terminal.
 
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 ```bash
