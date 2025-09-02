@@ -24,7 +24,7 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
 - **Firefox**: é o browser/navegador que vem instalado por defeito.
 - **GwenView**: visualizador e editor imagens, também permite ver vídeos.
-- **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
+- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
 
 ## 2. Aplicações a Instalar dos Repositórios Oficiais
