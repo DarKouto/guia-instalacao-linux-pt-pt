@@ -28,19 +28,24 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
 
 ## 2. Aplicações a Instalar dos Repositórios Oficiais
-Existem duas formas de instalar aplicações dos **Repositórios Oficiais** do CachyOS:
-1. Usar a **Konsole** (Terminal) com o gestor de pacotes do **Arch Linux** chamado **pacman**
-   - Exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
-2. Ir ao **Iniciar** e procurar o **Octopi**, que é um ambiente gráfico que ajuda a pesquisar, instalar ou remover pacotes dos repositórios oficiais.
 
-Qual a melhor abordagem? Depende. Eis a minha opinião:
+Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
-Para instalar **uma única aplicação**, o **Octopi** é mais fácil e intuitivo:
-- Pesquisas pela aplicação que queres instalar
-- Clicas com o botão direito no nome do pacote e escolhes "**+ Instalar**"
-- Clicas no **"Visto"** que aparece no canto superior esquerdo
+### 1. Octopi (Ambiente Gráfico)
+- Vai a **Iniciar** e procura **Octopi**
+- Pesquisa pela aplicação que queres instalar
+- Clica com o botão direito no nome do pacote e escolhes "**+ Instalar**"
+- Clica no **"Visto"** que aparece no canto superior esquerdo
+- Para remover uma aplicação o processo é o mesmo, mas selecionas **Remover**
 
-Para instalar **várias aplicações** de uma só vez, usar a **Konsole** (Terminal) é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
+### 2. Konsole (Terminal)
+- Vai a **Iniciar** e procura **Konsole**
+- Usa o gestor de pacotes do **Arch Linux** chamado **pacman**
+  - Exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
+
+Qual a melhor abordagem? Depende:
+- Para instalar **uma única aplicação** o **Octopi** é melhor, pois é mais fácil e intuitivo.
+- Para instalar **várias aplicações** de uma só vez, a **Konsole** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
 Cá fica o comando que instala as aplicações que considero essenciais:
 
