@@ -16,7 +16,7 @@ Um **repositório** é basicamente um servidor onde o software está armazenado,
 
 As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém software que por vezes não se encontra nos repositórios oficiais.
 
-Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
+Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
 
 **NOTA**: Qualquer aplicação que não esteja disponível nestas 3 fontes, terás que ser tu pŕoprio a investigar como a instalar, ou se há um software alternativo. Faz parte do processo, é a luta.
 
