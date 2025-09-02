@@ -28,13 +28,6 @@ Uma **Distro Linux**, de forma muito simplificada, é um sistema operativo compl
 
 A distribuição que uso e que esta documentação aborda é o **CachyOS**, que é um "fork" do **Arch Linux**. Conta com algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
 
-## Instalar Software em Linux
-A forma mais comum de instalar programas e aplicações em **Linux** é através do **repositório** de software oficial da própria distro. Um **repositório** é basicamente um servidor onde o software está armazenado, ao qual pedimos para instalar um certo pacote. Atualizar ou remover software também é feito através do **repositório**.
-
-As distros baseadas em **Arch** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém muitas vezes programas que não se encontram nos repositórios oficiais.
-
-Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa, bem como todas as bibliotecas e dependências necessárias para o executar.
-
 ## Vantagens de usar Linux
 *"Eu tenho o Windows 10 e funciona, porque razão devo eu mudar agora para Linux?"* Existem várias razões, a começar pelo facto de que o Windows 10 vai deixar de ser suportado em Outubro de 2025.
 
