@@ -25,7 +25,7 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 - **Firefox**: é o browser que vem instalado por defeito. Recuso-me a acreditar que não saibas o que é o Firefox.
 - **GwenView**: visualizador de imagens, também permite rodar, recortar e inverter imagens, assim como ver vídeos.
 - **Kate**: editor de texto simples, ideal para tirar notas, semelhante ao **Bloco de Notas** ou **Notepad++**
-- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** é a tecla Windows)
+- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
 
 ## 2. Aplicações a Instalar dos Repositórios Oficiais
 Existem duas formas de instalar aplicações dos repositórios oficiais do CachyOS:
