@@ -63,8 +63,7 @@ sudo pacman -S ntfs-3g
 ```bash
 sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
-- **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
-- **Reinicia o PC.** Agora já podes aceder e ver o conteúdo dos discos NTFS do Windows.
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 
 ## 7. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
