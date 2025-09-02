@@ -8,9 +8,9 @@
 
 # Aplicações CachyOS
 Existem várias formas de instalar software no CachyOS, mas a principais são:
-1. Repositórios Oficiais
-2. AUR (Arch User Repository)
-3. Flatpak/Flathub
+1. **Repositórios Oficiais** do CachyOS
+2. **AUR** (Arch User Repository)
+3. **Flatpak/Flathub**
 
 Um **repositório** é basicamente um servidor onde o software está armazenado, ao qual pedimos para instalar um certo pacote, podes pensar nisso como se fosse uma **App Store** ou **Play Store**. Atualizar ou remover software também é feito através do **repositório**.
 
