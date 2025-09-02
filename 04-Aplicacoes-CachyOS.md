@@ -66,7 +66,7 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
 - **qBitTorrent:** Um cliente de BitTorrent
-- **VLC:** Um reprodutor de áduio e vídeo. Certamente também já conheces o VLC.
+- **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
 Para instalar aplicações do AUR, tens mesmo que se usar a **Konsole**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
@@ -76,7 +76,7 @@ Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole
 yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
 ```
 Com este comando instalámos as seguintes aplicações:
-- **Discover Overlay:** uma forma de conseguirmos usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
+- **Discover Overlay:** permite usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **Stacer:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
 - **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
@@ -95,7 +95,7 @@ flatpak install spotify vesktop warehouse
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
-- **Vesktop:** é um Discord alternativo, que usa a versão do browser numa app. Usar só quando o Discord oficial está com algum problema.
+- **Vesktop:** é um Discord alternativo, que usa a versão de browser numa app. Usar apenas se o Discord oficial estiver com algum problema.
 - **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flatpak, apenas necessário em casos específicos.
 
 ## 5. Aplicações predefinidas
