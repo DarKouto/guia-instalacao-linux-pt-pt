@@ -52,7 +52,7 @@ Qual a melhor abordagem? Depende:
 Ficam aqui algumas aplicações que considero essenciais. Como são várias aplicações de uma só vez, o melhor é usar a **Konsole**, copia este comando para o teu Terminal.
 
 ```bash
-sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent vlc vlc-plugins-all yay zsh
+sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent stacer vlc vlc-plugins-all yay zsh
 ```
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
 
@@ -66,6 +66,7 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
 - **qBitTorrent:** Um cliente de BitTorrent
+- **Stacer:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
@@ -78,7 +79,6 @@ yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
 Com este comando instalámos as seguintes aplicações:
 - **Discover Overlay:** permite usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
-- **Stacer:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
 - **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
 
 ### 3.1 Para instalar qualquer outro tipo de letra:
