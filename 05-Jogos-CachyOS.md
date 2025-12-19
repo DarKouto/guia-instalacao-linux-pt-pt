@@ -71,18 +71,6 @@ O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games 
   - Aqui poderás selecionar a versão **Proton** que pretendes usar
 - Após instalado, podes explorar outras definições de cada jogo, como comandos de lançamento.
 
-### 4.1 Heroic Games Launcher (Flatpak)
-Em alguns PC's, a versão oficial do **Heroic** pode ter alguns problemas de estabilidade. Caso isso suceda, temos que instalar a sua versão **Flatpak**, assim como a versão **Flatpak** do **MangoHud**.
-- Abre a **Konsole** (Terminal) e escreve:
-```bash
-flatpak install com.heroicgameslauncher.hgl
-```
-```bash
-flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
-```
-- Quando te perguntar que versão do MangoHud queres instalar, escolhe a 23 e a 24. Talvez tenhas que correr este comando 2 vezes para instalar as 2 versões.
-De resto, o funcionamento da versão Flatpak é igual à versão normal.
-
 ## 5. Lutris (Todos os outros Launchers)
 O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubisoft, etc. Também permite instalar jogos locais.
 - Vai a **Iniciar** e procura por **Lutris**
