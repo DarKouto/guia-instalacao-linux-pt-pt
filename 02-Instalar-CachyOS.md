@@ -20,6 +20,7 @@ Se já instalaste sistemas operativos, certamente já estarás familizarizado co
 - **balena Etcher** [https://etcher.balena.io/](https://etcher.balena.io/)
 - **Ventoy** [https://www.ventoy.net/](https://www.ventoy.net/)
 - **Rufus** [https://rufus.ie/](https://rufus.ie/)
+
 Após este processo estar concluído, reinicia o PC com a Pen Drive conectada.
 
 ### 3. Configurar a BIOS
