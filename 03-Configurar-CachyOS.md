@@ -72,7 +72,8 @@ Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**,
 
 **NOTA:** Este é o passo mais complexo, mas se seguires o guia, nada tens a temer. **Tranquilo!**
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
-**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no meio da roda do rato ou fazes **CTRL+SHIFT+V**
+  
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo os-prober
 ```
