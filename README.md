@@ -1,5 +1,7 @@
 # Instalação e Configuração do CachyOS Linux em PT-PT
 
+**ATUALIZADO 08 JANEIRO 2026**
+
 Esta documentação foi criada e mantida por mim ao longo de mais de um ano, durante a minha própria transição do Windows para o **Linux**. O meu objetivo era registar e organizar todas as descobertas, testes e configurações que fiz.
 
 Ao partilhar esta documentação, a minha intenção é facilitar a transição para quem quer mudar para o **Linux** e poupar-lhes o tempo de investigação que eu próprio gastei. Considero esta partilha uma forma de retribuir à comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua-mãe.
@@ -12,7 +14,7 @@ Acredito que com este guia qualquer pessoa pode fazer a transição para **Linux
 
 ## Outras Informações Úteis
 - Esta documentação presume que o utlizador tenha um conhecimento básico sobre computadores, instalação de sistemas operativos (Windows ou MacOS) assim como formas de aceder à BIOS duma máquina.
-- Tudo que está aqui descrito é verdade e factual ao dia **18 de Agosto de 2025**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
+- Tudo que está aqui descrito é verdade e factual ao dia **08 de Janeiro de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá procurar ter o cuidado de manter esta documentação e repositório actualizados, visto que ele próprio é um utilizador de CachyOS.
 - O autor não assume qualquer responsabilidade por erros ou danos que o utilizador possa cometer. O uso desta documentação é da inteira responsabilidade de quem a segue.
 
