@@ -63,7 +63,7 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **Gnome-Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
 - **KolourPaint:** Um programa semelhante ao MS Paint.
 - **LibreOffice:** Um conjunto de programas semelhantes ao MS Office
-- **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Offica (usa aquele que achares melhor)
+- **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Office (usa aquele que achares melhor)
 - **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
 - **qBitTorrent:** Um cliente de BitTorrent
@@ -75,35 +75,35 @@ Para instalar aplicações do AUR, tens mesmo que se usar a **Konsole**, com um 
 
 Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole**:
 ```bash
-yay -S discover-overlay pcloud-drive stacer-bin ttf-ms-win10-auto
+yay -S discover-overlay pcloud-drive ttf-ms-win10-auto
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Discover Overlay:** permite usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
+**NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem dado alguns problemas na instalação, caso te aconteça ignora, e instalas os tipos de letra manualmente.
 
 ### 3.1 Para instalar qualquer outro tipo de letra:
-- Procurar na internet e transferir os ficheiros .ttf
-- Ir ao **Iniciar** e procurar por **Gestão de Tipos de Letra**
-- Selecionar **Instalar de um Ficheiro** e procurar os ficheiros .ttf transferidos
+- Procura na internet e transfere os ficheiros .ttf
+- Vai ao **Iniciar** e procura por **Gestão de Tipos de Letra**
+- Seleciona **Instalar de um Ficheiro** e procura os ficheiros .ttf transferidos
 
 ## 4. Aplicações Flatpak/Flathub
 Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos de ir ao site https://flathub.org/, procurar a aplicação desejada, clicar na setinha ao lado do botão Install e copiar o código que lá está para a **Konsole**.
 
 Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
 ```bash
-flatpak install spotify vesktop warehouse
+flatpak install spotify tuxguitar 
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
-- **Vesktop:** é um Discord alternativo, que usa a versão de browser numa app. Usar apenas se o Discord oficial estiver com algum problema.
-- **Warehouse:** é um programa que nos permite navegar a estrutura de pastas do Flatpak, apenas necessário em casos específicos.
+- **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 ## 5. Aplicações predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
 ## 6. Actualizar Sistema e Aplicações
-Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** actualizar o teu sistema com regularidade (uma vez por semana pelo menos).
+Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** atualizar o teu sistema com regularidade (uma vez por semana pelo menos).
 
 Há duas formas para **actulizar o sistema**, escolhe o método que preferires:
 1. Clicar no **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio), esse é o **Cachy Updater** que se activou no ínicio da configuração. Depois é só seguir as instruções que aparecem no terminal. **NOTA**: quando aparecer a "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
