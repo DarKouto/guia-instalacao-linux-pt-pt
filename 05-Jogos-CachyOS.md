@@ -19,9 +19,9 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 - O *Dead Cells* e o *Hollow Knight: Silksong* têm versão nativa (não precisam de Proton).
 - O *Remnant: From The Ashes* corre muito melhor com o **Proton-GE**.
 - O *WH40K: Space Marine 2* só corre bem com o **Proton 9.0.4** (oficial).
-- O *20XX** só abre com uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior.
+- O *20XX* só abre com uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior.
 
-Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.com/](https://www.protondb.com/). Aqui encontramos os jogos, com relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento. Atenção que isto não é a Verdade Universal, mas sim um guia de orientação que nos poupa muito trabalho em testes.
+Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.com/](https://www.protondb.com/). Aqui encontramos os jogos, com relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento. Atenção que isto não é a Verdade Universal, o que resulta para uns jogadores pode não resultar para outros. Isto é simplesmente um guia de orientação que nos poupa muito trabalho em testes.
 
 ## 1. Instalar Gaming Packages
 Vai a **Iniciar** e procura por **CachyOS Hello**
@@ -32,16 +32,16 @@ O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assi
 
 ## 2. Steam
 Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
-- Vai a **Iniciar** e procura por **Steam (Runtime)** (não abras a versão Steam (Native) pois é mais pesada e desnecessária)
-- Entra com a tua conta, e faz as tuas configurações habituais, como farias no Windows
+- Vai a **Iniciar** e procura por **Steam**
+- Entra com a tua conta, e faz as tuas configurações habituais, como farias normalmente.
 - Vai a **Definições** e depois **Compatibilidade**
-- Irás reparar que por defeito já aparece o **proton-cachyos** selecionado
+- Irás reparar que por defeito já aparece o **proton-cachyos (native)** selecionado
 - Clica nesse menu *dropdown* e seleciona as seguintes versões (de cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão, ficando também disponíveis nos outros Launchers):
   - Proton Experimental
   - Proton 10.0-*nr-mais-recente*
   - Proton 9.0.4
   - Proton 8.0-5
-- Após estarem todas instaladas, torna a selecionar o **proton-cachyos**
+- Após estarem todas instaladas, seleciona o **proton-cachyos (steam linux runtime)**, segundo o guia oficial, é a versão que se deve usar por defeito na aplicação oficial da Steam.
 - Agora instala um jogo qualquer. Após conclusão, clicas com o **botão direito do rato** no jogo e vais a **Propriedades**:
   - No separador **Geral**, nas **Opções de Arranque** recomendo escrever: `game-performance mangohud %command%`
     - **game-performace** é um *daemon/serviço* que automaticamente coloca o teu PC em modo de Performance assim que abres um jogo, e que retorna ao normal assim que o fechas.
