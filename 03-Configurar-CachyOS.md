@@ -28,14 +28,14 @@ Isto é uma preferência pessoal, pois considero o tema oficial do CachyOS demas
 - **Reinicia o PC** para que todas as alterações sejam aplicadas corretamente.
 
 ## 3. Desativar o KWallet
-O **KWallet** é um gestor de passwords cuja utilidade é discutível para a maioria dos utilizadores. Além disso, a sua janela está sempre a aparecer, por isso é melhor desativá-lo.
+O **KWallet** é um gestor de passwords cuja utilidade é no mínimo discutível. Como tal o melhor é desativá-lo.
 - Vai ao **Menu Iniciar** e procura por **Carteira KDE** (**Wallet**), e faz estes 2 passos **pela ordem descrita**:
   1. **Desativa** o visto da opção **inferior**, clica em **Aplicar**
   2. **Desativa** o visto da opção **superior**, clica em **Aplicar**
 - Fecha a janela. O KWallet já não te chateia mais.
 
 ## 4. Configurar o Dolphin (Gestor de Ficheiros)
-O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows ou **Finder** no macOS, mas muito mais poderoso. Vamos fazer uma ligeira configuração para melhorar a experiência.
+O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador de Ficheiros** no Windows ou **Finder** no MacOS, mas muito mais poderoso. Vamos fazer uma ligeira configuração para melhorar a experiência.
 - Vai ao **Menu Iniciar** e procura por **Dolphin** (caso não esteja já afixado no Painel)
 - No Dolphin, clica no **Menu Hamburger** (as 3 linhas horizontais no canto superior esquerdo), procura **Configurar** e depois seleciona **Configure Dolphin**.
 - Na parte lateral de **Interface**:
