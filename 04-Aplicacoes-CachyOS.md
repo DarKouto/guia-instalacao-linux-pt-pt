@@ -83,7 +83,7 @@ Com este comando instalámos as seguintes aplicações:
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows (ex: Arial, Verdana, Times New Roman)
 
-**NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem dado alguns problemas na instalação, caso te aconteça, ignora o pacote, e instalas os tipos de letra manualmente.
+**NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem tido algumas falhas na instalação, caso te aconteça, ignora o pacote, e instalas os tipos de letra manualmente.
 
 ### 3.1 Para instalar qualquer outro tipo de letra:
 - Procura na internet e transfere os ficheiros .ttf
@@ -91,11 +91,11 @@ Com este comando instalámos as seguintes aplicações:
 - Seleciona **Instalar de um Ficheiro** e procura os ficheiros .ttf transferidos
 
 ## 4. Aplicações Flatpak/Flathub
-Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos de ir ao site https://flathub.org/, procurar a aplicação desejada, clicar na setinha ao lado do botão Install e copiar o código que lá está para a **Konsole**.
+Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos procurar a aplicação desejada em https://flathub.org/, clicar na setinha ao lado do botão *Install* e copiar o código que lá está para a **Konsole**.
 
 Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
 ```bash
-flatpak install spotify tuxguitar 
+flatpak install spotify tuxguitar
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
