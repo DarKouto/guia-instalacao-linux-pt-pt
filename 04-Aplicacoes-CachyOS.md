@@ -79,10 +79,10 @@ Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole
 yay -S discover-overlay pcloud-drive ttf-ms-win10-auto
 ```
 Com este comando instalámos as seguintes aplicações:
-- **Discover Overlay:** permite usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
+- **Discover Overlay:** permite usar a funcionalidade overlay no Discord, que ainda não está disponível na app nativa para Linux.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
-- **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correto.
-**NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem dado alguns problemas na instalação, caso te aconteça ignora, e instalas os tipos de letra manualmente.
+- **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows (ex: Arial, Verdana, Times New Roman)
+**NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem dado alguns problemas na instalação, caso te aconteça, ignora o pacote, e instalas os tipos de letra manualmente.
 
 ### 3.1 Para instalar qualquer outro tipo de letra:
 - Procura na internet e transfere os ficheiros .ttf
