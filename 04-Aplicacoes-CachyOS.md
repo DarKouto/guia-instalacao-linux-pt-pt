@@ -81,7 +81,7 @@ yay -S discover-overlay pcloud-drive ttf-ms-win10-auto
 Com este comando instalámos as seguintes aplicações:
 - **Discover Overlay:** permite usar a funcionalidade overlay no Discord, ainda não disponível na app nativa para Linux.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
-- **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correcto.
+- **TTF-MS-Win10-Auto:** são os principais tipos de letra do Windows. Necessário para ver documentos .doc ou .docx no formato correto.
 **NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem dado alguns problemas na instalação, caso te aconteça ignora, e instalas os tipos de letra manualmente.
 
 ### 3.1 Para instalar qualquer outro tipo de letra:
@@ -100,21 +100,21 @@ Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
-## 5. Aplicações predefinidas
+## 5. Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
-## 6. Actualizar Sistema e Aplicações
-Contrariamente ao Windows que te obriga a actualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** atualizar o teu sistema com regularidade (uma vez por semana pelo menos).
+## 6. Atualizar Sistema e Aplicações
+Contrariamente ao Windows que te obriga a atualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** atualizar o teu sistema com regularidade (uma vez por semana pelo menos).
 
-Há duas formas para **actulizar o sistema**, escolhe o método que preferires:
-1. Clicar no **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio), esse é o **Cachy Updater** que se activou no ínicio da configuração. Depois é só seguir as instruções que aparecem no terminal. **NOTA**: quando aparecer a "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
+Há duas formas para **atulizar o sistema**, escolhe o método que preferires:
+1. Clicar no **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio), esse é o **Cachy Updater** que se ativou no ínicio da configuração. Depois é só seguir as instruções que aparecem no terminal. **NOTA**: quando aparecer a "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
 2. Ir a **Iniciar**, procurar por **Konsole** (Terminal) e escrever:
 ```bash
 yay
 flatpak update
 ```
-- O *yay* actualiza as aplicações dos **Repositórios Oficiais** e do **AUR**, e também actualiza o sistema.
-- O *flatpak update* actualiza as aplicações **Flatpak**
+- O *yay* atualiza as aplicações dos **Repositórios Oficiais** e do **AUR**, e também atualiza o sistema.
+- O *flatpak update* atualiza as aplicações **Flatpak**
 
 <hr>
 <div align="left">
