@@ -54,12 +54,12 @@ Ficam aqui algumas aplicações que considero essenciais. Como são várias apli
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
 
 ```bash
-sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent stacer vlc vlc-plugins-all yay zsh
+sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent stacer vesktop vlc vlc-plugins-all yay zsh
 ```
 
 Com este comando instalámos as seguintes aplicações (assimo como algumas dependências importantes):
 - **Brave Browser:** Um browser baseado no Chromium mas com melhores funcionalidades e privacidade.
-- **Discord:** De certeza que sabes o que é Discord.
+- **Discord:** A aplicação oficial do Discord, famosa plataforma de chat.
 - **Gnome-Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
 - **KolourPaint:** Um programa semelhante ao MS Paint.
 - **LibreOffice:** Um conjunto de programas semelhantes ao MS Office
@@ -67,7 +67,8 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos
 - **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos)
 - **qBitTorrent:** Um cliente de BitTorrent
-- **Stacer:** um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
+- **Stacer:** Um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner no Windows, mas muito melhor.
+- **Vesktop:** É o Discord mas numa aplicação alternativa, com algumas funcionalidades extra.
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
 ## 3. Aplicações a Instalar do AUR
