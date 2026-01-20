@@ -67,10 +67,10 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
 - Reinicia o PC.
 
-## 7. Ativar o Menu de Seleção de SO no Arranque (Grub)
+## 7. Ativar a Opção Windows no Menu Arranque (GRUB)
 Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
-  
+
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo os-prober
@@ -81,7 +81,7 @@ kate /etc/default/grub
 - Este comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
 - Na parte final vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
 - Grava o ficheiro e escreve a tua password quando pedir.
-- **Finalmente** copia o seguinte código para a **Konsole**:
+- **Finalmente** copia o seguinte comando para a **Konsole**:
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
