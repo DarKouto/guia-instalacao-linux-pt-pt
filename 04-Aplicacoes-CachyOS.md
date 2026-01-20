@@ -18,7 +18,7 @@ As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repo
 
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
 
-**NOTA**: Na eventualidade de precisas de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
+**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
 ## 1. Aplicações Pré-Instaladas e o seu Propósito
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
@@ -58,9 +58,9 @@ sudo pacman -S brave-bin discord dolphin-plugins flatpak gnome-calculator kio-ad
 ```
 
 Com este comando instalámos as seguintes aplicações (assimo como algumas dependências importantes):
-- **Brave Browser:** Um browser baseado no Chromium mas com melhores funcionalidades e privacidade.
+- **Brave:** Um browser baseado no Chromium mas com melhores funcionalidades e privacidade.
 - **Discord:** A aplicação oficial do Discord, famosa plataforma de chat.
-- **Gnome-Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
+- **Gnome Calculator:** Uma calculadora simples, considero-a melhor do que a KCalc que vem pré-instalada no KDE Plasma.
 - **KolourPaint:** Um programa semelhante ao MS Paint.
 - **LibreOffice:** Um conjunto de programas semelhantes ao MS Office
 - **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Office (usa aquele que achares melhor)
