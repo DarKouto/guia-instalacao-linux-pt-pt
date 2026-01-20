@@ -17,7 +17,6 @@ Esta janela abre automaticamente assim que entras no sistema.
 - **Desativa** a opção **Launch at Start** (no canto inferior direito).
 - Clica em **Apps/Tweaks**.
   - **Ativa** as opções **Ananicy Cpp**, **Bluetooth** e **Cachy Update**
-  - Clica no botão **Rank Mirrors** e espera que o processo termine. Isto serve para selecionar o servidor mais rápido para instalares software e atualizares o sistema.
 - Fecha a janela.
 
 ## 2. Mudar o Tema Global
