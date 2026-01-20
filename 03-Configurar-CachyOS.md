@@ -69,8 +69,6 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 
 ## 7. Ativar o Menu de Seleção de SO no Arranque (Grub)
 Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
-
-**NOTA:** Este é o passo mais complexo, mas se seguires o guia, nada tens a temer. **Tranquilo!**
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
   
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
@@ -78,18 +76,17 @@ Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**,
 sudo os-prober
 ```
 ```bash
-sudo nano /etc/default/grub
+kate /etc/default/grub
 ```
-- Este segundo comando vai abrir um ficheiro de texto. Usa as setas do teclado para navegares para o fim da página.
-- Quando encontrares a linha que diz `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
-- Carrega em **CTRL+O** para gravar o ficheiro, **Enter** para confirmar e em **CTRL+X** para fechar e voltar à **Konsole**.
+- Este comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
+- Na parte final vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
+- Grava o ficheiro e escreve a tua password quando pedir.
 - **Finalmente** copia o seguinte código para a **Konsole**:
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
-- **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca. Viste? Não custou nada.
+- **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
 
-"O Terminal é nosso amigo" - Linus Torvalds, provavelmente.
 <hr>
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a>
