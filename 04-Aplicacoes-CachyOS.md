@@ -18,7 +18,7 @@ As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repo
 
 Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
 
-**NOTA**: Qualquer aplicação que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar, ou se há um software alternativo. Faz parte do processo, é a luta.
+**NOTA**: Na eventualidade de precisas de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
 ## 1. Aplicações Pré-Instaladas e o seu Propósito
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
