@@ -60,9 +60,6 @@ Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no forma
 
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
 ```bash
-sudo pacman -S ntfs-3g
-```
-```bash
 sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
 - Reinicia o PC.
@@ -78,8 +75,8 @@ sudo os-prober
 ```bash
 kate /etc/default/grub
 ```
-- Este comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
-- Na parte final vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
+- Este segundo comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
+- Na parte final deste ficheiro, vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
 - Grava o ficheiro e escreve a tua password quando pedir.
 - **Finalmente** copia o seguinte comando para a **Konsole**:
 ```bash
