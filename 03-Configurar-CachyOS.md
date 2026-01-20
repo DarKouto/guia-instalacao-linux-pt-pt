@@ -60,12 +60,15 @@ Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no forma
 
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
 ```bash
+sudo pacman -S ntfs-3g
+```
+```bash
 sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
 - Reinicia o PC.
 
-## 7. Ativar a Opção Windows no Menu Arranque (GRUB)
-Caso o teu sistema operativo Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
+## 7. Mostrar a Opção do Windows no Menu de Arranque (GRUB)
+Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
 **NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
