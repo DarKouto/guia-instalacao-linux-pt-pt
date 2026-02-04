@@ -48,18 +48,18 @@ Eis o que escolher em cada um dos separadores:
 - **Partitions**, escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
   - Caso vás usar Dual-Boot (Recomendado para iniciantes), escolhes **Instalar Paralelamente**. Em baixo, clicas na partição **Actual** (colorida), na partição **Depois** usas o "slider" para definir o tamanho da partição do CachyOS
     - Caso tenhas um 2º Disco, ou queiras usar somente CachyOS, selecionas a opção **Apagar Disco**. E fazes seguinte. Fácil.
-   
-  - No separador **Desktop**, escolhes o ambiente gráfico (o Desktop Environment - DE). Por defeito aparece o **Plasma Desktop** também conhecido como **KDE Plasma**. Escolhe esse pois é o DE com o qual iremos trabalhar. E porque é de longe o melhor na minha opinião.
-  - No separador **Packages**, escolhes pacotes de software adicionais. Por norma, apenas precisas de selecionar **Printing Support**, e **HP Printer/Scanner support**, caso tenhas ou vás usar uma impressora HP.
-  - No separador **Users**, escolhes o teu nome de utilizador, password, e nome do PC.
-    - No **Nome Completo** escreves o teu primeiro e último nome
-    - No **Nome de Utilizador** escreves um username, tudo com letras minúsculas e sem espaços
-    - No **Nome do Computador**: escreves o nome que queres dar à tua máquina, uma boa prática é chamares: `oteuusername-cachyos`
-    - Em **Password**: escreves a tua password, tem que ter no mínimo 6 caracteres, e pode ser mudada à posterior.
+
+- **Desktop**: escolhe **Plasma Desktop**, também conhecido como **KDE Plasma**. É o DE com o qual iremos trabalhar neste guia. E porque é o melhor na minha opinião.
+- **Packages**: por norma, apenas precisas de selecionar **Printing Support** (caso tenhas impressora) e também **HP Printer/Scanner support** (caso o fabricante seja a **HP**).
+- **Users**: escolhes o teu nome de utilizador, password, e nome do PC.
+    - **Nome Completo** escreves o teu primeiro e último nome. Ou só o primeiro. Como preferires.
+    - **Nome de Utilizador** escreves o teu *username*, tudo com **letras minúsculas** e **sem espaços**.
+    - **Nome do Computador**: escreves o nome que queres dar à tua máquina, uma boa prática é chamares: `oteuusername-cachyos`
+    - **Password**: escreves a tua password, tem que ter no mínimo 6 caracteres, e pode ser mudada à posterior.
     - Finalmente **Activas** a caixa que diz: **Usar a mesma password para conta de administrador**
-  - O **Calamares** irá agora mostrar-te um sumário de todas as tuas opções de instalação. Verifica se está tudo correcto, e se estiver, avanças para a instalação.
-  - Assim que o processo estiver concluído reinicia o PC.
-  - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
+- O **Calamares** irá agora mostrar-te um sumário de todas as tuas opções de instalação. Verifica se está tudo correcto, e se estiver, avanças para a instalação.
+- Assim que o processo estiver concluído reinicia o PC.
+- Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
 
 **NOTA:** é possível que nesta fase inicial não te apareça a opção para selecionar o Windows no **GRUB** assim que ligas o PC. É normal, já vamos resolver disso no próximo capítulo.
  
