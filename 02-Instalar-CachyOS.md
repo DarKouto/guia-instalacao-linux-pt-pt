@@ -10,12 +10,11 @@
 
 **NOTA:** Este guia irá instalar o **CachyOS** num sistema que já tenha Windows. Assim, irás ficar com dois sistemas operativos a funcionar, e no arranque do computador podes escolher se queres arrancar para **Linux** ou para **Windows**, num processo que se chama **Dual-Boot**. Esta opção é ideal para quem está a começar e não se quer comprometer a usar apenas Linux. Caso queiras ignorar este passo, a instalação será ainda mais simples.
 
-## Passos a Seguir
-### 1. Transferir a imagem .iso do CachyOS
+## 1. Transferir a imagem .iso do CachyOS
 Este ficheiro é o Sistema Operativo propriamente dito.
 - Vai a [https://cachyos.org/download](https://cachyos.org/download) e escolhe a **Desktop Edition**. Qualquer método de Download é viável, mas eu costumo usar o Direct. Guarda o ficheiro no teu computador.
 
-### 2. "Gravar" a imagem .iso numa Pen Drive USB
+## 2. "Gravar" a imagem .iso numa Pen Drive USB
 Se já instalaste sistemas operativos, certamente já estarás familizarizado com este processo. Precisas de um programa para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive. Escolhe aquele que preferires, mas os mais populares são:
 - **balena Etcher** [https://etcher.balena.io/](https://etcher.balena.io/)
 - **Ventoy** [https://www.ventoy.net/](https://www.ventoy.net/)
@@ -23,19 +22,19 @@ Se já instalaste sistemas operativos, certamente já estarás familizarizado co
 
 Após este processo estar concluído, reinicia o PC com a Pen Drive conectada.
 
-### 3. Configurar a BIOS
+## 3. Configurar a BIOS
 **NOTA:** Este processo não é igual em todas as máquinas, pois as BIOS das motherboards são todas diferentes.
 - Reinicia o computador e entra na **BIOS** (regra geral é preciso carregar na tecla **DEL** ou **F12**).
 - Dentro da **BIOS**, procura as definições de **Fast Boot**/**Secure Boot** ou semelhantes e desativa-as. Geralmente as Distros de Linux têm problemas com Secure Boots.
 - Ainda dentro da **BIOS**, procura por **Boot Order**/**Boot Priority** ou semelhantes e certifica-te de que a tua **Pen Drive USB** está em primeiro lugar. (Caso a tua **BIOS** tenha um seletor de arranque, podes ignorar este passo).
 - **Certifica-te de que gravas as alterações ao sair da BIOS!**
 
-### 4. Arrancar a partir da Pen no Live ISO do CachyOS
+## 4. Arrancar a partir da Pen no Live ISO do CachyOS
 - Se tudo correu bem, o teu PC irá agora arrancar através da **Pen Drive**.
 - Irá aparecer um menu com várias opções, escolhe a primeira que diz **CachyOS** com a tecla ENTER.
 - Agora é só esperar que o processo termine.
 
-### 5. Instalação do CachyOS
+## 5. Instalação do CachyOS
 Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema sem qualquer compromisso de instalação. Há uma janela chamada **CachyOS Hello** estará aberta por defeito, clica no botão que diz **Launch Installer**. Vai-te aparecer um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
 
 **NOTA:** Antes de iniciares a instalação, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo Ethernet, que o **CachyOS** consegue logo instalar driver do Wi-Fi.
