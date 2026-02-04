@@ -25,9 +25,9 @@ Após este processo estar concluído, reinicia o PC com a Pen Drive conectada.
 
 ### 3. Configurar a BIOS
 **NOTA:** Este processo não é igual em todas as máquinas, pois as BIOS das motherboards são todas diferentes.
-- Reinicia o computador e entra na **BIOS** (regra geral é preciso carregar na tecla **DEL** ou **F12** assim que ligas o computador).
-- Dentro da **BIOS**, procura as definições de **Fast Boot** e **Secure Boot** e desativa-as. Caso contrário, o **CachyOS** pode não arrancar ou ter outros problemas.
-- Ainda dentro da **BIOS**, procura por **Boot Order** ou **Boot Priority** e certifica-te de que a tua **Pen Drive USB** está em primeiro lugar. (Caso a tua **BIOS** tenha um seletor de arranque, podes ignorar este passo).
+- Reinicia o computador e entra na **BIOS** (regra geral é preciso carregar na tecla **DEL** ou **F12**).
+- Dentro da **BIOS**, procura as definições de **Fast Boot**/**Secure Boot** ou semelhantes e desativa-as. Geralmente as Distros de Linux têm problemas com Secure Boots.
+- Ainda dentro da **BIOS**, procura por **Boot Order**/**Boot Priority** ou semelhantes e certifica-te de que a tua **Pen Drive USB** está em primeiro lugar. (Caso a tua **BIOS** tenha um seletor de arranque, podes ignorar este passo).
 - **Certifica-te de que gravas as alterações ao sair da BIOS!**
 
 ### 4. Arrancar a partir da Pen no Live ISO do CachyOS
