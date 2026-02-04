@@ -53,6 +53,7 @@ Na improvável eventualidade de surgir algum problema:
 - No Menu de Arranque **GRUB** selecionas a opção **CachyOS Snapshots**
 - Escolhe um Snapshot com uma data anterior a esse problema
 - O sistema irá agora reiniciar com as configurações e definições desse Snapshot
+
 Se estiver tudo OK, tens agora que definir esse ponto como o arranque "oficial". Para isso:
  - Vai ao **Menu Iniciar** e procura por **BTRFS Assistant**
  - Escolhe o separador **Snapper**
