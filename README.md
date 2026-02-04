@@ -13,7 +13,7 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 ## Outras Informações Úteis
 - Esta documentação presume que o utilizador já tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
 - Tudo que está aqui descrito é verdade e factual ao dia **04 de Fevereiro de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
-- O autor irá procurar ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador de CachyOS.
+- O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador de CachyOS.
 - **O autor não assume qualquer responsabilidade por erros ou danos que o utilizador possa cometer. O uso desta documentação é da inteira responsabilidade de quem a segue.**
 
 <hr>
