@@ -50,16 +50,16 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 ## 5. Snapshots / BTRFS Assistant
 Sempre que instalas, atualizas ou mudas uma configuração importante no teu CachyOS, o sistema automaticamente cria um Snapshot/Ponto de Restauro do PC, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema, e já vem activado por defeito no CachyOS.
 Na improvável eventualidade de surgir algum problema fazes o seguinte:
-- No Menu de Arranque **GRUB** selecionas a opção **CachyOS Snapshots**
-- Escolhe um Snapshot com uma data anterior a esse problema
+- No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
+- Escolhe um Snapshot com uma data anterior a esse problema.
 
-O sistema irá agora reiniciar com as configurações e definições desse **Snapshot** numa espécie de "Modo de Segurança". Se estiver tudo OK, para finalizar o processo é preciso definir esse ponto como o arranque normal, para isso:
+O sistema irá agora reiniciar com as configurações desse **Snapshot** numa espécie de "Modo de Segurança". Se estiver tudo OK, é preciso agora definir esse ponto como o arranque normal/oficial, para finalizar o processo:
  - Vai ao **Menu Iniciar** e procura por **BTRFS Assistant**
  - Escolhe o separador **Snapper**
  - Seleciona o separador **Browse/Restore**
  - Seleciona o mesmo Snapshot que selecionaste no **Grub**
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
- - Reinicia o PC. E agora está tudo resolvido.
+ - Reinicia o PC.
 
 ## 6. Outras Configurações e Informações Úteis
 - Vai ao **Menu Iniciar** e clica no teu nome, que aparece no canto superior esquerdo, isto abre o menu de **Conta de Utilizador**, aqui podes modificar a tua password, assim como a foto de perfil
