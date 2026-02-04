@@ -36,9 +36,8 @@ Após este processo estar concluído, reinicia o PC com a Pen Drive conectada.
 - Agora é só esperar que o processo termine.
 
 ### 5. Instalação do CachyOS
-- Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema sem qualquer compromisso de instalação.
-- Uma janela chamada **CachyOS Hello** estará aberta por defeito, clica no botão **Launch Installer**.
-- Vai-te aparecer um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
+Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema sem qualquer compromisso de instalação. Há uma janela chamada **CachyOS Hello** estará aberta por defeito, clica no botão que diz **Launch Installer**. Vai-te aparecer um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
+
 **NOTA:** Antes de iniciares a instalação, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo Ethernet, que o **CachyOS** consegue logo instalar driver do Wi-Fi.
 
 Eis o que escolher em cada um dos separadores:
