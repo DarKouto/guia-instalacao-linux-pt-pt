@@ -15,7 +15,7 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 - Tudo que está aqui descrito é verdade e factual ao dia **04 de Fevereiro de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador de CachyOS.
 
-## O autor não assume qualquer responsabilidade por erros utilizador possa cometer, ou por danos que possa causar. O uso desta documentação é da inteira responsabilidade de quem a segue.
+## O autor não assume qualquer responsabilidade por erros que utilizador possa cometer, ou por danos que possa causar. O uso desta documentação é da inteira responsabilidade de quem a segue.
 
 <hr>
 <h3>Índice </h3>
