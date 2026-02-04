@@ -2,7 +2,7 @@
 
 **ATUALIZADO 04 FEVEREIRO 2026**
 
-Esta documentação foi criada e mantida por mim ao longo de mais de um ano, durante a minha própria mudança do Windows para o **Linux**. O meu objetivo era registar e organizar todas as descobertas, testes e configurações que fiz.
+Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha própria mudança do Windows para o **Linux**. O meu objetivo era registar e organizar todas as descobertas, testes e configurações que fiz.
 
 Ao partilhar esta documentação, o meu objectivo é facilitar a mudança para **Linux** a outros utilizadores ao poupar-lhes o tempo de investigação. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua-mãe.
 
