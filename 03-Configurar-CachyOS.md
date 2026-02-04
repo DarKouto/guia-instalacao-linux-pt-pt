@@ -47,13 +47,24 @@ O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador
 
 Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slider" que permite aumentar a ampliação das pastas, assim como uma barra que demostra o espaço livre em disco. Outra excelente funcionalidade é a existência de Tabs/Separadores como num browser de internet, se clicares numa pasta com o botão do meio do rato, ele abre essa pasta numa nova tab.
 
-## 5. Outras Configurações e Informações Úteis
+## 5. Snapshots / BTRFS Assistant
+Sempre que instalas, atualizas ou mudas uma configuração importante no teu CachyOS, o sistema automaticamente cria um Snapshot/Ponto de Restauro/Save Point do teu PC. Isto é extremamente útil caso surja algum problema que quebre o sistema, e já vem activado por defeito no CachyOS.
+Na improvável eventualidade de surgir algum problema, no menu de arraque (GRUB) existe uma última opção chamada "CachyOS Snapshots", basta navegares para lá com as setas do teclado, e escolheres um Snapshot gravado antes desse problema.
+Agora quando reiniciares, o sistema vai estar em modo "READ-ONLY", deixando-te limitado. Para resolver isso de vez fazes o seguinte:
+ - Vai ao **Menu Iniciar** e procura por BTRFS Assistant
+ - Escolhe o separador **Snapper**
+ - Seleciona o separador **Browse/Restore**
+ - Seleciona o mesmo Snapshot que selecionaste no **Grub**
+ - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
+ - Reinicia o PC. E agora está tudo resolvido.
+
+## 6. Outras Configurações e Informações Úteis
 - Vai ao **Menu Iniciar** e clica no teu nome, que aparece no canto superior esquerdo, isto abre o menu de **Conta de Utilizador**, aqui podes modificar a tua password, assim como a foto de perfil
 - Vai ao **Menu Iniciar** e procura **Configuração do Sistema**, isto é semelhante ao **Painel de Controlo/Definições** do Windows, mas mais uma vez, muito mais poderoso. Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
 - Para adicionar um programa favorito (atalho) ao **Menu Iniciar** ou ao **Painel**, procuras o programa no **Iniciar**, clicas com o botão direito e escolhes **Adicionar aos Favoritos** (para Iniciar) ou **Fixar no Gestor de Tarefas** (para o Painel)
 - Carregar na tecla **PrintScreen** abre automaticamente um programa chamado **Spectacle** que te permite fazer e editar capturas de ecrã rapidamente.
 
-## 6. Aceder ao Disco Windows (NTFS)
+## 7. Aceder ao Disco Windows (NTFS)
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
@@ -66,7 +77,7 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
 - Reinicia o PC.
 
-## 7. Mostrar a Opção do Windows no Menu de Arranque (GRUB)
+## 8. Mostrar a Opção do Windows no Menu de Arranque (GRUB)
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
