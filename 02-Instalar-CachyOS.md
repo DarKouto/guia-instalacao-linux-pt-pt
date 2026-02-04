@@ -40,13 +40,14 @@ Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto per
 
 **NOTA:** Antes de iniciares a instalação, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo Ethernet, que o **CachyOS** consegue logo instalar driver do Wi-Fi.
 
-Eis o que escolher em cada um dos separadores:
+Eis o que escolher em cada uma das opções e separadores:
 - **Bootloader**: escolhes o **GRUB**, é o padrão, funciona bem e não há nada a apontar.
 - **Location**: escolhes a tua localização e língua (com a internet ligada é automaticamente detectada)
 - **Keyboard**: escolhes o esquema do teclado (caso tenhas um teclado noutra língua)
-- **Partitions**, escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
-  - Caso vás usar Dual-Boot (Recomendado para iniciantes), escolhes **Instalar Paralelamente**. Em baixo, clicas na partição **Actual** (colorida), na partição **Depois** usas o "slider" para definir o tamanho da partição do CachyOS
-    - Caso tenhas um 2º Disco, ou queiras usar somente CachyOS, selecionas a opção **Apagar Disco**. E fazes seguinte. Fácil.
+- **Partitions**: escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
+  - Caso vás usar Dual-Boot (juntamento com Windows), escolhes **Instalar Paralelamente**
+  - Em baixo clicas na partição **Actual** (colorida). Agora na partição **Depois** usas o *slider* para definir o tamanho da partição do CachyOS.
+  - Caso tenhas um 2º Disco, ou queiras usar apenas **CachyOS**, selecionas a opção **Apagar Disco** e fazes seguinte. Fácil.
 
 - **Desktop**: escolhe **Plasma Desktop**, também conhecido como **KDE Plasma**. É o DE com o qual iremos trabalhar neste guia. E porque é o melhor na minha opinião.
 - **Packages**: por norma, apenas precisas de selecionar **Printing Support** (caso tenhas impressora) e também **HP Printer/Scanner support** (caso o fabricante seja a **HP**).
