@@ -47,7 +47,8 @@ Eis o que escolher em cada uma das opções e separadores:
 - **Partitions**: escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
   - Caso vás usar Dual-Boot (juntamento com Windows), escolhes **Instalar Paralelamente**
   - Em baixo clicas na partição **Actual** (colorida). Agora na partição **Depois** usas o *slider* para definir o tamanho da partição do CachyOS.
-  **NOTA**: Caso tenhas um 2º Disco, ou queiras usar apenas **CachyOS**, selecionas a opção **Apagar Disco** e fazes seguinte. Fácil.
+
+**NOTA**: Caso tenhas um 2º Disco, ou queiras usar apenas **CachyOS**, selecionas a opção **Apagar Disco** e fazes seguinte. Fácil.
 
 - **Desktop**: escolhe **Plasma Desktop**, também conhecido como **KDE Plasma**. É o DE com o qual iremos trabalhar neste guia.
 - **Packages**: por norma, apenas precisas de selecionar **Printing Support** (caso tenhas impressora) e também **HP Printer/Scanner support** (caso o fabricante seja a **HP**).
