@@ -36,16 +36,16 @@ Após este processo estar concluído, reinicia o PC com a Pen Drive conectada.
 - Agora é só esperar que o processo termine.
 
 ### 5. Instalação do CachyOS
-- Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema  sem qualquer compromisso de instalação.
-- Uma janela chamada **CachyOS Hello** estará aberta por defeito no arraque. Aqui há um botão em baixo e ao centro com o texto **Launch Installer**.
-- **NOTA:** Antes de clicares, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo Ethernet, que o sistema operativo encarregar-se-á de instalar o driver do Wi-Fi automaticamente.
-- Ao clicares em **Launch Installer**, o CachyOS vai abrir um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação:
-  - Quando perguntar o **Bootloader** que queres, escolhes o **GRUB**, é o padrão, funciona bem e não há nada a apontar.
-  - No separador **Location**, escolhes a tua localização e língua (com a internet ligada é automaticamente detectada)
-  - No separador **Keyboard**, escolhes o esquema do teclado (com a internet ligada é automaticamente detectada)
+- Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema sem qualquer compromisso de instalação.
+- Uma janela chamada **CachyOS Hello** estará aberta por defeito, clica no botão **Launch Installer**.
+- Vai-te aparecer um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação
+- **NOTA:** Antes de iniciares a instalação, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo Ethernet, que o **CachyOS** consegue logo instalar driver do Wi-Fi.
+- Quando perguntar o **Bootloader** que queres, escolhes o **GRUB**, é o padrão, funciona bem e não há nada a apontar.
+- No separador **Location**, escolhes a tua localização e língua (com a internet ligada é automaticamente detectada)
+- No separador **Keyboard**, escolhes o esquema do teclado (com a internet ligada é automaticamente detectada)
  
-  - No separador **Partitions**, escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
-    - Caso vás usar Dual-Boot (Recomendado para iniciantes), escolhes **Instalar Paralelamente**. Em baixo, clicas na partição **Actual** (colorida), na partição **Depois** usas o "slider" para definir o tamanho da partição do CachyOS
+- No separador **Partitions**, escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
+  - Caso vás usar Dual-Boot (Recomendado para iniciantes), escolhes **Instalar Paralelamente**. Em baixo, clicas na partição **Actual** (colorida), na partição **Depois** usas o "slider" para definir o tamanho da partição do CachyOS
     - Caso tenhas um 2º Disco, ou queiras usar somente CachyOS, selecionas a opção **Apagar Disco**. E fazes seguinte. Fácil.
    
   - No separador **Desktop**, escolhes o ambiente gráfico (o Desktop Environment - DE). Por defeito aparece o **Plasma Desktop** também conhecido como **KDE Plasma**. Escolhe esse pois é o DE com o qual iremos trabalhar. E porque é de longe o melhor na minha opinião.
