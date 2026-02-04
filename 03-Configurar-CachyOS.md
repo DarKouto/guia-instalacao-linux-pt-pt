@@ -48,7 +48,7 @@ O **Dolphin** é o gestor de ficheiros do KDE Plasma, semelhante ao **Explorador
 Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slider" que permite aumentar a ampliação das pastas, assim como uma barra que demostra o espaço livre em disco. Outra excelente funcionalidade é a existência de Tabs/Separadores como num browser de internet, se clicares numa pasta com o botão do meio do rato, ele abre essa pasta numa nova tab.
 
 ## 5. Snapshots / BTRFS Assistant
-Sempre que instalas, atualizas ou mudas uma configuração importante no teu CachyOS, o sistema automaticamente cria um Snapshot/Ponto de Restauro do PC, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema, e já vem activado por defeito no CachyOS.
+Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema.
 Na improvável eventualidade de surgir algum problema fazes o seguinte:
 - No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
 - Escolhe um Snapshot com uma data anterior a esse problema.
