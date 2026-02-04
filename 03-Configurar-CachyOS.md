@@ -57,7 +57,7 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Vai ao **Menu Iniciar** e procura por **BTRFS Assistant**
  - Escolhe o separador **Snapper**
  - Seleciona o separador **Browse/Restore**
- - Seleciona o mesmo Snapshot que selecionaste no **Grub**
+ - Seleciona o mesmo Snapshot que selecionaste no **GRUB**
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
  - Reinicia o PC.
 
