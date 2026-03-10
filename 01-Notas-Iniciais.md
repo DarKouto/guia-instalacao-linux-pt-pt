@@ -16,7 +16,7 @@ Aquilo a que chamamos um sistema operativo **Linux** é, na verdade, uma combina
 - As utilidades **GNU** (desenvolvidas por **Richard Stallman**)
 - O ambiente gráfico / **Desktop Environment** (ex: KDE Plasma, Gnome, XCFE)
 
-É comum encontrar quem defenda que o termo mais correto seria **GNU/Linux**. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente **Linux** ao sistema operativo.
+É comum encontrar quem defenda que o termo mais correto seria **GNU/Linux**. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente **Linux**.
 
 ## 📦 Distribuições de Linux (Distros)
 Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linux**, as utilidades **GNU**, pacotes de software, um ambiente gráfico, e outras ferramentas, *distribuídas* em conjunto.
