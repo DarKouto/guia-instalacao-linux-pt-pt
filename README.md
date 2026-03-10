@@ -2,18 +2,18 @@
 
 **ATUALIZADO 10 MARÇO 2026**
 
-Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha própria mudança do Windows para o **Linux**. O meu objetivo era registar e organizar todas as descobertas, testes e configurações que fiz.
+Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha mudança de Windows para **Linux**. Usava-a como forma de registar todas as descobertas, testes e configurações que fiz
 
-Ao partilhar esta documentação, o meu objectivo é facilitar a mudança para **Linux** a outros utilizadores, poupando-lhes tempo de investigação e explicando todo o processo. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua-mãe.
+Ao partilhar esta documentação, o meu objectivo facilitar a mudança para **Linux** a outros utilizadores, poupando-lhes tempo de investigação e explicando todo o processo. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua-mãe.
 
-A distribuição que irei abordar é o **CachyOS Linux**. Após vários meses de "distro-hopping" (mudança constante de distribuições), cheguei à conclusão que o **CachyOS** é o sistema mais estável, com melhor performance, mais "user-friendly" e com uma excelente comunidade. Tenho o **CachyOS** instalado no meu Desktop, Laptop, nos computadores da minha empresa, e até no portátil pessoal do meu pai, que é uma pessoa sem conhecimentos técnicos. Também consegui "ressuscitar" vários portáteis antigos de amigos meus, que estavam ao abandono e a ganhar pó, e agora são máquinas totalmente funcionais.
+A distribuição que irei abordar é o **CachyOS Linux**. Após vários meses de "distro-hopping" (mudança constante de distribuições), cheguei à conclusão que o **CachyOS** é o sistema mais estável, com melhor performance, e mais "user-friendly". Além disso tem uma excelente comunidade. Tenho o **CachyOS** instalado no meu Desktop, Laptop, nos computadores da minha empresa, e até no portátil pessoal do meu pai, que é uma pessoa sem conhecimentos técnicos. Também consegui "ressuscitar" vários portáteis antigos de amigos meus, que estavam ao abandono e a ganhar pó, e agora são máquinas totalmente funcionais.
 
-Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema muito simples e intuitivo de usar, superando até o Windows ou MacOS em vários aspectos. Acredito que com este guia qualquer pessoa pode mudar para **Linux** sem grandes dificuldades.
+Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema muito simples e intuitivo de usar, superando até o Windows ou MacOS em vários aspectos. Acredito que com este guia qualquer pessoa pode usar **Linux** no dia-a-dia sem qualquer problema.
 
 ## ℹ️ Outras Informações Úteis
 - Esta documentação presume que o utilizador tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
 - Tudo que está aqui descrito é verdade e factual ao dia **10 de Março de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
-- O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador de CachyOS.
+- O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador e contribuidor do CachyOS.
 
 ## 🚨 O autor não assume qualquer responsabilidade por erros que utilizador possa cometer, ou por danos este que possa causar. O uso desta documentação é da inteira responsabilidade de quem a segue.
 
