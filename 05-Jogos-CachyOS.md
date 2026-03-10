@@ -77,11 +77,8 @@ O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games 
 - Para instalar um jogo, basta clicar nele, e fazer **Install**, isto abre uma janela com várias definições:
   - Clica no *dropdown* com o texto **Show Wine Settings**
   - Aqui poderás selecionar a versão **Proton** que pretendes usar
-- Após instalado, podes explorar outras definições de cada jogo, como comandos de lançamento.
+- Aproveita agora para explorar outras definições do Heroic em **Settings** > **Game Defaults**
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-instalar.jpg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-1.jpg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-2.jpg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-3.jpg" width=600>
 
 ## 🟡 Lutris (Todos os outros Launchers)
 O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubisoft, etc. Também permite instalar jogos locais.
