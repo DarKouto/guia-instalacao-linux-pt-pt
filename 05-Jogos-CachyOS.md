@@ -23,14 +23,14 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 
 Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.com/](https://www.protondb.com/). Aqui encontramos os jogos, com relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento. Atenção que isto não é a Verdade Universal, o que resulta para uns jogadores pode não resultar para outros. Isto é simplesmente um guia de orientação que nos poupa muito trabalho em testes.
 
-## 1. Instalar Gaming Packages
+## 🎮 Instalar Gaming Packages
 Vai a **Iniciar** e procura por **CachyOS Hello**
 - Vai a **Apps/Tweaks**
 - Clica em **Install Gaming Packages**
 
 O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outros utilitários, librarias e dependências necessárias para jogares sem qualquer problema.
 
-## 2. Steam
+## ⚫ Steam
 Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
 - Vai a **Iniciar** e procura por **Steam**
 - Entra com a tua conta, e faz as tuas configurações habituais, como farias normalmente.
@@ -47,7 +47,7 @@ Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal
     - **MangoHud** é um overlay que conta os FPS, carga de CPU, GPU, Ram, etc. Semelhante ao **MSI Afterburner**. Podes fechar e abrir este overlay com **SHIFT+F12**
   - No separador **Compatibilidade**, se activares a opção **Forçar uso de ferramenta específica** podes esocolher do **Proton** que queres usar nesse jogo em específico. Se nada fizeres, a Steam automaticamente aplica o **proton-cachyos-slr** por defeito.
  
-## 3. ProtonUP-QT
+## ⚛️ ProtonUP-QT
 O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton** (assim como outras modificações) nos nossos Launchers.
 - Vai a **Iniciar** e procura **ProtonUP-QT**
 - Clicas em **Adicionar Versão**
@@ -60,7 +60,7 @@ O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton*
 - Recomendo que abras este programa de vez em quando para verificares se há novas versões do Proton-GE, ou então segue o **GloriousEggRoll** em https://github.com/GloriousEggroll/proton-ge-custom/releases
 - Ao instalares uma nova versão do **GE-Proton-10**, podes remover a antiga. Exemplo: se instalares o **GE-Proton10-12** podes remover o GE-Proton10-11 e inferiores.
 
-## 4. Heroic Games Launcher (EPIC e GOG)
+## 🔵 Heroic Games Launcher (EPIC e GOG)
 O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games Store e GOG.
 - Vai a **Iniciar** e procura por **Heroic**
 - Vai ao separador **Stores**, e faz login com as tuas credenciais Epic e GOG
@@ -70,7 +70,7 @@ O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games 
   - Aqui poderás selecionar a versão **Proton** que pretendes usar
 - Após instalado, podes explorar outras definições de cada jogo, como comandos de lançamento.
 
-## 5. Lutris (Todos os outros Launchers)
+## 🟡 Lutris (Todos os outros Launchers)
 O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubisoft, etc. Também permite instalar jogos locais.
 - Vai a **Iniciar** e procura por **Lutris**
 - Vai ao menu **Hamburger** (as 3 linhas horizontais no canto superior esquerdo) e clica em **Preferences**
@@ -83,7 +83,7 @@ O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubis
 - Clica com o botão direito do rato no Launcher/Jogo instalado e escolhe **Configure**
   - No separador **Runner Options** onde diz **Wine Options** podes escolher a versão do Proton.
 
-## 5.1 Battle.net no Lutris
+### Battle.net no Lutris
 O processo para instalar a **Battle.net** é ligeiramente diferente dos outros Launchers: 
 - Vai ao site https://lutris.net/games/battlenet/ e clica no botão **Install**
 - **Aceita** o pedido do teu browser para abrir a ligação no Lutris, e segue as intruções que te aparecem no ecrã
