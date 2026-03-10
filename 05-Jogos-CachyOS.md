@@ -52,6 +52,8 @@ Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal
     - **MangoHud** é um overlay que conta os FPS, carga de CPU, GPU, Ram, etc. Semelhante ao **MSI Afterburner**. Podes fechar e abrir este overlay com **SHIFT+F12**
   - No separador **Compatibilidade**, se activares a opção **Forçar uso de ferramenta específica** podes esocolher do **Proton** que queres usar nesse jogo em específico. Se nada fizeres, a Steam automaticamente aplica o **proton-cachyos-slr** por defeito.
  
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/steam-arranque.jpg" width=600>
+ 
 ## ⚛️ ProtonUP-QT
 O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton** (assim como outras modificações) nos nossos Launchers.
 - Vai a **Iniciar** e procura **ProtonUP-QT**
