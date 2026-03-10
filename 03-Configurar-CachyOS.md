@@ -15,7 +15,7 @@ Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamo
 ## 👋 Janela CachyOS Hello
 Esta janela abre automaticamente assim que entras no sistema.
 - **Desativa** a opção **Launch at Start** (no canto inferior direito).
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cachy-hello.jpg">
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cachy-hello.jpg" width=200>
 
 ## 👛 Desativar o KWallet
 O **KWallet** é um gestor de passwords cuja utilidade é no mínimo discutível. Como tal o melhor é desativá-lo.
