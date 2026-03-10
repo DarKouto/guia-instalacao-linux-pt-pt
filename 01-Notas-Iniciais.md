@@ -26,17 +26,19 @@ Uma **Distro Linux**, de forma muito simplificada, é um sistema operativo compl
 2.  **Arch**: é muito leve e personalizável, e está constantemente a ser atualizada, num modelo "Rolling Release".
 3.  **Fedora**: é um meio-termo entre o Debian e o Arch, recebendo grandes atualizações de 6 em 6 meses.
 
-A distribuição que uso e que esta documentação aborda é o **CachyOS**, que é um "fork" do **Arch Linux**. Conta com algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
+A distribuição que vamos usar é o **CachyOS**, que é baseada no **Arch Linux**, e que tem algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
 
-## Vantagens de usar Linux
-*"Eu tenho o Windows 10 e funciona, porque razão devo eu mudar agora para Linux?"* Existem várias razões, a começar pelo facto de que o Windows 10 vai deixar de ser suportado em Outubro de 2025.
-
-Além disso, existem várias vantagens em mudar para Linux, das quais se destacam:
+## Vantagens do Linux
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou macOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
-- **Estabilidade:** Por norma o kernel Linux é muito mais estavél que qualquer outro. Não é por acaso que 95% dos servidores no mundo correm Linux.
+- **Estabilidade:** O Kernel Linux é muito mais estavél que qualquer outro. Não é por acaso que 95% dos servidores no mundo correm Linux.
 - **Segurança:** Devido à sua natureza de código aberto, é muito mais díficil existirem vírus em Linux, e as pequenas falhas de segurança no código podem ser vistas e corrigidas por qualquer pessoa.
-- **Privacidade:** Contrariamente ao Windows e macOS que estão cheios de telemetria, funcionalidades invasivas e duvidosas (para dizer o mínimo), o Linux não recolhe quaisquer dados sobre os seus utilizadores.
+- **Privacidade:** Contrariamente ao Windows e MacOS que estão cheios de telemetria, *spyware*, *AI slop* e outras funcionalidades invasivas, o Linux não recolhe quaisquer dados sobre os seus utilizadores.
 - É **Grátis**. Qual é o Português que não gosta de coisas grátis?
+
+## Desvantagens do Linux
+- Programas da **Adobe** (ex: Photoshop, Premiere) não funcionam muito bem, ou não funcionam mesmo.
+- Jogos que recentemente implementaram *Kernel Level Anti Cheat* não funcionam (ex: Apex Legends, BattleField 6)
+- Jogos da **Riot Games** (ex: League of Legends, Valorant) também não funcionam. Tecnicamente isto até é uma **vantagem**. Mas nem me vou alongar mais sobre esse assunto.
 
 <hr>
 <div align="left">
