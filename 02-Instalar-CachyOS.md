@@ -32,7 +32,6 @@ Após este processo estar concluído, reinicia o PC com a Pen Drive conectada.
 ## 📀 4. Arrancar a partir da Pen no Live ISO do CachyOS
 - Se tudo correu bem, o teu PC irá agora arrancar através da **Pen Drive**.
 - Irá aparecer um menu com várias opções, escolhe a primeira que diz **CachyOS** com a tecla ENTER.
-- Agora é só esperar que o processo termine.
 
 ## 🏗️ 5. Instalação do CachyOS
 Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto permite-te experimentar todo o sistema sem qualquer compromisso de instalação. Há uma janela chamada **CachyOS Hello** estará aberta por defeito, clica no botão que diz **Launch Installer**. Vai-te aparecer um instalador gráfico chamado **Calamares**, e é aqui que vais proceder a toda a instalação.
