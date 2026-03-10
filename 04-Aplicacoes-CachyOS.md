@@ -20,14 +20,14 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
-## 1. Aplicações Pré-Instaladas e o seu Propósito
+## 🎒 Aplicações Pré-Instaladas e o seu Propósito
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
 - **Firefox**: é o browser/navegador que vem instalado por defeito.
 - **GwenView**: visualizador e editor imagens, também permite ver vídeos.
 - **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
 
-## 2. Aplicações a Instalar dos Repositórios Oficiais
+## Aplicações a Instalar dos Repositórios Oficiais
 
 Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
@@ -72,7 +72,7 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **Vesktop:** É o Discord mas numa aplicação alternativa, com algumas funcionalidades extra.
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
-## ⌨️ 3. Aplicações a Instalar do AUR
+## ⌨️ Aplicações a Instalar do AUR
 Para instalar aplicações do AUR, tens mesmo que se usar a **Konsole**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
 
 Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole**:
@@ -86,12 +86,12 @@ Com este comando instalámos as seguintes aplicações:
 
 **NOTA**: Ultimamente o pacote ttf-ms-win10-auto tem tido algumas falhas na instalação, caso te aconteça, ignora o pacote, e instalas os tipos de letra manualmente.
 
-### 3.1 Para instalar qualquer outro tipo de letra:
+### Para instalar qualquer outro tipo de letra:
 - Procura na internet e transfere os ficheiros .ttf
 - Vai ao **Iniciar** e procura por **Gestão de Tipos de Letra**
 - Seleciona **Instalar de um Ficheiro** e procura os ficheiros .ttf transferidos
 
-## 📦 4. Aplicações Flatpak/Flathub
+## 📦 Aplicações Flatpak/Flathub
 Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos procurar a aplicação desejada em https://flathub.org/, clicar na setinha ao lado do botão *Install* e copiar o código que lá está para a **Konsole**.
 
 Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
@@ -102,10 +102,10 @@ Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
-## ⭐ 5. Aplicações Predefinidas
+## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
-## 🔄 6. Atualizar Sistema / Cachy-Update
+## 🔄 Atualizar Sistema / Cachy-Update
 É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
 
 - Clica no **Cachy Updater**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal.
