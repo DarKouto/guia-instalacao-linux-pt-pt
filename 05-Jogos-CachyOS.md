@@ -72,12 +72,15 @@ O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton*
 ## 🔵 Heroic Games Launcher (EPIC e GOG)
 O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games Store e GOG.
 - Vai a **Iniciar** e procura por **Heroic**
-- Vai ao separador **Stores**, e faz login com as tuas credenciais Epic e GOG
+- Vai ao separador **Log in**, e faz login com as tuas credenciais Epic e GOG
 - Agora os teus jogos aparecem todos no separador **Library**
 - Para instalar um jogo, basta clicar nele, e fazer **Install**, isto abre uma janela com várias definições:
   - Clica no *dropdown* com o texto **Show Wine Settings**
   - Aqui poderás selecionar a versão **Proton** que pretendes usar
 - Após instalado, podes explorar outras definições de cada jogo, como comandos de lançamento.
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-1.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-2.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-3.jpg" width=600>
 
 ## 🟡 Lutris (Todos os outros Launchers)
 O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubisoft, etc. Também permite instalar jogos locais.
