@@ -105,18 +105,10 @@ Com este comando instalámos as seguintes aplicações:
 ## 5. Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
-## 6. Atualizar Sistema e Aplicações
-Contrariamente ao Windows que te obriga a atualizar quer queiras quer não, e nos piores momentos possíveis, o Linux não te obriga a rigorosamente a nada. Dito isto, podes e **deves** atualizar o teu sistema com regularidade (uma vez por semana pelo menos).
+## 6. Atualizar Sistema / Cachy-Update
+É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
 
-Há duas formas para **atulizar o sistema**, escolhe o método que preferires:
-1. Clicar no **Cachy Updater**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal. **NOTA**: se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
-2. Ir a **Iniciar**, procurar por **Konsole** (Terminal) e escrever:
-```bash
-yay
-flatpak update
-```
-- O *yay* atualiza as aplicações dos **Repositórios Oficiais** e do **AUR**, e também atualiza o sistema.
-- O *flatpak update* atualiza as aplicações **Flatpak**
+- Clica no **Cachy Updater**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal. **NOTA**: se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
 
 <hr>
 <div align="left">
