@@ -44,36 +44,7 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 - Carregar na tecla **PrintScreen** abre automaticamente um programa chamado **Spectacle** que te permite fazer e editar capturas de ecrã rapidamente.
 - Vai ao **Menu Iniciar** e procura **Configuração do Sistema**. Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
 
-## 5. Resolução de Problemas / Troubleshoot
-
-### 5.1 Snapshots / BTRFS Assistant
-Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema.
-Na improvável eventualidade de surgir algum problema fazes o seguinte:
-- No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
-- Escolhe um Snapshot com uma data anterior a esse problema.
-
-O sistema irá agora reiniciar com as configurações desse **Snapshot** numa espécie de "Modo de Segurança". Se estiver tudo OK, é preciso agora definir esse ponto como o arranque normal/oficial, para finalizar o processo:
- - Vai ao **Menu Iniciar** e procura por **BTRFS Assistant**
- - Escolhe o separador **Snapper**
- - Seleciona o separador **Browse/Restore**
- - Seleciona o mesmo Snapshot que selecionaste no **GRUB**
- - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
- - Reinicia o PC.
-
-### 5.2 Aceder ao Disco Windows (NTFS)
-Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
-- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
-
-**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
-```bash
-sudo pacman -S ntfs-3g
-```
-```bash
-sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
-```
-- Reinicia o PC.
-
-### 5.3 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
+## 5. Mostrar a Opção do Windows no Menu de Arranque (GRUB)
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
@@ -92,6 +63,35 @@ kate /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 - **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
+
+## 6. Resolução de Problemas / Troubleshoot
+
+### 6.1 Snapshots / BTRFS Assistant
+Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema.
+Na improvável eventualidade de surgir algum problema fazes o seguinte:
+- No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
+- Escolhe um Snapshot com uma data anterior a esse problema.
+
+O sistema irá agora reiniciar com as configurações desse **Snapshot** numa espécie de "Modo de Segurança". Se estiver tudo OK, é preciso agora definir esse ponto como o arranque normal/oficial, para finalizar o processo:
+ - Vai ao **Menu Iniciar** e procura por **BTRFS Assistant**
+ - Escolhe o separador **Snapper**
+ - Seleciona o separador **Browse/Restore**
+ - Seleciona o mesmo Snapshot que selecionaste no **GRUB**
+ - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
+ - Reinicia o PC.
+
+### 6.2 Aceder ao Disco Windows (NTFS)
+Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
+- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
+
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
+```bash
+sudo pacman -S ntfs-3g
+```
+```bash
+sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
+```
+- Reinicia o PC.
 
 <hr>
 <div align="left">
