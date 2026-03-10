@@ -27,8 +27,8 @@ Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.
 Vai a **Iniciar** e procura por **CachyOS Hello**
 - Vai a **Apps/Tweaks**
 - Clica em **Install Gaming Packages**
-
 O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outros utilitários, librarias e dependências necessárias para jogares sem qualquer problema.
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/gaming-packages.jpg" width=600>
 
 ## ⚫ Steam
 Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
