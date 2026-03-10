@@ -43,7 +43,9 @@ Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal
   - Proton 9.0.4
   - Proton 8.0-5
 - Após estarem todas instaladas, seleciona novamente o **proton-cachyos (steam linux runtime)** e fecha a janela.
+  
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/steam-compatibilidade.jpg" width=700>
+
 - Agora quando instalares qualquer jogo, clicas com o **botão direito do rato** nele e vais a **Propriedades**:
   - No separador **Geral**, nas **Opções de Arranque** recomendo escrever: `game-performance mangohud %command%`
     - **game-performace** é um *daemon/serviço* que automaticamente coloca o teu PC em modo de Performance assim que abres um jogo, e que retorna ao normal assim que o fechas.
