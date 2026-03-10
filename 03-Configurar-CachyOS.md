@@ -66,7 +66,20 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 ## 6. Resolução de Problemas / Troubleshoot
 
-### 6.1 Snapshots / BTRFS Assistant
+### 6.1 Aceder ao Disco Windows (NTFS)
+Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
+- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
+
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
+```bash
+sudo pacman -S ntfs-3g
+```
+```bash
+sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
+```
+- Reinicia o PC.
+
+### 6.2 Snapshots / BTRFS Assistant
 Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema.
 Na improvável eventualidade de surgir algum problema fazes o seguinte:
 - No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
@@ -79,19 +92,6 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Seleciona o mesmo Snapshot que selecionaste no **GRUB**
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
  - Reinicia o PC.
-
-### 6.2 Aceder ao Disco Windows (NTFS)
-Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
-- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
-
-**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
-```bash
-sudo pacman -S ntfs-3g
-```
-```bash
-sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
-```
-- Reinicia o PC.
 
 <hr>
 <div align="left">
