@@ -23,7 +23,7 @@ Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linu
 
 Existem centenas de distribuições diferentes, o que pode parecer avassalador, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de distros: **Debian**, **Arch** e **Fedora**.
 
-A distribuição que vamos usar é o **CachyOS**, uma modificação do **Arch Linux** que tem algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
+A distribuição que vamos usar é uma uma modificação do **Arch Linux** chamada **CachyOS**, que tem algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
 
 ## ✅ Vantagens do Linux
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou macOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
