@@ -16,7 +16,7 @@ Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamo
 Esta janela abre automaticamente assim que entras no sistema.
 - **Desativa** a opção **Launch at Start** (no canto inferior direito).
 
-## 🇼🇫 Desativar o KWallet
+## 👛 Desativar o KWallet
 O **KWallet** é um gestor de passwords cuja utilidade é no mínimo discutível. Como tal o melhor é desativá-lo.
 - Vai ao **Menu Iniciar** e procura por **Carteira KDE** (**Wallet**), e faz estes 2 passos **pela ordem descrita**:
   1. **Desativa** "Serviço de Senhas" (em baixo), clica em **Aplicar**
