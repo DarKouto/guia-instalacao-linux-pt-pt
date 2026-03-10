@@ -108,7 +108,8 @@ Para selecionares as aplicações predefinidas para cada tarefa ou tipo de fiche
 ## 6. Atualizar Sistema / Cachy-Update
 É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
 
-- Clica no **Cachy Updater**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal. **NOTA**: se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
+- Clica no **Cachy Updater**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal.
+- **NOTA**: se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
 
 <hr>
 <div align="left">
