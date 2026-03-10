@@ -19,9 +19,11 @@ Aquilo a que chamamos um sistema operativo **Linux** é, na verdade, uma combina
 É comum encontrar quem defenda que o termo mais correto seria **GNU/Linux**. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente **Linux** ao sistema operativo.
 
 ## 📦 Distribuições de Linux (Distros)
-Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linux**, as utilidades **GNU**, pacotes de software, um ambiente gráfico, e outras ferramentas, *distribuídas* em conjunto. Existem centenas de distribuições diferentes, o que pode parecer avassalador, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de **Distros**: **Debian**, **Arch** e **Fedora**.
+Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linux**, as utilidades **GNU**, pacotes de software, um ambiente gráfico, e outras ferramentas, *distribuídas* em conjunto.
 
-A distribuição que vamos usar é o **CachyOS**, que é baseada no **Arch Linux**, e que tem algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
+Existem centenas de distribuições diferentes, o que pode parecer avassalador, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de distros: **Debian**, **Arch** e **Fedora**.
+
+A distribuição que vamos usar é o **CachyOS**, uma modificação do **Arch Linux** que tem algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
 
 ## ✅ Vantagens do Linux
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou macOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
