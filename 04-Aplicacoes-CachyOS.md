@@ -37,7 +37,7 @@ Existem 2 formas de instalar aplicações dos repositórios oficiais:
 - Clica com o botão direito no nome do pacote e escolhes "**+ Instalar**"
 - Clica no **"Visto"** que aparece no canto superior esquerdo
 - Para remover uma aplicação o processo é o mesmo, mas selecionas **Remover**
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/octopi.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/octopi.jpg" width=700>
 
 ### ⌨️ 2. Konsole (Terminal)
 - Vai a **Iniciar** e procura **Konsole**
