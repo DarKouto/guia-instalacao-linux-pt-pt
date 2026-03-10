@@ -11,7 +11,7 @@ A distribuição que irei abordar é o **CachyOS Linux**. Após vários meses de
 Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema muito simples e intuitivo de usar, superando até o Windows ou MacOS em vários aspectos. Acredito que com este guia qualquer pessoa pode mudar para **Linux** sem grandes dificuldades.
 
 ## Outras Informações Úteis
-- Esta documentação presume que o utilizador já tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
+- Esta documentação presume que o utilizador tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
 - Tudo que está aqui descrito é verdade e factual ao dia **10 de Março de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador de CachyOS.
 
