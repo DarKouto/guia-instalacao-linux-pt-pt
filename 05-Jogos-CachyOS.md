@@ -67,6 +67,8 @@ O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton*
 - Recomendo que abras este programa de vez em quando para verificares se há novas versões do Proton-GE, ou então segue o **GloriousEggRoll** em https://github.com/GloriousEggroll/proton-ge-custom/releases
 - Ao instalares uma nova versão do **GE-Proton-10**, podes remover a antiga. Exemplo: se instalares o **GE-Proton10-12** podes remover o GE-Proton10-11 e inferiores.
 
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/protonup-qt.jpg" width=600>
+
 ## 🔵 Heroic Games Launcher (EPIC e GOG)
 O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games Store e GOG.
 - Vai a **Iniciar** e procura por **Heroic**
