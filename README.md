@@ -8,7 +8,7 @@ Ao partilhar esta documentação, o meu objectivo facilitar a mudança para **Li
 
 A distribuição que irei abordar é o **CachyOS Linux**. Após vários meses de "distro-hopping" (mudança constante de distribuições), cheguei à conclusão que o **CachyOS** é o sistema mais estável, com melhor performance, e mais "user-friendly". Além disso tem uma excelente comunidade. Tenho o **CachyOS** instalado no meu Desktop, Laptop, nos computadores da minha empresa, e até no portátil pessoal do meu pai, que é uma pessoa sem conhecimentos técnicos. Também consegui "ressuscitar" vários portáteis antigos de amigos meus.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/terminator-bean.jpg">
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/terminator-bean.jpg" width=600>
 
 Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema muito simples e intuitivo de usar, superando até o Windows ou MacOS em vários aspectos. Acredito que com este guia qualquer pessoa pode usar **Linux** no dia-a-dia sem qualquer problema.
 
