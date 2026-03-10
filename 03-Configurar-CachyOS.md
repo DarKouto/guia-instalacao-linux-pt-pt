@@ -48,7 +48,7 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
-**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo os-prober
 ```
@@ -70,7 +70,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
-**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão do meio do rato** ou fazes **CTRL+SHIFT+V**
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
 ```bash
 sudo pacman -S ntfs-3g
 ```
