@@ -14,17 +14,12 @@ Tecnicamente falando, o **Linux** não é bem um sistema operativo, mas sim um *
 Aquilo a que chamamos um sistema operativo **Linux** é, na verdade, uma combinação de vários componentes:
 - O **Kernel Linux**
 - As utilidades **GNU** (desenvolvidas por **Richard Stallman**)
-- O ambiente gráfico (**Desktop Environment**)
+- O ambiente gráfico / **Desktop Environment** (ex: KDE Plasma, Gnome, XCFE)
 
 É comum encontrar quem defenda que o termo mais correto seria **GNU/Linux**. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente **Linux** ao sistema operativo.
 
 ## 📦 Distribuições de Linux (Distros)
-Uma **Distro Linux**, de forma muito simplificada, é um sistema operativo completo que inclui o **Kernel Linux**, utilidades **GNU**, pacotes de software, um ambiente gráfico (exemplos: **KDE Plasma** ou **Gnome**) e outras ferramentas.
-
-À primeira vista, parecem existir centenas de **Distros Linux**, mas a maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de **Distros**:
-1.  **Debian**: é muito estável, mas apenas recebe atualizações de 2 em 2 anos.
-2.  **Arch**: é muito leve e personalizável, e está constantemente a ser atualizada, num modelo "Rolling Release".
-3.  **Fedora**: é um meio-termo entre o Debian e o Arch, recebendo grandes atualizações de 6 em 6 meses.
+Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linux**, as utilidades **GNU**, pacotes de software, um ambiente gráfico, e outras ferramentas, *distribuídas* em conjunto. Existem centenas de distribuições diferentes, o que pode parecer avassalador, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de **Distros**: **Debian**, **Arch** e **Fedora**.
 
 A distribuição que vamos usar é o **CachyOS**, que é baseada no **Arch Linux**, e que tem algumas melhorias e adições, como um instalador gráfico, um kernel personalizado para performance e gaming, e um conjunto de software pré-instalado.
 
