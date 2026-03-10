@@ -31,14 +31,14 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 
 Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
-### 1. Octopi (Ambiente Gráfico)
+### 🐙 1. Octopi (Ambiente Gráfico)
 - Vai a **Iniciar** e procura **Octopi**
 - Pesquisa pela aplicação que queres instalar
 - Clica com o botão direito no nome do pacote e escolhes "**+ Instalar**"
 - Clica no **"Visto"** que aparece no canto superior esquerdo
 - Para remover uma aplicação o processo é o mesmo, mas selecionas **Remover**
 
-### 2. Konsole (Terminal)
+### ⌨️ 2. Konsole (Terminal)
 - Vai a **Iniciar** e procura **Konsole**
 - Usa o gestor de pacotes do **Arch Linux** chamado **pacman**
   - Exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
@@ -72,7 +72,7 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **Vesktop:** É o Discord mas numa aplicação alternativa, com algumas funcionalidades extra.
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
-## 3. Aplicações a Instalar do AUR
+## ⌨️ 3. Aplicações a Instalar do AUR
 Para instalar aplicações do AUR, tens mesmo que se usar a **Konsole**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
 
 Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole**:
@@ -91,7 +91,7 @@ Com este comando instalámos as seguintes aplicações:
 - Vai ao **Iniciar** e procura por **Gestão de Tipos de Letra**
 - Seleciona **Instalar de um Ficheiro** e procura os ficheiros .ttf transferidos
 
-## 4. Aplicações Flatpak/Flathub
+## 📦 4. Aplicações Flatpak/Flathub
 Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos procurar a aplicação desejada em https://flathub.org/, clicar na setinha ao lado do botão *Install* e copiar o código que lá está para a **Konsole**.
 
 Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
@@ -102,10 +102,10 @@ Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
-## 5. Aplicações Predefinidas
+## ⭐ 5. Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
-## 6. Atualizar Sistema / Cachy-Update
+## 🔄 6. Atualizar Sistema / Cachy-Update
 É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
 
 - Clica no **Cachy Updater**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal.
