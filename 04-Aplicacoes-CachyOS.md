@@ -42,7 +42,7 @@ Existem 2 formas de instalar aplicações dos repositórios oficiais:
 ### ⌨️ 2. Konsole (Terminal)
 - Vai a **Iniciar** e procura **Konsole**
 - Usa o gestor de pacotes do **Arch Linux** chamado **pacman**
-  - Exemplo: `sudo pacman -S nome-do-pacote-a-instalar`
+  - Exemplo: `sudo pacman -S haruna`
 
 Qual a melhor abordagem? Depende:
 - Para instalar **uma única aplicação** o **Octopi** é melhor, pois é mais fácil e intuitivo.
