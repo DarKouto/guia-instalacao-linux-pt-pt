@@ -78,6 +78,7 @@ O **Heroic Games Launcher** é o Launcher preferencial para jogos da EPIC Games 
   - Clica no *dropdown* com o texto **Show Wine Settings**
   - Aqui poderás selecionar a versão **Proton** que pretendes usar
 - Após instalado, podes explorar outras definições de cada jogo, como comandos de lançamento.
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-instalar.jpg" width=600>
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-1.jpg" width=600>
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-2.jpg" width=600>
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/heroic-3.jpg" width=600>
