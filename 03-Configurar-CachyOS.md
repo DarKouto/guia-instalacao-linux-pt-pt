@@ -93,6 +93,7 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Seleciona o mesmo Snapshot que selecionaste no **GRUB**
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
  - Reinicia o PC.
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/btrfs.jpg" width=600>
 
 <hr>
 <div align="left">
