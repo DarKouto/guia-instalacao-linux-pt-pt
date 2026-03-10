@@ -93,7 +93,7 @@ O Lutris serve para todos os outros Launchers, como a Battle.net, EA Games, Ubis
 - Clica com o botão direito do rato no Launcher/Jogo instalado e escolhe **Configure**
   - No separador **Runner Options** onde diz **Wine Options** podes escolher a versão do Proton.
  
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/lutris.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/lutris.jpg" width=700>
 
 ### Battle.net no Lutris
 O processo para instalar a **Battle.net** é ligeiramente diferente dos outros Launchers: 
