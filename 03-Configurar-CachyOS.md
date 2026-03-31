@@ -12,11 +12,6 @@ Agora que já temos o sistema operativo totalmente instalado e a funcionar, vamo
 
 **NOTA:** No KDE Plasma, o **Menu Iniciar** chama-se **Lançador de Aplicações**. No entanto, por uma questão de facilidade e hábito, vamos continuar a chamá-lo **Menu Iniciar** ao longo deste guia.
 
-## 👋 Janela CachyOS Hello
-Esta janela abre automaticamente assim que entras no sistema.
-- **Desativa** a opção **Launch at Start** (no canto inferior direito).
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cachy-hello.jpg" width=600>
-
 ## 👛 Desativar o KWallet
 O **KWallet** é um gestor de passwords cuja utilidade é no mínimo discutível. Como tal o melhor é desativá-lo.
 - Vai ao **Menu Iniciar** e procura por **Carteira KDE** (**Wallet**), e faz estes 2 passos **pela ordem descrita**:
