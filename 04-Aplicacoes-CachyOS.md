@@ -82,9 +82,9 @@ Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole
 yay -S ani-cli pcloud-drive visual-studio-code-bin
 ```
 Com este comando instalámos as seguintes aplicações:
-- **Ani-Cli:** uma forma de ver Anime Master Race directamente no Terminal. 
+- **Ani-Cli:** uma forma de pesquisar e ver Anime Master Race directamente no Terminal, basta escreveres `ani-cli` e seguires a instruções.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
-- **Visual Studio Code:**: o famoso IDE, ferramenta de programação, versão oficial.
+- **Visual Studio Code:** o famoso IDE, ferramenta de programação, versão oficial.
 
 ## 📦 Aplicações Flatpak/Flathub
 Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos procurar a aplicação desejada em https://flathub.org/, clicar na setinha ao lado do botão *Install* e copiar o código que lá está para a **Konsole**.
@@ -101,18 +101,18 @@ Com este comando instalámos as seguintes aplicações:
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
 ## 🔠 Tipos de Letra / Fonts:
-Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e MacOS. Existem formas "oficiais" de as instalar, mas dão algum trabalho. Como tal decidi criar 2 ficheiros que contêm as principais fonts que praticamente toda a gente usa. 
+Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e MacOS. Existem formas "oficiais" de as instalar, requerem algum trabalho extra. Como tal decidi facilitar-te a vida e criei 2 ficheiros que contêm as principais fonts que praticamente toda a gente usa. 
 - Faz o download dos seguintes ficheiros:
   - [Fonts Linux 1](https://raw.githubusercontent.com/darkouto/guia-instalacao-linux-pt-pt/main/fonts/fonts-linux-1.tar.gz)
   - [Fonts Linux 2](https://raw.githubusercontent.com/darkouto/guia-instalacao-linux-pt-pt/main/fonts/fonts-linux-2.tar.gz)
-- Após o download, extrai as pastas de cada um destes ficheiros.
+- Abre os ficheiros e extrai as pastas que lá estão comprimidas.
 - Vai ao **Iniciar** e procura por **Gestão dos Tipos de Letra**.
 - Seleciona **Instalar de um Ficheiro** e seleciona os ficheiros .ttf extraídos.
 - Quando perguntar onde queres instalar, escolhe **Sistema**.
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/fonts.jpg">
 
-**NOTA**: Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, e adicionas manualmente através da **Gestão dos Tipos de Letra**.
+**NOTA**: Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, descarrega-os, e torna a instalar através da **Gestão dos Tipos de Letra**.
 
 ## 🔄 Atualizar Sistema / Cachy-Update
 É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
