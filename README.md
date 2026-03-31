@@ -1,6 +1,6 @@
 # Instalação e Configuração do CachyOS Linux em PT-PT
 
-**ATUALIZADO 31 MARÇO 2026**
+**ATUALIZADO 31/03/2026**
 
 Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha mudança de Windows para **Linux**. Usava-a como forma de registar todas as descobertas, testes e configurações que fiz
 
