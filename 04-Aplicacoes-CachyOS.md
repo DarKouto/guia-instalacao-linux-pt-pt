@@ -32,6 +32,7 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
 ### 🐙 1. Octopi (Ambiente Gráfico)
+**NOTA**: O CachyOS está em processo de substituição do Octopi por outro programa chamado **Shelly**. Mais informações sobre como o usar estarão aqui brevemente. Caso a tua instalação não tenha Octopi, abre o terminal e escreve `sudo pacman -S octopi`
 - Vai a **Iniciar** e procura **Octopi**
 - Pesquisa pela aplicação que queres instalar
 - Clica com o botão direito no nome do pacote e escolhes "**+ Instalar**"
