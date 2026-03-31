@@ -110,7 +110,8 @@ Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e Ma
 - Quando perguntar onde queres instalar, escolhe **Sistema**.
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/fonts.jpg">
-Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, e adicionas manualmente através da **Gestão dos Tipos de Letra**.
+
+**NOTA**: Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, e adicionas manualmente através da **Gestão dos Tipos de Letra**.
 
 ## 🔄 Atualizar Sistema / Cachy-Update
 É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
