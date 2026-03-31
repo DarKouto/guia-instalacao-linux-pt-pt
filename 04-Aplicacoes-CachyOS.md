@@ -99,7 +99,7 @@ Com este comando instalámos as seguintes aplicações:
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
-### Para instalar Tipos de Letra / Fonts:
+## 🔠 Tipos de Letra / Fonts:
 - Procura na internet e transfere os ficheiros .ttf
 - Vai ao **Iniciar** e procura por **Gestão de Tipos de Letra**
 - Seleciona **Instalar de um Ficheiro** e procura os ficheiros .ttf transferidos
