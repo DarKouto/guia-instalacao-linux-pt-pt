@@ -100,9 +100,15 @@ Com este comando instalámos as seguintes aplicações:
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
 ## 🔠 Tipos de Letra / Fonts:
-- Procura na internet e transfere os ficheiros .ttf
-- Vai ao **Iniciar** e procura por **Gestão de Tipos de Letra**
-- Seleciona **Instalar de um Ficheiro** e procura os ficheiros .ttf transferidos
+Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e MacOS. Existem formas "oficiais" de as instalar, mas dão algum trabalho. Como tal decidi criar 2 ficheiros que contêm as principais fonts que praticamente toda a gente usa. 
+- Faz o download dos seguintes ficheiros:
+  - [Fonts Linux 1](https://raw.githubusercontent.com/darkouto/guia-instalacao-linux-pt-pt/main/fonts/fonts-linux-1.tar.gz)
+  - [Fonts Linux 2](https://raw.githubusercontent.com/darkouto/guia-instalacao-linux-pt-pt/main/fonts/fonts-linux-2.tar.gz)
+- Após o download, extrai as pastas de cada um destes ficheiros.
+- Vai ao **Iniciar** e procura por **Gestão dos Tipos de Letra**.
+- Seleciona **Instalar de um Ficheiro** e seleciona os ficheiros .ttf extraídos.
+- Escolhe Sistema.
+Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, e adicionas novamente através da **Gestão dos Tipos de Letra**
 
 ## 🔄 Atualizar Sistema / Cachy-Update
 É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers. Não existe separação como em sistemas Windows ou MacOS.
