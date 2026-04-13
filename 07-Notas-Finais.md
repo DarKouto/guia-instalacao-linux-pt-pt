@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Troubleshoot.md">[06 - Troubleshoot]</a>
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Resolucao-Problemas.md">[06 - Resolução de Problemas]</a>
 </div>
 <div align="right">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/tree/main">[Voltar ao Ínicio]</a>
@@ -20,7 +20,7 @@ Documentação escrita por **Daniel Couto (DarKouto)**
 
 <hr>
 <div align="left">
-  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Resolucao-Problemas.md">[06 - Resolução de Problemas]</a>
 </div>
 <div align="right">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/tree/main">[Voltar ao Ínicio]</a>
