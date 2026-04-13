@@ -2,7 +2,7 @@
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicações CachyOS]</a>
 </div>
 <div align="right">
-  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Notas-Finais.md">[06 - Notas Finais]</a>
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Resolucao-Problemas.md">[06 - Resolução de Problemas]</a>
 </div>
 <hr>
 
@@ -108,5 +108,5 @@ O processo para instalar a **Battle.net** é ligeiramente diferente dos outros L
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicações CachyOS]</a>
 </div>
 <div align="right">
-  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Notas-Finais.md">[06 - Notas Finais]</a>
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Resolucao-Problemas.md">[06 - Resolução de Problemas]</a>
 </div>
