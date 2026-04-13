@@ -7,7 +7,7 @@
 <hr>
 
 # Aplicações CachyOS
-Existem várias formas de instalar software no CachyOS. As principais são:
+Existem várias fontes das quais podemos instalar software no CachyOS. As 3 principais são:
 1. **Repositórios Oficiais** do CachyOS
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
