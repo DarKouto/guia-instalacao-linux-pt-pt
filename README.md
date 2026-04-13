@@ -26,5 +26,6 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/03-Configurar-CachyOS.md">[03 - Configurar CachyOS]</a><br>
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/04-Aplicacoes-CachyOS.md">[04 - Aplicações CachyOS]</a><br>
 <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a><br>
-<a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Notas-Finais.md">[06 - Notas Finais]</a>
+<a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Resolucao-Problemas.md">[06 - Resolução de Problemas]</a><br>
+<a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/07-Notas-Finais.md">[07 - Notas Finais]</a>
 <hr>
