@@ -42,14 +42,13 @@ Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico q
 ## 🎒 Aplicações Pré-Instaladas
 Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
 - **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
-- **Firefox**: é o browser/navegador que vem instalado por defeito.
+- **Firefox**: é o browser/navegador da Mozilla.
 - **GwenView**: visualizador e editor imagens, também permite ver vídeos.
 - **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
-- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
+- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
 
 ## 💽 Aplicações dos Repositórios Oficiais
-
-Ficam aqui algumas aplicações que considero essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**.
+Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
 
 **NOTA:** para colar texto no **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
 
@@ -83,7 +82,7 @@ Com este comando instalámos as seguintes aplicações:
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **Visual Studio Code:** o famoso IDE, ferramenta de programação, versão oficial.
 
-Para mais informações vai a https://aur.archlinux.org/
+Para mais informações vai a <a href="https://aur.archlinux.org/">https://aur.archlinux.org</a>
 
 ## 📦 Aplicações do Flatpak/Flathub
 
