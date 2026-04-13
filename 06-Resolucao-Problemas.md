@@ -36,6 +36,12 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Reinicia o PC.
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/btrfs.jpg" width=600>
 
+## 🔐 Remover Erro db.lock do pacman
+Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
+- Vai a Iniciar e procura por **Shelly**
+- Clicas em **Settings**
+- Clicas no botão **Remove db.lock**
+
 <hr>
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Jogos-CachyOS.md">[05 - Jogos CachyOS]</a>
