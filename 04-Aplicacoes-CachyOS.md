@@ -82,7 +82,7 @@ Com este comando instalámos as seguintes aplicações:
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **Visual Studio Code:** o famoso IDE, ferramenta de programação, versão oficial.
 
-Para mais informações vai a <a href="https://aur.archlinux.org/">https://aur.archlinux.org</a>
+Para mais informações vai a https://aur.archlinux.org
 
 ## 📦 Aplicações do Flatpak/Flathub
 
