@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/05-Troubleshoot.md">[06 - Troubleshoot]</a>
+  <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/06-Troubleshoot.md">[06 - Troubleshoot]</a>
 </div>
 <div align="right">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/tree/main">[Voltar ao Ínicio]</a>
