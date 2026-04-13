@@ -12,28 +12,30 @@ Existem várias fontes das quais podemos instalar software no CachyOS. As 3 prin
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
 
-Os **repositórios oficiais** são servidores onde tens o software testado e aprovado para o CachyOS, podes pensar nisso como se fosse uma **App Store** ou **Play Store**.
+Os **repositórios oficiais** são servidores que contêm os programas testados e aprovados para CachyOS, podes pensar nisso como se fosse uma **App Store** ou **Play Store**.
 
 As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém software que por vezes não se encontra nos repositórios oficiais.
 
-Existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
+Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
 ## 🐚 Shelly (Ambiente Gráfico)
 
-Para instalares aplicações podes usar usar o Terminal com um comando do género: ```bash sudo pacman -S audacious```, ou usar o **Shelly** que é um ambiente gráfico. Iremos usar o **Shelly** pois é mais simples e intuitivo.
+Para instalares aplicações podes usar usar o Terminal com um comando do género: ```sudo pacman -S audacious```, ou usar o **Shelly** que é um ambiente gráfico. Iremos usar o **Shelly** pois é mais simples e intuitivo.
 
+### Configurar Shelly
 - Vai a **Iniciar** e procura **Shelly**
 - Vai a Settings > Activa **AUR** > Activa **Flatpak** > Desactiva **Tray Icon**
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=700>
 
+### Instalar Aplicações
 - Seleciona o separador **"Install"** do lado esquerdo: isto vai procurar nos **repositórios oficiais**
 - Pesquina o pacote que queres instalar. Ex: audacious
 - Clica no **"Visto"** > Clica em **Instalar**
-- Para Desinstalares, fazes o mesmo processo mas selecionas o separador **"Manage"**
-- O processo é o mesmo caso queiras instalar algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador que está bem identificado.
+- Para desinstalares, selecionas o separador **"Manage"** e segues o mesmo processo.
+- Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador, que está bem identificado.
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
 
