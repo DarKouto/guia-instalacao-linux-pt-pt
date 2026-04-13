@@ -12,11 +12,12 @@ Existem várias formas de instalar software no CachyOS. As principais são:
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
 
-Um **repositório** é basicamente um servidor onde o software está armazenado, ao qual pedimos para instalar um certo pacote, podes pensar nisso como se fosse uma **App Store** ou **Play Store**. Atualizar ou remover software também é feito através do **repositório**.
+
+Os **repositório oficial** é basicamente um servidor onde tens o software testado e aprovado para funcionar no CachyOS, podes pensar nisso como se fosse uma **App Store** ou **Play Store**.
 
 As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém software que por vezes não se encontra nos repositórios oficiais.
 
-Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
+Existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
@@ -31,19 +32,20 @@ Finalmente, existe o **Flatpak/Flathub**, que é um repositório que funciona em
 
 Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
-### 🐙 1. Octopi (Ambiente Gráfico)
-**NOTA**: O CachyOS está em processo de substituição do Octopi por outro programa chamado **Shelly**. Mais informações sobre como o usar estarão aqui brevemente. Caso a tua instalação não tenha Octopi, abre o terminal e escreve `sudo pacman -S octopi`
-- Vai a **Iniciar** e procura **Octopi**
-- Pesquisa pela aplicação que queres instalar
-- Clica com o botão direito no nome do pacote e escolhes "**+ Instalar**"
-- Clica no **"Visto"** que aparece no canto superior esquerdo
-- Para remover uma aplicação o processo é o mesmo, mas selecionas **Remover**
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/octopi.jpg" width=700>
+### 🐙 1. Shelly (Ambiente Gráfico)
+- Vai a **Iniciar** e procura **Shelly**
+- Vai a Settings > Activa AUR > Activa o Flatpak > Desactiva Tray Icon
+- <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=700>
+- Seleciona "Instalar" do lado esquerdo
+- Pesquina o pacote que queres instalar
+- Clica no **"Visto"**
+- Clica em Instalar.
+- <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
 
 ### ⌨️ 2. Konsole (Terminal)
 - Vai a **Iniciar** e procura **Konsole**
 - Usa o gestor de pacotes do **Arch Linux** chamado **pacman**
-  - Exemplo: `sudo pacman -S haruna`
+  - Exemplo: `sudo pacman -S audacious`
 
 Qual a melhor abordagem? Depende:
 - Para instalar **uma única aplicação** o **Octopi** é melhor, pois é mais fácil e intuitivo.
