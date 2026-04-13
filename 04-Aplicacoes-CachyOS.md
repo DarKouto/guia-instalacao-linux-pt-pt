@@ -35,11 +35,14 @@ Existem 2 formas de instalar aplicações dos repositórios oficiais:
 ### 🐙 1. Shelly (Ambiente Gráfico)
 - Vai a **Iniciar** e procura **Shelly**
 - Vai a Settings > Activa AUR > Activa o Flatpak > Desactiva Tray Icon
+
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=700>
+
 - Seleciona "Instalar" do lado esquerdo
 - Pesquina o pacote que queres instalar
 - Clica no **"Visto"**
 - Clica em Instalar.
+  
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
 
 ### ⌨️ 2. Konsole (Terminal)
