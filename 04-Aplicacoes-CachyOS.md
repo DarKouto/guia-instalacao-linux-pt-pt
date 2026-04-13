@@ -39,7 +39,14 @@ Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico q
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
 
-### Aplicações Essenciais
+## 🎒 Aplicações Pré-Instaladas
+Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
+- **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
+- **Firefox**: é o browser/navegador que vem instalado por defeito.
+- **GwenView**: visualizador e editor imagens, também permite ver vídeos.
+- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
+- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
+## 💽 Aplicações Pré-Instaladas e Outras Essenciais
 
 Ficam aqui algumas aplicações que considero essenciais. Como são várias aplicações de uma só vez, o melhor é usar a **Konsole**, copia este comando para o teu Terminal.
 
@@ -89,12 +96,7 @@ Com este comando instalámos as seguintes aplicações:
 
 Para mais informação vai a https://flathub.org/
 
-## 🎒 Aplicações Pré-Instaladas e o seu Propósito
-- **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
-- **Firefox**: é o browser/navegador que vem instalado por defeito.
-- **GwenView**: visualizador e editor imagens, também permite ver vídeos.
-- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
-- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
+
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
