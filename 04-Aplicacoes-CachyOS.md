@@ -12,8 +12,7 @@ Existem várias formas de instalar software no CachyOS. As principais são:
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
 
-
-Os **repositório oficial** é basicamente um servidor onde tens o software testado e aprovado para funcionar no CachyOS, podes pensar nisso como se fosse uma **App Store** ou **Play Store**.
+Os **repositórios oficiais** são servidores onde tens o software testado e aprovado para o CachyOS, podes pensar nisso como se fosse uma **App Store** ou **Play Store**.
 
 As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém software que por vezes não se encontra nos repositórios oficiais.
 
@@ -21,20 +20,12 @@ Existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer di
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
-## 🎒 Aplicações Pré-Instaladas e o seu Propósito
-- **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
-- **Firefox**: é o browser/navegador que vem instalado por defeito.
-- **GwenView**: visualizador e editor imagens, também permite ver vídeos.
-- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
-- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
+## 🐚 Shelly (Ambiente Gráfico)
 
-## Aplicações a Instalar dos Repositórios Oficiais
+Existem 2 formas de instalar aplicações: usar o Terminal com um comando do género: 'sudo pacman -S audacious', ou usar o **Shelly** que é um ambiente gráfico. Iremos usar o **Shelly** pois é mais simples e intuitivo.
 
-Existem 2 formas de instalar aplicações dos repositórios oficiais:
-
-### 🐚 1. Shelly (Ambiente Gráfico)
 - Vai a **Iniciar** e procura **Shelly**
-- Vai a Settings > Activa AUR > Activa o Flatpak > Desactiva Tray Icon
+- Vai a Settings > Activa **AUR** > Activa **Flatpak** > Desactiva **Tray Icon**
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=700>
 
@@ -45,15 +36,6 @@ Existem 2 formas de instalar aplicações dos repositórios oficiais:
 - O processo é o mesmo caso queiras instalar algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador que está bem identificado.
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
-
-### ⌨️ 2. Konsole (Terminal)
-- Vai a **Iniciar** e procura **Konsole**
-- Usa o gestor de pacotes do **Arch Linux** chamado **pacman**
-  - Exemplo: `sudo pacman -S audacious`
-
-Qual a melhor abordagem? Depende:
-- Para instalar **uma única aplicação** o **Shelly** é melhor, pois é mais fácil e intuitivo.
-- Para instalar **várias aplicações** de uma só vez, a **Konsole** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
 ### Aplicações Essenciais
 
@@ -104,6 +86,13 @@ Com este comando instalámos as seguintes aplicações:
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 Para mais informação vai a https://flathub.org/
+
+## 🎒 Aplicações Pré-Instaladas e o seu Propósito
+- **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
+- **Firefox**: é o browser/navegador que vem instalado por defeito.
+- **GwenView**: visualizador e editor imagens, também permite ver vídeos.
+- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
+- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows. Para abrir carrega em **Super+Esc** (chama-se **Super** à tecla Windows)
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
