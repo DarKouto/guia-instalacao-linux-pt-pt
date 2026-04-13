@@ -52,7 +52,7 @@ Existem 2 formas de instalar aplicações dos repositórios oficiais:
   - Exemplo: `sudo pacman -S audacious`
 
 Qual a melhor abordagem? Depende:
-- Para instalar **uma única aplicação** o **Octopi** é melhor, pois é mais fácil e intuitivo.
+- Para instalar **uma única aplicação** o **Shelly** é melhor, pois é mais fácil e intuitivo.
 - Para instalar **várias aplicações** de uma só vez, a **Konsole** é melhor, pois com um único comando consegues instalar tudo ao mesmo tempo.
 
 ### Aplicações Essenciais
