@@ -22,7 +22,7 @@ Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualq
 
 ## 🐚 Shelly (Ambiente Gráfico)
 
-Para instalares aplicações vamos usar o **Shelly** que é um ambiente gráfico que nos permite pesquisar os repositórios. Também existe a possiblidade de usar o Terminal, com um comando do género: ```sudo pacman -S audacious```. No entanto o **Shelly** é mais simples e intuitivo.
+Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico que nos permite pesquisar nos repositórios. Também existe a possiblidade de usar o Terminal, com um comando do género: ```sudo pacman -S audacious```. No entanto o **Shelly** é mais simples e intuitivo.
 
 ### Configurar Shelly
 - Vai a **Iniciar** e procura **Shelly**
