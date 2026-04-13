@@ -38,10 +38,11 @@ Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=700>
 
-- Seleciona "Instalar" do lado esquerdo
-- Pesquina o pacote que queres instalar
-- Clica no **"Visto"**
-- Clica em Instalar.
+- Seleciona o separador **"Install"** do lado esquerdo: isto vai procurar nos **repositórios oficiais**
+- Pesquina o pacote que queres instalar. Ex: audacious
+- Clica no **"Visto"** > Clica em **Instalar**
+- Para Desinstalares, fazes o mesmo processo mas selecionas o separador **"Manage"**
+- O processo é o mesmo caso queiras instalar algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador que está bem identificado.
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
 
