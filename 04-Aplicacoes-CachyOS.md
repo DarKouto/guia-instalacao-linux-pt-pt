@@ -32,7 +32,7 @@ Existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer di
 
 Existem 2 formas de instalar aplicações dos repositórios oficiais:
 
-### 🐙 1. Shelly (Ambiente Gráfico)
+### 🐚 1. Shelly (Ambiente Gráfico)
 - Vai a **Iniciar** e procura **Shelly**
 - Vai a Settings > Activa AUR > Activa o Flatpak > Desactiva Tray Icon
 
