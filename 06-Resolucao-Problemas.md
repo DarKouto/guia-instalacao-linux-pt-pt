@@ -6,7 +6,7 @@
 </div>
 <hr>
 
-# 🔨 Troubleshoot / Resolução de Problemas
+# 🔨 Resolução de Problemas / Troubleshoot
 
 ## 🪟 Aceder ao Disco Windows (NTFS)
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
