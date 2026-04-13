@@ -22,7 +22,7 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 - Reinicia o PC.
 
 ## Snapshots / BTRFS Assistant
-Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é extremamente útil caso surja algum problema que quebre o sistema.
+Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é útil caso surja algum problema que quebre o sistema.
 Na improvável eventualidade de surgir algum problema fazes o seguinte:
 - No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
 - Escolhe um Snapshot com uma data anterior a esse problema.
