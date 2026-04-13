@@ -8,7 +8,7 @@
 
 # 🔨 Troubleshoot / Resolução de Problemas
 
-## Aceder ao Disco Windows (NTFS)
+## 🪟 Aceder ao Disco Windows (NTFS)
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
@@ -21,7 +21,7 @@ sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
 - Reinicia o PC.
 
-## Snapshots / BTRFS Assistant
+## 📸 Snapshots / BTRFS Assistant
 Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é útil caso surja algum problema que quebre o sistema.
 Na improvável eventualidade de surgir algum problema fazes o seguinte:
 - No Menu de Arranque (**GRUB**) seleciona a opção **CachyOS Snapshots**.
