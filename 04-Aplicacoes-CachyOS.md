@@ -22,7 +22,7 @@ Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualq
 
 ## 🐚 Shelly (Ambiente Gráfico)
 
-Para instalares aplicações podes usar usar o Terminal com um comando do género: ```sudo pacman -S audacious```, ou usar o **Shelly** que é um ambiente gráfico. Iremos usar o **Shelly** pois é mais simples e intuitivo.
+Para instalares aplicações vamos usar o **Shelly** que é um ambiente gráfico que nos permite pesquisar os repositórios. Também existe a possiblidade de usar o Terminal, com um comando do género: ```sudo pacman -S audacious```. No entanto o **Shelly** é mais simples e intuitivo.
 
 ### Configurar Shelly
 - Vai a **Iniciar** e procura **Shelly**
@@ -32,7 +32,7 @@ Para instalares aplicações podes usar usar o Terminal com um comando do géner
 
 ### Instalar Aplicações
 - Seleciona o separador **"Install"** do lado esquerdo: isto vai procurar nos **repositórios oficiais**
-- Pesquina o pacote que queres instalar. Ex: audacious
+- Pesquisa o pacote que queres instalar. Ex: audacious
 - Clica no **"Visto"** > Clica em **Instalar**
 - Para desinstalares, selecionas o separador **"Manage"** e segues o mesmo processo.
 - Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador, que está bem identificado.
