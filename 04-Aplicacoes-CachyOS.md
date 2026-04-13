@@ -81,9 +81,8 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
 ## ⌨️ Aplicações a Instalar do AUR
-Para instalar aplicações do AUR, tens mesmo que se usar a **Konsole**, com um "helper" chamado **yay**, que instalamos no comando anterior. Podes pesquisar por pacotes em https://aur.archlinux.org/
 
-Cá ficam algumas apps essenciais, copia o seguinte comando para a tua **Konsole**:
+Copia o seguinte comando para a tua **Konsole**:
 ```bash
 yay -S ani-cli pcloud-drive visual-studio-code-bin
 ```
@@ -92,16 +91,19 @@ Com este comando instalámos as seguintes aplicações:
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **Visual Studio Code:** o famoso IDE, ferramenta de programação, versão oficial.
 
-## 📦 Aplicações Flatpak/Flathub
-Para instalar Flatpaks, também temos que usar a **Konsole**, mas apenas precisamos procurar a aplicação desejada em https://flathub.org/, clicar na setinha ao lado do botão *Install* e copiar o código que lá está para a **Konsole**.
+Para mais informações vai a https://aur.archlinux.org/
 
-Em todo o caso, deixo aqui um comando com as aplicações essenciais em formato Flatpak:
+## 📦 Aplicações Flatpak/Flathub
+
+Copia o seguinte comando para a tua **Konsole**:
 ```bash
 flatpak install spotify tuxguitar
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Spotify:** até a minha avó sabe o que é o Spotify...
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
+
+Para mais informação vai a https://flathub.org/
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
