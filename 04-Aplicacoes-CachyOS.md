@@ -22,7 +22,7 @@ Existe o **Flatpak/Flathub**, que é um repositório que funciona em qualquer di
 
 ## 🐚 Shelly (Ambiente Gráfico)
 
-Existem 2 formas de instalar aplicações: usar o Terminal com um comando do género: 'sudo pacman -S audacious', ou usar o **Shelly** que é um ambiente gráfico. Iremos usar o **Shelly** pois é mais simples e intuitivo.
+Para instalares aplicações podes usar usar o Terminal com um comando do género: ```bash sudo pacman -S audacious```, ou usar o **Shelly** que é um ambiente gráfico. Iremos usar o **Shelly** pois é mais simples e intuitivo.
 
 - Vai a **Iniciar** e procura **Shelly**
 - Vai a Settings > Activa **AUR** > Activa **Flatpak** > Desactiva **Tray Icon**
