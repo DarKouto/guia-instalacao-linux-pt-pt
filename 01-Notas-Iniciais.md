@@ -35,8 +35,8 @@ A distribuição que vamos usar é uma uma modificação do **Arch Linux** chama
 - É **Grátis**. Qual é o Português que não gosta de coisas grátis?
 
 ## ❌ Desvantagens do Linux
-- Programas da **Adobe** (ex: Photoshop, Premiere) não funcionam muito bem, ou não funcionam mesmo.
-- Jogos que recentemente implementaram *Kernel Level Anti Cheat* não funcionam (ex: Apex Legends, BattleField 6)
+- Programas da **Adobe** (ex: Photoshop, Premiere) ainda não funcionam muito bem, ou não funcionam mesmo.
+- Jogos que recentemente implementaram *Kernel Level Anti Cheat* não funcionam (ex: Apex Legends, BattleField 6). Mas têm cheaters na mesma. *ESTUDASSES*
 - Jogos da **Riot Games** (ex: League of Legends, Valorant) também não funcionam. Tecnicamente isto até é uma **vantagem**. Mas nem me vou alongar mais sobre esse assunto.
 
 <hr>
