@@ -34,7 +34,7 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Seleciona o mesmo Snapshot que selecionaste no **GRUB**
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
  - Reinicia o PC.
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/btrfs.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/btrfs-assistant.jpg" width=700>
 
 ## 🔐 Remover Erro db.lock do pacman
 Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
