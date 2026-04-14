@@ -12,11 +12,11 @@ Existem várias fontes das quais podemos instalar software no CachyOS, podes pen
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
 
-Os **repositórios oficiais** contêm os programas testados e aprovados para CachyOS. Deves usar esta opção sempre que possível, pois é a mais indicada.
+Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS. Deves usar esta opção sempre que possível, pois é a mais indicada.
 
-As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. Uma excelente opção para encontrar software que não se encontra nos repositórios oficiais. 
+As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. Uma excelente opção para encontrar programas que não se encontram nos repositórios oficiais.
 
-Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar. Deves usar apenas o Flatpak caso o que procures não exista nem nos repositórios oficiais nem no AUR.
+Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar o Flatpak, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" Flatpak ocupam mais espaço em disco.
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
