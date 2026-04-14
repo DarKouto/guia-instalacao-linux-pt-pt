@@ -6,7 +6,7 @@ Esta documentação foi criada e mantida por mim (localmente) ao longo de mais d
 
 A distribuição que uso e irei aboardar neste documentação é o **CachyOS Linux**. Tenho-o instalado no meu Desktop, Laptop, nos computadores da minha empresa, e até no portátil pessoal do meu pai, que é uma pessoa sem conhecimentos técnicos. Também consegui "ressuscitar" vários portáteis antigos de amigos meus.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/terminator-bean.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-bean.jpg" width=600>
 
 Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema muito simples e intuitivo de usar, superando até o Windows ou MacOS em vários aspectos. Acredito que com este guia qualquer pessoa pode usar **Linux** no dia-a-dia sem qualquer problema.
 
