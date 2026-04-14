@@ -7,18 +7,18 @@
 <hr>
 
 # Aplicações CachyOS
-Existem várias fontes das quais podemos instalar software no CachyOS. As 3 principais são:
+Existem várias fontes das quais podemos instalar software no CachyOS, podes pensar nelas como sendo uma **App Store** ou **Play Store**. As 3 principais são:
 1. **Repositórios Oficiais** do CachyOS
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
 
-Os **repositórios oficiais** são servidores que contêm os programas testados e aprovados para CachyOS, podes pensar nisso como se fosse uma **App Store** ou **Play Store**.
+Os **repositórios oficiais** contêm os programas testados e aprovados para CachyOS. Deves usar esta opção sempre que possível, pois é a mais indicada.
 
-As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores, que contém software que por vezes não se encontra nos repositórios oficiais.
+As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. Uma excelente opção para encontrar software que não se encontra nos repositórios oficiais. 
 
-Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar.
+Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num contentor que inclui o programa e as dependências necessárias para o executar. Deves usar apenas o Flatpak caso o que procures não exista nem nos repositórios oficiais nem no AUR.
 
-**NOTA**: A ordem preferencial é como está aqui descrita: sempre que um programa existir nos repositórios oficiais é esse que deves usar, caso contrário procura no AUR, e se mesmo aí não houver então procura no Flatpak. Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
+**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
 ## 🐚 Shelly (Ambiente Gráfico)
 
