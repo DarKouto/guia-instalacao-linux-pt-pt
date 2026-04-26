@@ -26,7 +26,7 @@ Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico q
 
 ### Configurar Shelly
 - Vai a **Iniciar** e procura **Shelly**
-- Vai a Settings
+- Vai a **Settings**
 - Activa **AUR**
 - Activa **Flatpak**
 - Desactiva **Tray Icon**
