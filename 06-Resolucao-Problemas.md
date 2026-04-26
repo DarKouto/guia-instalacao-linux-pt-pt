@@ -10,12 +10,6 @@
 
 Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma mais simples de os resolver.
 
-## 🔐 Remover Erro db.lock do pacman
-Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
-- Vai a Iniciar e procura por **Shelly**
-- Clica em **Settings**
-- Clica no botão **Remove db.lock**
-
 ## 🪟 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
@@ -36,6 +30,8 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 - **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
 
+<hr>
+
 ## 🪟 Aceder ao Disco Windows (NTFS) no CachyOS
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
@@ -48,6 +44,8 @@ sudo pacman -S ntfs-3g
 sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
 ```
 - Reinicia o PC.
+
+<hr>
 
 ## 📸 Snapshots / BTRFS Assistant
 Sempre que instalas programas, atualizas o sistema ou mudas uma configuração importante, o CachyOS cria automaticamente um Snapshot/Ponto de Restauro, é como se fosse um *Save Point* de um jogo. Isto é útil caso surja algum problema que quebre o sistema.
@@ -63,6 +61,14 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
  - Reinicia o PC.
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/btrfs-assistant.jpg" width=700>
+
+<hr>
+
+## 🔐 Remover Erro db.lock do pacman
+Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
+- Vai a Iniciar e procura por **Shelly**
+- Clica em **Settings**
+- Clica no botão **Remove db.lock**
 
 <hr>
 <div align="left">
