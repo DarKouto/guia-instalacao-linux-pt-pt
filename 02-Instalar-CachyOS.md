@@ -60,8 +60,6 @@ Eis o que escolher em cada uma das opções e separadores:
 - Assim que o processo estiver concluído reinicia o PC.
 - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
 
-**NOTA:** é possível que não te apareça a opção para selecionar o Windows no **GRUB**. É normal, já vamos resolver disso no próximo capítulo.
- 
 <div align="center">
   <h1>
     Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧<br>Bem-vindo ao Linux 🐧
