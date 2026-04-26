@@ -8,6 +8,14 @@
 
 # 🔨 Resolução de Problemas / Troubleshoot
 
+Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma mais simples de os resolver.
+
+## 🔐 Remover Erro db.lock do pacman
+Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
+- Vai a Iniciar e procura por **Shelly**
+- Clica em **Settings**
+- Clica no botão **Remove db.lock**
+
 ## 🪟 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
@@ -55,12 +63,6 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
  - Clica no botão **Restore**. (opcional: escolhe um nome para esse backup)
  - Reinicia o PC.
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/btrfs-assistant.jpg" width=700>
-
-## 🔐 Remover Erro db.lock do pacman
-Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
-- Vai a Iniciar e procura por **Shelly**
-- Clica em **Settings**
-- Clica no botão **Remove db.lock**
 
 <hr>
 <div align="left">
