@@ -68,6 +68,7 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
 Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
 - Vai a Iniciar e procura por **Shelly**
 - Clica em **Settings**
+- Clica em **Advanced**
 - Clica no botão **Remove db.lock**
 
 <hr>
