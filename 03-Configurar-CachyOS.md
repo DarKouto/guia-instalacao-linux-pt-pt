@@ -40,26 +40,6 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 - Carregar na tecla **PrintScreen** abre automaticamente um programa chamado **Spectacle** que te permite fazer e editar capturas de ecrã rapidamente.
 - Vai ao **Menu Iniciar** e procura **Configuração do Sistema**. Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
 
-## 🪟 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
-Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
-- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
-
-**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
-```bash
-sudo os-prober
-```
-```bash
-kate /etc/default/grub
-```
-- Este segundo comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
-- Na parte final deste ficheiro, vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
-- Grava o ficheiro e escreve a tua password quando pedir.
-- **Finalmente** copia o seguinte comando para a **Konsole**:
-```bash
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
-- **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
-
 <hr>
 <div align="left">
   <a href="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/02-Instalar-CachyOS.md">[02 - Instalar CachyOS]</a>
