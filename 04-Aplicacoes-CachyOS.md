@@ -29,7 +29,7 @@ Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. C�
 - **Konsole**: é o emulador de **Terminal**. Existem outros mas este é o mais simples e o que vamos usar.
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
 
-## 🐚 Shelly (Ambiente Gráfico)
+## 🐚 Shelly
 
 Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico que nos permite pesquisar nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S audacious```. No entanto o **Shelly** é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
 
