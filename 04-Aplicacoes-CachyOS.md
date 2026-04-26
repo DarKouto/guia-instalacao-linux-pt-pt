@@ -104,7 +104,7 @@ Para mais informação vai a https://flathub.org/
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
 
 ## 🔠 Tipos de Letra / Fonts:
-Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e MacOS. Existem formas "oficiais" de as instalar, requerem algum trabalho extra. Como tal decidi facilitar-te a vida e criei 2 ficheiros que contêm as principais fonts que praticamente toda a gente usa. 
+Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e MacOS. Existem formas "oficiais" de as instalar, mas requerem algum trabalho extra. Como tal decidi facilitar-te a vida e criei 2 ficheiros que contêm as principais fonts que praticamente toda a gente usa. 
 - Faz o download dos seguintes ficheiros:
   - [Fonts Linux 1](https://raw.githubusercontent.com/darkouto/guia-instalacao-linux-pt-pt/main/fonts/fonts-linux-1.tar.gz)
   - [Fonts Linux 2](https://raw.githubusercontent.com/darkouto/guia-instalacao-linux-pt-pt/main/fonts/fonts-linux-2.tar.gz)
