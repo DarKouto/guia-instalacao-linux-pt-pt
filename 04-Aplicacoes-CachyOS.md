@@ -20,6 +20,15 @@ Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualq
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
+## 🎒 Aplicações Pré-Instaladas
+Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
+- **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
+- **Firefox**: é o browser/navegador da Mozilla.
+- **GwenView**: visualizador e editor imagens, também permite ver vídeos.
+- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
+- **Konsole**: é o emulador de **Terminal**. Existem outros mas este é o mais simples e o que vamos usar.
+- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
+
 ## 🐚 Shelly (Ambiente Gráfico)
 
 Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico que nos permite pesquisar nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S audacious```. No entanto o **Shelly** é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
@@ -41,15 +50,6 @@ Para instalar aplicações vamos usar o **Shelly** que é um ambiente gráfico q
 - Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador, que está bem identificado.
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
-
-## 🎒 Aplicações Pré-Instaladas
-Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
-- **ARK**: é um compressor de ficheiros, semelhante ao WinZIP ou WinRAR, 100% compatível com ficheiros deste tipo.
-- **Firefox**: é o browser/navegador da Mozilla.
-- **GwenView**: visualizador e editor imagens, também permite ver vídeos.
-- **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
-- **Konsole**: é o emulador de **Terminal**. Existem outros mas este é o mais simples e o que vamos usar.
-- **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
 
 ## 💽 Aplicações dos Repositórios Oficiais
 Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
