@@ -48,7 +48,7 @@ Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. C�
 - **Firefox**: é o browser/navegador da Mozilla.
 - **GwenView**: visualizador e editor imagens, também permite ver vídeos.
 - **Kate**: editor de texto semelhante ao **Bloco de Notas** ou **Notepad++**
-- **Konsole**: é o emulador de **Terminal** do KDE Plasma. Existem outros mas este é o mais simples de usar.
+- **Konsole**: é o emulador de **Terminal**. Existem outros mas este é o mais simples e o que vamos usar.
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
 
 ## 💽 Aplicações dos Repositórios Oficiais
