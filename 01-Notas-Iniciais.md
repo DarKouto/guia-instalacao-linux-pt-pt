@@ -21,7 +21,7 @@ Aquilo a que chamamos um sistema operativo **Linux** é, na verdade, uma combina
 ## 📦 Distribuições de Linux (Distros)
 Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linux**, as utilidades **GNU**, pacotes de software, um ambiente gráfico, e outras ferramentas, *distribuídas* em conjunto.
 
-Existem centenas de distribuições diferentes, o que pode parecer avassalador, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de distros: **Debian**, **Arch** e **Fedora**.
+Existem centenas de distribuições diferentes, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de distros: **Debian**, **Arch** e **Fedora**.
 
 A distribuição que vamos usar é uma uma modificação do **Arch Linux** chamada **CachyOS**, que tem algumas melhorias e adições, como um instalador gráfico, um Kernel personalizado para performance/gaming, um conjunto de software pré-instalado e outras utilidades que tornam o sistema mais simples e fácil de usar.
 
