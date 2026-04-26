@@ -11,8 +11,7 @@
 **NOTA:** Este guia irá instalar o **CachyOS** num sistema que já tenha Windows. Assim, irás ficar com dois sistemas operativos a funcionar, e no arranque do computador podes escolher se queres arrancar para **Linux** ou para **Windows**, num processo que se chama **Dual-Boot**. Esta opção é ideal para quem está a começar e não se quer comprometer a usar apenas Linux. Caso queiras ignorar este passo, a instalação será ainda mais simples.
 
 ## ⬇️ Transferir a imagem .iso do CachyOS
-Este ficheiro é o Sistema Operativo propriamente dito.
-- Vai a [https://cachyos.org/download](https://cachyos.org/download) e escolhe a **Desktop Edition**. Qualquer método de Download é viável, mas eu costumo usar o Direct. Guarda o ficheiro no teu computador.
+Vai a [https://cachyos.org/download](https://cachyos.org/download) e escolhe a **Desktop Edition**. Qualquer método de Download é viável, mas eu costumo usar o Direct. Guarda o ficheiro no teu computador.
 
 ## 💽 "Gravar" a imagem .iso numa Pen Drive USB
 Se já instalaste sistemas operativos, certamente já estarás familizarizado com este processo. Precisas de um programa para "gravar" a imagem .iso do **CachyOS** na tua Pen Drive. Escolhe aquele que preferires, mas os mais populares são:
