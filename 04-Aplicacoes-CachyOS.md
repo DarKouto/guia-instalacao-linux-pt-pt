@@ -52,7 +52,7 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
 
 ## 💽 Aplicações dos Repositórios Oficiais
-Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
+Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
 
 **NOTA:** para colar texto no **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
 
