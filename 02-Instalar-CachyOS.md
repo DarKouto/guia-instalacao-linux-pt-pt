@@ -59,6 +59,12 @@ Eis o que escolher em cada uma das opções e separadores:
 - Assim que o processo estiver concluído reinicia o PC.
 - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
 
+**NOTA**: Em alguns casos muito raros é possível que não te apareça a opção **CachyOS** na tua **BIOS**, se isso acontecer faz o seguinte:
+- **Activa** novamente o **Secure Boot**
+- Procura uma opção que diga **"Add Custom Boot Option"** / **"Add UEFI File as Trusted"** ou semelhante.
+- Seleciona o ficheiro boot do CachyOS, será algo do com o nome **bootx64.efi**
+- Grava as altereções e reinicia.
+
 <div align="center">
   <h1>
     Parabéns! Conseguiste instalar com sucesso o CachyOS 🐧<br>Bem-vindo ao Linux 🐧
