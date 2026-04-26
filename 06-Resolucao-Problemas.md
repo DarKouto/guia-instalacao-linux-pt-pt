@@ -8,7 +8,27 @@
 
 # 🔨 Resolução de Problemas / Troubleshoot
 
-## 🪟 Aceder ao Disco Windows (NTFS)
+## 🪟 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
+Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
+- Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
+
+**NOTA:** para colar texto na **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
+```bash
+sudo os-prober
+```
+```bash
+kate /etc/default/grub
+```
+- Este segundo comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
+- Na parte final deste ficheiro, vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
+- Grava o ficheiro e escreve a tua password quando pedir.
+- **Finalmente** copia o seguinte comando para a **Konsole**:
+```bash
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+```
+- **Reinicia o PC**. Agora já podes escolher qual o sistema operativo que queres usar quando o PC arranca.
+
+## 🪟 Aceder ao Disco Windows (NTFS) no CachyOS
 Por vezes, o CachyOS não consegue abrir o Disco do Windows caso esteja no formato NTFS (que é o mais comum), caso isso aconteça:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
 
