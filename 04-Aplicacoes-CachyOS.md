@@ -39,6 +39,7 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
   - Activa **AUR**
   - Activa **Flatpak**
   - Desactiva **Tray Icon**
+  - Clica em **Finish** (em baixo)
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly01.jpg" width=750>
 
