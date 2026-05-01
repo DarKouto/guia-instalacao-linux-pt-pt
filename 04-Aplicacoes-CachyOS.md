@@ -41,7 +41,7 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
   - Desactiva **Tray Icon**
   - Clica em **Finish Setup**
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=700>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=650>
 
 ### Instalar Aplicações
 - Seleciona o separador **"Install"** do lado esquerdo: isto vai procurar nos **repositórios oficiais**
