@@ -119,9 +119,11 @@ Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e Ma
 **NOTA**: Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, descarrega-os, e torna a instalar através da **Gestão dos Tipos de Letra**.
 
 ## 🔄 Atualizar Sistema / Cachy-Update
-É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers.
+Contrariamente ao Windows e MacOS, no Linux as actualizações não são automáticas, são manuais e ficam sempre ao encargo e responsabilidade do utilizador. Felizmente no CachyOS há uma forma muito simples de o fazeres:
 - Clica no **Cachy Update**, que é o **ícone do CachyOS** que aparece no canto inferior direito (junto ao relógio). Agora é só seguir as instruções que aparecem no terminal.
 - **NOTA**: se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
+
+É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers.
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cachy-update.jpg">
 
 <hr>
