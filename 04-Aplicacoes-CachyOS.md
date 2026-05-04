@@ -124,9 +124,9 @@ Contrariamente ao Windows e MacOS, no Linux as actualizações não são automá
 - Segue as instruções que te aparecem no Terminal.
 - Se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
 
-É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos, visto que o CachyOS/Arch é uma *rolling release*). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers.
-
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cachy-update.jpg">
+
+**NOTA**: É recomendado que atualizes o teu sistema com regularidade (uma vez por semana pelo menos, visto que o CachyOS/Arch é uma *rolling release*). Ao atualizares um sistema Linux, ele faz tudo de uma só vez: atualiza o Sistema Operativo, as Aplicações e os Drivers.
 
 <hr>
 <div align="left">
