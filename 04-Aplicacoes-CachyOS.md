@@ -80,10 +80,11 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 
 Copia o seguinte comando para a tua **Konsole**:
 ```bash
-yay -S ani-cli pcloud-drive visual-studio-code-bin
+yay -S ani-cli lyra-music-bin pcloud-drive visual-studio-code-bin
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Ani-Cli:** uma forma de pesquisar e ver Anime Master Race directamente no Terminal, basta escreveres `ani-cli` e seguires a instruções.
+- **Lyra Music:** uma plataforma de streaming de música, rádio e podcasts. Semelhante ao Spotify mas com preços muito mais justos. E já agora, sou eu mesmo o mantedor oficial do pacote no AUR.
 - **pCloud Drive:** uma Cloud alternativa ao Google Drive, OneDrive, Dropbox, etc.
 - **Visual Studio Code:** o famoso IDE, ferramenta de programação, versão oficial.
 
@@ -93,10 +94,10 @@ Para mais informações vai a https://aur.archlinux.org
 
 Copia o seguinte comando para a tua **Konsole**:
 ```bash
-flatpak install spotify tuxguitar
+flatpak install chrome spotify tuxguitar
 ```
 Com este comando instalámos as seguintes aplicações:
-- **Spotify:** até a minha avó sabe o que é o Spotify...
+- **Google Chrome**: o famoso browser da Google. **NÃO RECOMENDO** ninguém usar este devorador de RAM. Mas sei que muita gente tem lá todas as suas contas e os dados, e não quer estar a ter o trabalho de migrar para outro browser, portanto cá fica.
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 Para mais informação vai a https://flathub.org/
