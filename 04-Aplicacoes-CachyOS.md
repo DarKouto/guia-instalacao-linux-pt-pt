@@ -18,7 +18,7 @@ As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repo
 
 Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar o Flatpak, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" Flatpak ocupam mais espaço em disco.
 
-**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
+**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta. Em todo o caso há informações sobre como instalar o formato **AppImage** mais abaixo.
 
 ## 🎒 Aplicações Pré-Instaladas
 Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
@@ -77,7 +77,6 @@ Com este comando instalámos as seguintes aplicações (assimo como algumas depe
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 
 ## ⌨️ Aplicações do AUR
-
 Copia o seguinte comando para a tua **Konsole**:
 ```bash
 yay -S ani-cli lyra-music-bin pcloud-drive visual-studio-code-bin
@@ -91,7 +90,6 @@ Com este comando instalámos as seguintes aplicações:
 Para mais informações vai a https://aur.archlinux.org
 
 ## 📦 Aplicações do Flatpak/Flathub
-
 Copia o seguinte comando para a tua **Konsole**:
 ```bash
 flatpak install chrome spotify tuxguitar
@@ -101,6 +99,13 @@ Com este comando instalámos as seguintes aplicações:
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 Para mais informação vai a https://flathub.org/
+
+## ⚙️ Aplicações AppImage
+Caso não encontres o software que procures nestes 3 repositórios, é possível que exista uma **AppImage** oficial. Este formato é um pouco semelhante a um ficheiro de instalação .exe no Windows. Para instalares segues os seguintes passos:
+- Procura no site oficial ou na internet pela AppImage do software que procuras.
+- Caso exista, faz download do ficheiro.
+- Abre o **Shelly** > Settings > Activa **AppImage Support**
+- Vais ao separador AppImage > Clicas em **+ Install AppImage** > Escolhes o ficheiro que descarregaste.
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
