@@ -56,7 +56,7 @@ Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal
 
 Caso precises de alguns *tweaks* mais específicos:
 - Podes encontrar a pasta dos jogos instalados pela Steam em: `~/.local/share/Steam/steamapps/common`
-- Podes ver os Saves/Configs que normalmente estariam na pasta AppData em: `~/.local/share/Steam/steamapps/compatdata/ID-NUMÉRICO-DO-JOGO/pfx/drive_c/users/steamuser/`
+- Podes ver os Saves/Configs que normalmente estariam na pasta **AppData** em: `~/.local/share/Steam/steamapps/compatdata/ID-NUMÉRICO-DO-JOGO/pfx/drive_c/users/steamuser/`
 
  
 ## ⚛️ ProtonUP-QT
