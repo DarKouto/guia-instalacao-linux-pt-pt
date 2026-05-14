@@ -2,7 +2,7 @@
 
 **ATUALIZADO 14/05/2026**
 
-Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha mudança de Windows para **Linux**. Usava-a como forma de registar todas as descobertas, testes e configurações que fiz. Decidi agora partilhá-la para facilitar a mudança para **Linux** a outros utilizadores, poupando-lhes tempo de investigação e explicando todo o processo. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua.
+Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha mudança de Windows para **Linux**. Usava-a como forma de registar todas as descobertas, testes e configurações que fiz. Decidi agora partilhá-la para facilitar a mudança para **Linux** a outros utilizadores. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua.
 
 A distribuição que uso e irei aboardar neste documentação é o **CachyOS Linux**. Tenho-o instalado no meu PC Gaming, PC Portátil, nos computadores da minha empresa, e até no portátil pessoal do meu pai, que apenas quer algo que funcione. Também consegui "ressuscitar" vários portáteis antigos de amigos meus.
 
