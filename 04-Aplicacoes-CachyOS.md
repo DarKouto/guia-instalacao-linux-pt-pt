@@ -12,7 +12,7 @@ Existem várias fontes das quais podemos instalar software no CachyOS, podes pen
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
 
-Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS. Deves usar esta opção sempre que possível, pois é a mais indicada.
+Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS. Deves usar esta opção sempre que possível.
 
 As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. Uma excelente opção para encontrar programas que não se encontram nos repositórios oficiais.
 
@@ -102,10 +102,9 @@ Para mais informação vai a https://flathub.org/
 
 ## ⚙️ Aplicações AppImage
 Caso não encontres o software que procures nestes 3 repositórios, é possível que exista uma **AppImage** oficial. Este formato é um pouco semelhante a um ficheiro de instalação .exe no Windows. Para instalares segues os seguintes passos:
-- Procura no site oficial ou na internet pela AppImage do software que procuras.
-- Caso exista, faz download do ficheiro.
-- Abre o **Shelly** > Settings > Activa **AppImage Support**
-- Vais ao separador AppImage > Clicas em **+ Install AppImage** > Escolhes o ficheiro que descarregaste.
+- Procura no site oficial ou na internet se existe AppImage do software que procuras. Se existir faz o download do ficheiro.
+- Abre o **Shelly** > Vai a **Settings** > Activa **AppImage Support**
+- Vais ao separador **AppImage** > Clicas em **+ Install AppImage** > Escolhes o ficheiro que descarregaste.
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
