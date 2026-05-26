@@ -10,6 +10,13 @@
 
 Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma mais simples de os resolver.
 
+## 🌐 Problemas de Login em Sites
+Em alguns sites (PayPal, agências de viagem, lojas online) podem surgem dificuldades ao fazer login através do browser. Isto acontece porque os **🫏 burros 🫏** que fizeram o site especificaram que só sistemas operativos Windows ou MacOS o podem aceder, e como estás em Linux aquilo bloqueia-te o login. Felizmente há uma solução muito simples para isto, basta instalares uma extensão chamada: **User-Agent Switcher**
+- Para Firefox (e derivados): https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
+- Para Chromium (e derivados): https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
+
+Agora basta clicares no ícone da extensão e mudares o **Agent** para Windows ao MacOS. Isso *engana* o site para achar que estás noutro sistema, e já funciona normalmente.
+
 ## 🪟 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
 - Vai ao **Menu Iniciar** e procura por **Konsole** (Terminal), copia os seguintes comandos para lá
