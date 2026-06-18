@@ -43,7 +43,7 @@ Fecha o Dolphin e torna a abrir, vais reparar que na parte de baixo tem um "slid
 - Vai ao **Menu Iniciar** e clica no teu nome, que aparece no canto superior esquerdo, isto abre o menu de **Conta de Utilizador**, aqui podes modificar a tua password, assim como a foto de perfil
 - Para adicionar um programa favorito ao **Menu Iniciar** ou ao **Painel**, procuras o programa no **Iniciar**, clicas com o botão direito e escolhes **Adicionar aos Favoritos** (para Iniciar) ou **Fixar no Gestor de Tarefas** (para o Painel)
 - Carregar na tecla **PrintScreen** abre automaticamente um programa chamado **Spectacle** que te permite fazer e editar capturas de ecrã rapidamente.
-- Vai ao **Menu Iniciar** e procura **Configuração do Sistema**. Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
+- Vai ao **Menu Iniciar** e procura **Definições de Sistema**. Aqui podes modificar as definições de Teclado, Rato, Som, Energia, etc ao teu gosto. Investiga e testa à vontade.
 
 <hr>
 <div align="left">
