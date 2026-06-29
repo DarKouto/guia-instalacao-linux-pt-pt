@@ -18,14 +18,16 @@ Aquilo a que chamamos um sistema operativo **Linux** é, na verdade, uma combina
 
 É comum encontrar quem defenda que o termo mais correto seria **GNU/Linux**. No entanto, por convenção social e simplicidade, acabou-se por chamar simplesmente **Linux**.
 
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-archwiki.jpg" height=500>
+
 ## 📦 Distribuições de Linux (Distros)
 Uma **Distro Linux** é um sistema operativo completo que inclui o **Kernel Linux**, as utilidades **GNU**, pacotes de software, um ambiente gráfico, e outras ferramentas, *distribuídas* em conjunto.
 
 Existem centenas de distribuições diferentes, mas a grande maioria são adaptações e modificações de outras distribuições maiores. Como tal, considero existirem 3 grandes "famílias" de distros: **Debian**, **Arch** e **Fedora**.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-you3.webp" height=500>
-
 A distribuição que vamos usar é uma uma modificação do **Arch Linux** chamada **CachyOS**, que tem algumas melhorias e adições, como um instalador gráfico, um Kernel personalizado para performance/gaming, um conjunto de software pré-instalado e outras utilidades que tornam o sistema mais fácil de usar.
+
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-you3.webp" height=500>
 
 ## ✅ Vantagens do Linux
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou MacOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
@@ -33,8 +35,6 @@ A distribuição que vamos usar é uma uma modificação do **Arch Linux** chama
 - **Segurança:** Devido à sua natureza de código aberto, é muito mais díficil existirem vírus em Linux, e as pequenas falhas de segurança no código podem ser vistas e corrigidas por qualquer pessoa.
 - **Privacidade:** Contrariamente ao Windows e MacOS que estão cheios de telemetria, *spyware*, *AI slop* e outras funcionalidades invasivas, o Linux não recolhe quaisquer dados sobre os seus utilizadores.
 - É **Grátis**. Qual é o Português que não gosta de coisas grátis?
-
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-archwiki.jpg" height=500>
 
 ## ❌ Desvantagens do Linux
 - Programas da **Adobe** (ex: Photoshop, Premiere) ainda não funcionam muito bem, ou não funcionam mesmo.
