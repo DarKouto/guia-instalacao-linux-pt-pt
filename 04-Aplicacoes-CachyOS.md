@@ -11,14 +11,17 @@ Existem várias fontes das quais podemos instalar software no CachyOS, podes pen
 1. **Repositórios Oficiais** do CachyOS
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
+4. **AppImage**
 
 Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS. Deves usar esta opção sempre que possível.
 
 As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. Uma excelente opção para encontrar programas que não se encontram nos repositórios oficiais.
 
-Existe ainda o **Flatpak/Flathub**, que é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar o Flatpak, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" Flatpak ocupam mais espaço em disco.
+O **Flatpak/Flathub** é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar Flatpaks, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" ocupam mais espaço em disco.
 
-**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (AppImage, Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta. Em todo o caso há informações sobre como instalar o formato **AppImage** mais abaixo.
+Uma **AppImage** é basicamente um só ficheiro executável que tem a aplicação a funcionar.
+
+**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
 ## 🎒 Aplicações Pré-Instaladas
 Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
@@ -38,10 +41,11 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
 - Na Configuração Inicial faz o seguinte:
   - Activa **AUR**
   - Activa **Flatpak**
+  - Activa **AppImage**
   - Desactiva **Tray Icon**
   - Clica em **Finish Setup**
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly01.jpg" width=650>
 
 ### Instalar Aplicações
 - Seleciona o separador **"Install"** do lado esquerdo: isto vai procurar nos **repositórios oficiais**
@@ -101,10 +105,9 @@ Com este comando instalámos as seguintes aplicações:
 Para mais informação vai a https://flathub.org/
 
 ## ⚙️ Aplicações AppImage
-Caso não encontres o software que procures nestes 3 repositórios, é possível que exista uma **AppImage** oficial. Este formato é um pouco semelhante a um ficheiro de instalação .exe no Windows. Para instalares segues os seguintes passos:
-- Procura no site oficial ou na internet se existe AppImage do software que procuras. Se existir faz o download do ficheiro.
-- Abre o **Shelly** > Vai a **Settings** > Activa **AppImage Support**
-- Vais ao separador **AppImage** > Clicas em **+ Install AppImage** > Escolhes o ficheiro que descarregaste.
+Para instalares AppImages, segues os seguintes passos:
+- Visita o oficial do Software que procuras, se existir uma versão **AppImage** descarrega o ficheiro
+- Abre o **Shelly** > Separador **AppImage** > Clica em **+ Install AppImage** > Escolhes o ficheiro que descarregaste.
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
