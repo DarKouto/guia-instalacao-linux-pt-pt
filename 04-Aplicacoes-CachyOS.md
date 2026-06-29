@@ -19,7 +19,7 @@ As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repo
 
 O **Flatpak/Flathub** é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar Flatpaks, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" ocupam mais espaço em disco.
 
-Uma **AppImage** é basicamente um só ficheiro executável que tem a aplicação a funcionar.
+Uma **AppImage** é basicamente um só ficheiro executável que tem a aplicação a funcionar. É algo semelhante a um ficheiro .exe no Windows, mas com algumas diferenças.
 
 **NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
 
@@ -106,9 +106,13 @@ Com este comando instalámos as seguintes aplicações:
 Para mais informação vai a https://flathub.org/
 
 ## ⚙️ Aplicações AppImage
-Para instalares AppImages, segues os seguintes passos:
-- Visita o oficial do Software que procuras, se existir uma versão **AppImage** descarrega o ficheiro
-- Abre o **Shelly** > Separador **AppImage** > Clica em **+ Install AppImage** > Escolhes o ficheiro que descarregaste.
+Caso não encontres o que procuras nestes 3 repositórios, a próxima melhor alternativa é usares uma AppImage. Visita o site oficial do Software que procuras, ou algum site fidedigno, e verifica se existe uma versão **AppImage**, se existir descarrega o ficheiro.
+
+Para instalares AppImages basta clicares 2x no ficheiro. Mas para ficar tudo integrado no sistema de uma forma mais correcta, segue os seguintes passos:
+- Abre o **Shelly**
+- Vai ao separador lateral **AppImage**
+- Clica em **+ Instalar AppImage** 
+- Escolhes o ficheiro que descarregaste.
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
