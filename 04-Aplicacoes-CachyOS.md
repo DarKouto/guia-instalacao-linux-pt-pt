@@ -48,13 +48,15 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly01.jpg" width=650>
 
 ### Instalar Aplicações
-- Seleciona o separador **"Install"** do lado esquerdo: isto vai procurar nos **repositórios oficiais**
-- Pesquisa o pacote que queres instalar. Ex: audacious
-- Clica no **"Visto"** > Clica em **Instalar**
-- Para desinstalares, selecionas o separador **"Manage"** e segues o mesmo processo.
+1. Seleciona o separador **"Pacotes"** do lado esquerdo. Este refere-se aos **repositórios oficiais**.
+2. Seleciona o separador **Instalar** em cima.
+3. Pesquisa o pacote que queres instalar. Ex: piper
+4. Clica no **"Visto"** para selecionar
+5. Clica em **Instalar Selecionados**
+- Para desinstalares, selecionas o separador **"Gerir"** em cima, e segues o mesmo processo.
 - Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador, que está bem identificado.
   
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=700>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly02.jpg" width=700>
 
 ## 💽 Aplicações dos Repositórios Oficiais
 Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
