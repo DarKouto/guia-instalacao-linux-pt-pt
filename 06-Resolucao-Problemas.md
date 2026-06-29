@@ -29,7 +29,7 @@ sudo os-prober
 kate /etc/default/grub
 ```
 - Este segundo comando vai abrir um ficheiro de texto no **Kate** (Bloco de Notas)
-- Na parte final deste ficheiro, vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto.
+- Na parte final deste ficheiro, vais encontrar uma linha com o texto `#GRUB_DISABLE_OS_PROBER=false`, remove o símbolo `#` que aparece antes do texto de forma a que fique escrito `GRUB_DISABLE_OS_PROBER=false`
 - Grava o ficheiro e escreve a tua password quando pedir.
 - **Finalmente** copia o seguinte comando para a **Konsole**:
 ```bash
