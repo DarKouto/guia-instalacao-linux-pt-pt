@@ -27,14 +27,14 @@ Existem centenas de distribuições diferentes, mas a grande maioria são adapta
 
 A distribuição que vamos usar é uma uma modificação do **Arch Linux** chamada **CachyOS**, que tem algumas melhorias e adições, como um instalador gráfico, um Kernel personalizado para performance/gaming, um conjunto de software pré-instalado e outras utilidades que tornam o sistema mais fácil de usar.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-archwiki.jpg" height=500>
-
 ## ✅ Vantagens do Linux
 - **Desempenho:** Os sistemas Linux são factualmente mais leves que Windows ou MacOS, sendo ideiais para "ressuscitar" PC's antigos, assim como ter uma melhor performance em PC's recentes.
 - **Estabilidade:** O Kernel Linux é muito mais estavél que qualquer outro. Não é por acaso que 95% dos servidores no mundo correm Linux.
 - **Segurança:** Devido à sua natureza de código aberto, é muito mais díficil existirem vírus em Linux, e as pequenas falhas de segurança no código podem ser vistas e corrigidas por qualquer pessoa.
 - **Privacidade:** Contrariamente ao Windows e MacOS que estão cheios de telemetria, *spyware*, *AI slop* e outras funcionalidades invasivas, o Linux não recolhe quaisquer dados sobre os seus utilizadores.
 - É **Grátis**. Qual é o Português que não gosta de coisas grátis?
+
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/meme-archwiki.jpg" height=500>
 
 ## ❌ Desvantagens do Linux
 - Programas da **Adobe** (ex: Photoshop, Premiere) ainda não funcionam muito bem, ou não funcionam mesmo.
