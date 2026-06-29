@@ -38,14 +38,15 @@ Agora o **CachyOS** está oficialmente a correr em fomato **Live USB**. Isto per
 **NOTA:** Antes de iniciares a instalação, certifica-te de que tens a internet ligada, é possível que em alguns portáteis mais antigos o Wi-Fi não funcione de imediato, se isso acontecer tenta ligar um cabo Ethernet, que o **CachyOS** consegue logo instalar driver do Wi-Fi.
 
 Eis o que escolher em cada uma das opções e separadores:
-- **Location**: escolhes a tua localização e língua (com a internet ligada é automaticamente detectada)
-- **Keyboard**: escolhes o esquema do teclado (caso tenhas um teclado noutra língua)
-- **Bootloader**: escolhes o **GRUB**, é o padrão do Linux, funciona bem e não há nada a apontar.
-- **Partitions**: escolhes em cima o Disco onde queres instalar o CachyOS (caso tenhas mais que um), e como o queres particionar:
-  - Caso vás usar Dual-Boot (juntamento com Windows), escolhes **Instalar Paralelamente**
-  - Em baixo clicas na partição **Actual** (colorida). Agora na partição **Depois** usas o *slider* para definir o tamanho da partição do CachyOS.
-
-**NOTA**: Caso tenhas um 2º Disco, ou queiras usar apenas **CachyOS**, selecionas a opção **Apagar Disco** e fazes seguinte. Fácil.
+- **Location**: a tua localização e língua (com a internet ligada é automaticamente detectada).
+- **Keyboard**: o esquema do teclado que usas.
+- **Bootloader**: seleciona o **GRUB**, é o padrão do Linux, funciona bem e não há nada a apontar.
+- **Partitions**: em cima tens uma opção para selecionar o **Disco Rígido** onde queres instalar o CachyOS, e como o queres particionar:
+  - Caso queiras usar somente **CachyOS**, ou tenhas um 2º Disco só para esse efeito, selecionas a opção **Apagar Disco** e fazes seguinte. Fácil
+  - Caso vás usar o **Dual-Boot** (juntamente com Windows), escolhes **Instalar Paralelamente**
+  - Em baixo vão-te aparecer 2 barras:
+    - Clica uma vez na barra que diz **Actual** (a de cima).
+    - Agora na partição **Depois** (a de baixo) usas o *slider* para definir o tamanho da partição do CachyOS.
 
 - **Desktop**: escolhe **Plasma Desktop**, também conhecido como **KDE Plasma**. É o DE com o qual iremos trabalhar neste guia.
 - **Packages**: por norma, apenas precisas de selecionar **Printing Support** (caso tenhas impressora) e também **HP Printer/Scanner support** (caso o fabricante seja a **HP**).
@@ -54,15 +55,15 @@ Eis o que escolher em cada uma das opções e separadores:
     - **Nome de Utilizador** escreves o teu *username*, tudo com **letras minúsculas** e **sem espaços**.
     - **Nome do Computador**: escreves o nome que queres dar à tua máquina, uma boa prática é chamares: `oteuusername-cachyos`
     - **Password**: escreves a tua password, tem que ter no mínimo 6 caracteres, e pode ser mudada à posterior.
-    - Finalmente **Activas** a caixa que diz: **Usar a mesma password para conta de administrador**
-- O **Calamares** irá agora mostrar-te um sumário de todas as tuas opções de instalação. Verifica se está tudo correcto, e se estiver, avanças para a instalação.
+    - Finalmente **Activas** a caixa que diz: **Usar a mesma password para conta de administrador**.
+- O **Calamares** irá agora mostrar-te um resumo de todas as tuas opções de instalação. Se estiver tudo correcto avança para a instalação.
 - Assim que o processo estiver concluído reinicia o PC.
 - Ao reiniciar, abre novamente a **BIOS** e no menu **Boot Priority** (ou semelhante), certifica-te que a 1ª opção é a partição do **CachyOS**. Grava as alterações e sai da BIOS.
 
 **NOTA**: Em alguns casos muito raros é possível que não te apareça a opção **CachyOS** na tua **BIOS**, se isso acontecer faz o seguinte:
-- **Activa** novamente o **Secure Boot**
+- **Activa** novamente o **Secure Boot**.
 - Procura uma opção que diga **"Add Custom Boot Option"** / **"Add UEFI File as Trusted"** ou semelhante.
-- Seleciona o ficheiro boot do CachyOS, será algo do com o nome **bootx64.efi**
+- Procura o ficheiro boot do CachyOS, que tem o nome **bootx64.efi**.
 - Grava as altereções e reinicia.
 
 <div align="center">
