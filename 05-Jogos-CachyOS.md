@@ -38,12 +38,12 @@ O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assi
 A **Steam** é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
 - Vai a **Iniciar** e procura por **Steam**
 - Entra com a tua conta, e faz as tuas configurações habituais, como farias normalmente.
-- Vai a **Definições** e depois **Compatibilidade** (Em príncío deverá deverá aparecer o **proton-cachyos (steam linux runtime)** selecionado por defeito. Caso não esteja, já iremos resolver isso.)
+- Vai a **Definições** e depois **Compatibilidade**
 - Clica nesse menu *dropdown* e seleciona as seguintes versões (de cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão, ficando também disponíveis nos outros Launchers):
   - Proton 11.0
   - Proton 9.0-4
   - Proton 8.0-5
-- Após estarem todas instaladas, seleciona novamente o **proton-cachyos (steam linux runtime)** e fecha a janela.
+- Após estarem todas instaladas, seleciona o **proton-cachyos (steam linux runtime)** e fecha a janela. Assim já fica essa versão selecionada por defeito.
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/steam-compatibilidade-1.jpg" width=600>
 
