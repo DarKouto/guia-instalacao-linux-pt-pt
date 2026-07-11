@@ -40,8 +40,8 @@ A **Steam** é o nosso Launcher principal e aquele que usamos para instalar o **
 - Entra com a tua conta, e faz as tuas configurações habituais, como farias normalmente.
 - Vai a **Definições** e depois **Compatibilidade** (Em príncío deverá deverá aparecer o **proton-cachyos (steam linux runtime)** selecionado por defeito. Caso não esteja, já iremos resolver isso.)
 - Clica nesse menu *dropdown* e seleciona as seguintes versões (de cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão, ficando também disponíveis nos outros Launchers):
-  - Proton 11.0-*nr-mais-recente*
-  - Proton 9.0.4
+  - Proton 11.0
+  - Proton 9.0-4
   - Proton 8.0-5
 - Após estarem todas instaladas, seleciona novamente o **proton-cachyos (steam linux runtime)** e fecha a janela.
   
