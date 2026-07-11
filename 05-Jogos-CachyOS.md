@@ -27,12 +27,12 @@ Finalmente podes consultar o site: [https://www.protondb.com/](https://www.proto
 
 ## 🎮 Instalar Gaming Packages
 Vai a **Iniciar** e procura por **CachyOS Hello**
-- Vai a **Apps/Tweaks**
-- Clica em **Install Gaming Packages**
+- Vai a **Aplicações/Ajustes**
+- Clica em **Instalar pacotes de jogos**
 
-O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outros utilitários, librarias e dependências necessárias para jogos.
+O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assim como outros utilitários, librarias e dependências necessárias para jogar.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/gaming-packages.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/pacotes-de-jogos.jpg" width=600>
 
 ## ⚫ Steam
 A **Steam** é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
