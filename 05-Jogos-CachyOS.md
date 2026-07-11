@@ -15,7 +15,7 @@ O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma ver
 - O **GE-Proton** desenvolvido pelo **GloriousEggRoll**
 - O **Proton-CachyOS** desenvolvido pela equipa do CachyOS
 
-O **Proton-CachyOS** e o **GE-Proton** são modificações do Proton Oficial da Valve, que contêm algumas melhorias como por exemplo a inclusão de **codecs de vídeo** proprietários que permitem ver as *cutscenes*. Para a esmagadora maioria dos jogos a melhor versão é claramente o **Proton-CachyOS 11**. É essa que vamos usar por defeito. Raramente irás encontrar um jogo que necessite duma versão diferente. Deixo aqui alguns exemplos:
+O **Proton-CachyOS** e o **GE-Proton** são modificações do Proton Oficial da Valve, que contêm algumas melhorias, como por exemplo a inclusão de **codecs de vídeo** proprietários que permitem ver as *cutscenes*. Para a esmagadora maioria dos jogos a melhor versão é claramente o **Proton-CachyOS 11**. É essa que vamos usar por defeito. Raramente irás encontrar um jogo que necessite duma versão diferente. Deixo aqui alguns exemplos:
 - O *Dead Cells* e o *Hollow Knight: Silksong* têm versão nativa para Linux (não precisam de Proton)
 - O *Remnant: From The Ashes* tinha melhor performance com o **GE-Proton 9**
 - O *WH40K: Space Marine 2* corria melhor com o **Proton 9.0.4** oficial da Valve
