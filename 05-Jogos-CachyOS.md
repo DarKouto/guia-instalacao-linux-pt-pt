@@ -65,12 +65,11 @@ O **ProtonUP-QT** é um ambiente gráfico que serve para instalar o **GE-Proton*
 - Clicas em **Adicionar Versão**
 - Na **Ferramenta** escolhes **GE-Proton**
 - Na **Versão** escolhes:
-  - GE-Proton-10-*nr-mais-recente*, e clicas **Instalar**, e esperas que termine.
+  - GE-Proton-11-*nr-mais-recente*, e clicas **Instalar**, e esperas que termine.
   - GE-Proton-9-27, e clicas **Instalar**, e esperas que termine.
-  - Recomendo instalar a versão 10 e 9, pois alguns jogos ainda funcionam melhor com a versão 9.
 - Isto vai injetar estas versões do **GE-Proton** na Steam e nos outros Launchers. Agora já o podes usar em qualquer jogo.
 - Recomendo que abras este programa de vez em quando para verificares se há novas versões do Proton-GE, ou então segue o **GloriousEggRoll** em https://github.com/GloriousEggroll/proton-ge-custom/releases
-- Ao instalares uma nova versão do **GE-Proton-10**, podes remover a antiga. Exemplo: se instalares o **GE-Proton10-12** podes remover o GE-Proton10-11 e inferiores.
+- Ao instalares uma nova versão do **GE-Proton-11**, podes remover a antiga. Exemplo: se instalares o **GE-Proton11-3** podes remover o GE-Proton11-2 e inferiores.
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/protonup-qt.jpg" width=600>
 
