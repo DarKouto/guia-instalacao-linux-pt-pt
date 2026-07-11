@@ -8,20 +8,22 @@
 
 # Jogos no CachyOS
 
-O Gaming em Linux melhorou de forma muito significativa nos últimos anos, ao ponto de que atualmente é possível jogar *quase* 100% dos jogos disponíveis para Windows. Esta melhoria deve-se muito à **Valve** e ao lançamento do seu **Steam Deck**, que tem como sistema operativo o **SteamOS** (que é Linux). Para isso funcionar, a Valve desenvolveu uma *Camada de Compatibilidade* chamada **Proton**, que **NÃO É UM EMULADOR**, mas sim uma espécie de tradutor Windows-Linux. O **Proton** tem como base um software chamado **WINE**, que já existe há alguns anos e serve para suportar aplicações Windows em Linux.
+O Gaming em Linux melhorou exponencialmente nos últimos anos. Atualmente é possível jogar em Linux *quase* 100% dos jogos para PC. Esta melhoria deve-se muito à **Valve** e ao lançamento do seu **Steam Deck**, que usa *SteamOS* (Linux). Para isso funcionar, a Valve desenvolveu uma *Camada de Compatibilidade* chamada **Proton**, que **NÃO É UM EMULADOR**, mas sim uma espécie de tradutor Windows-Linux. O **Proton** tem como base um software chamado **WINE**, que já surgiu há alguns anos e serve para suportar aplicações Windows em Linux.
 
-O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma versão nativa para Linux. As 3 versões do Proton que iremos usar são:
-- O **Proton** oficial da Valve (que vamos instalar/actualizar através da Steam)
-- O **GE-Proton** desenvolvido pelo **GloriousEggRoll** (que vamos instalar/actualizar através do ProtonUP-QT)
-- O **Proton-CachyOS** desenvolvido pela equipa do CachyOS (já vem pré-instalado e é actualizado automaticamente ao atualizarmos o sistema)
+O **Proton** é necessário para todos os jogos, exceto aqueles que têm uma versão nativa para Linux. As 3 versões mais úteis são:
+- O **Proton** oficial da Valve
+- O **GE-Proton** desenvolvido pelo **GloriousEggRoll**
+- O **Proton-CachyOS** desenvolvido pela equipa do CachyOS
 
-**NOTA**: O **GE-Proton** e o **Proton-CachyOS** são modificações ao Proton oficial, que contam com algumas melhorias, como por exemplo a inclusão de **codecs de vídeo** proprietários que permitem ver as *cutscenes* de alguns jogos. Regra geral, usar estas versões é melhor que usar a versão original, mas nem sempre é o caso. A sua eficiência varia de jogo para jogo, como vamos ver nos seguintes exemplos:
-- O *Dead Cells* e o *Hollow Knight: Silksong* têm versão nativa (não precisam de Proton).
-- O *Remnant: From The Ashes* corria melhor com o **Proton-GE**.
-- O *WH40K: Space Marine 2* corria melhor com o **Proton 9.0.4** oficial. (com base na minha experiência)
-- O *20XX* só corre com uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior.
+O **Proton-CachyOS** e o **GE-Proton** são modificações do Proton Oficial da Valve, que contêm algumas melhorias como por exemplo a inclusão de **codecs de vídeo** proprietários que permitem ver as *cutscenes*. Para a esmagadora maioria dos jogos a melhor versão é claramente o **Proton-CachyOS 11**. É essa que vamos usar por defeito. Raramente irás encontrar um jogo que necessite duma versão diferente. Deixo aqui alguns exemplos:
+- O *Dead Cells* e o *Hollow Knight: Silksong* têm versão nativa para Linux (não precisam de Proton)
+- O *Remnant: From The Ashes* tinha melhor performance com o **GE-Proton 9**
+- O *WH40K: Space Marine 2* corria melhor com o **Proton 9.0.4** oficial da Valve
+- O *20XX* só corre com uma versão do **Proton** oficial mais mais antiga, como 8.0 ou inferior
 
-Para sabermos qual a melhor versão a usar, vamos ao site [https://www.protondb.com/](https://www.protondb.com/). Aqui encontramos os jogos, com relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento. Atenção que isto não é a Verdade Universal, o que resulta para uns jogadores pode não resultar para outros. Isto é simplesmente um guia de orientação que nos poupa muito trabalho em testes.
+Excluindo estes casos particulares, usar o **Proton-CachyOS 11** é a melhor opção, e a que eu próprio tenho usado nos últimos tempos.
+
+Finalmente podes consultar o site: [https://www.protondb.com/](https://www.protondb.com/) para leres relatos de utilizadores que indicam qual a versão Proton que utilizaram, e se foi necessário algum comando de lançamento. Atenção que isto não é a Verdade Universal. O que resulta para uns jogadores pode não resultar para outros. Isto é simplesmente um guia de orientação que nos poupa algum trabalho em testes.
 
 ## 🎮 Instalar Gaming Packages
 Vai a **Iniciar** e procura por **CachyOS Hello**
@@ -33,13 +35,12 @@ O CachyOS vai agora instalar-te todos os Launchers (Steam, Heroic, Lutris), assi
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/gaming-packages.jpg" width=600>
 
 ## ⚫ Steam
-Se és Gamer certamente conheces a **Steam**, este é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
+A **Steam** é o nosso Launcher principal e aquele que usamos para instalar o **Proton** oficial da Valve.
 - Vai a **Iniciar** e procura por **Steam**
 - Entra com a tua conta, e faz as tuas configurações habituais, como farias normalmente.
 - Vai a **Definições** e depois **Compatibilidade** (Em príncío deverá deverá aparecer o **proton-cachyos (steam linux runtime)** selecionado por defeito. Caso não esteja, já iremos resolver isso.)
 - Clica nesse menu *dropdown* e seleciona as seguintes versões (de cada vez que selecionas uma versão, a Steam irá transferir e instalar essa versão, ficando também disponíveis nos outros Launchers):
-  - Proton Experimental
-  - Proton 10.0-*nr-mais-recente*
+  - Proton 11.0-*nr-mais-recente*
   - Proton 9.0.4
   - Proton 8.0-5
 - Após estarem todas instaladas, seleciona novamente o **proton-cachyos (steam linux runtime)** e fecha a janela.
