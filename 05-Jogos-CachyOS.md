@@ -45,7 +45,7 @@ A **Steam** é o nosso Launcher principal e aquele que usamos para instalar o **
   - Proton 8.0-5
 - Após estarem todas instaladas, seleciona novamente o **proton-cachyos (steam linux runtime)** e fecha a janela.
   
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/steam-compatibilidade.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/steam-compatibilidade-1.jpg" width=600>
 
 - Agora quando instalares qualquer jogo, clicas com o **botão direito do rato** nele e vais a **Propriedades**:
   - No separador **Geral**, nas **Opções de Arranque** recomendo escrever: `game-performance mangohud %command%`
