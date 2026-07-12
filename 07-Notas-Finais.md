@@ -12,7 +12,7 @@
 Para terminar, tenho mais algumas pequenas recomendações:
 - Junta-te ao Discord do CachyOS: https://discord.com/invite/cachyos-862292009423470592
 - Junta-te ao SubReddit do CachyOS: https://www.reddit.com/r/cachyos/
-- Lê o Wiki oficial para qualquer outra dúvida: https://wiki.cachyos.org/support/social/
+- Lê o Wiki oficial para qualquer outra dúvida: https://wiki.cachyos.org/
 - Considera fazer uma doação a este fantástico projecto: https://wiki.cachyos.org/support/donation/
 
 # Fim.
