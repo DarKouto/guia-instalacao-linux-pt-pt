@@ -7,21 +7,20 @@
 <hr>
 
 # Aplicações CachyOS
-Existem várias fontes das quais podemos instalar software no CachyOS, podes pensar nelas como sendo uma espécie **App Store** ou **Play Store**. As 3 principais são:
+Existem várias fontes das quais podemos instalar software no CachyOS, podes pensar nelas como sendo uma espécie **App Store** ou **Play Store**. As 3 principais, e a sua ordem preferencial é esta:
 1. **Repositórios Oficiais** do CachyOS
 2. **AUR** (Arch User Repository)
 3. **Flatpak/Flathub**
-4. **AppImage**
 
-Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS. Deves usar esta opção sempre que possível.
+Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS.
 
-As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. Uma excelente opção para encontrar programas que não se encontram nos repositórios oficiais.
+As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores.
 
 O **Flatpak/Flathub** é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar Flatpaks, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" ocupam mais espaço em disco.
 
-Uma **AppImage** é basicamente um só ficheiro executável que tem a aplicação a funcionar. É algo semelhante a um ficheiro .exe no Windows, mas com algumas diferenças.
+Além destas 3 formas, existe ainda o formato **AppImage**, que é um ficheiro executável com a aplicação a funcionar. Um pouco mais semelhante a um ficheiro .exe no Windows.
 
-**NOTA**: Na eventualidade de precisares de uma app específica que não esteja disponível nestas 3 fontes, terás que ser tu próprio a investigar como a instalar (Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há um software alternativo. Faz parte do processo, é a luta.
+**NOTA**: Se precisares de alguma aplicação que não esteja disponível nestas 3 fontes ou em **AppImage**, terás que ser tu próprio a investigar como a instalar (Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há alguma aplicação alternativa que faça o mesmo efeito. Faz parte do processo, é a luta.
 
 ## 🎒 Aplicações Pré-Instaladas
 Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. Cá ficam as essenciais:
