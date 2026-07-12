@@ -52,7 +52,7 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
 4. Clica no **"Visto"** para selecionar
 5. Clica em **Instalar Selecionados**
 - Para desinstalares, selecionas o separador **"Gerir"** em cima, e segues o mesmo processo.
-- Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador, que está bem identificado.
+- Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado.
   
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly02a.jpg" width=700>
 
