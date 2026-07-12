@@ -14,7 +14,7 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 - Esta documentação presume que o utilizador tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
 - Tudo que está aqui descrito é verdade e factual ao dia **12 de Julho de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador e contribuidor do CachyOS.
-- Este repositório não pretende substituir ou sobrepor-se ao <a href="https://wiki.cachyos.org/">Wiki Oficial</a>, apenas ser uma forma mais resumida e em Português, escrita por alguém que usa e mantém o sistema diáriamente.
+- Este repositório não pretende substituir ou sobrepor-se ao <a href="https://wiki.cachyos.org/">Wiki Oficial</a>, apenas ser uma forma mais resumida e em Português.
 
 ## 🚨 O autor não assume qualquer responsabilidade por erros que utilizador possa cometer, ou por danos este que possa causar. O uso desta documentação é da inteira responsabilidade de quem a segue.
 
