@@ -65,20 +65,21 @@ Ficam aqui algumas aplicações essenciais. Como são várias aplicações de um
 sudo pacman -S brave-bin discord dolphin-plugins flatpak kdenlive kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent sane-airscan skanpage stacer vesktop vlc vlc-plugins-all yay zsh
 ```
 
-Com este comando instalámos as seguintes aplicações (assimo como algumas dependências importantes):
+Com este comando instalámos as seguintes aplicações (assim como algumas dependências importantes):
 - **Brave:** Um browser baseado no Chromium, com mais privacidade e funcionalidades úteis.
 - **Discord:** A aplicação oficial do Discord, famosa plataforma de chat.
-- **Kdenlive:** Editor de vídeo avançado, semelhante a Sony Vegas ou Premiere.
+- **Kdenlive:** Editor de vídeo mais completo, semelhante a Sony Vegas ou Adobe Premiere.
 - **KolourPaint:** Um programa semelhante ao MS Paint.
 - **LibreOffice:** Um conjunto de programas semelhantes ao MS Office.
 - **OnlyOffice:** Outro conjunto de programas semelhantes ao MS Office (usa aquele que achares melhor).
 - **OpenRGB:** Um programa que controla o RGB e efeitos dos teus dispostivos.
-- **ProtonUP-QT:** Um GUI que serve para instalar versões do Proton (mais info no capítulo de jogos).
+- **ProtonUP-QT:** Um GUI que serve para instalar diferentes versões do Proton (mais info no capítulo de jogos).
 - **qBitTorrent:** Um cliente de BitTorrent.
 - **Skanpage:** Programa do KDE para usar o Scanner (caso tenhas um).
 - **Stacer:** Um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner.
 - **Vesktop:** É o Discord mas numa aplicação alternativa, com algumas funcionalidades extra.
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
+- **YAY:** É um *helper* que nos permite instalar aplicações do AUR através do Terminal.
 
 ## ⌨️ Aplicações do AUR
 Copia o seguinte comando para a tua **Konsole**:
@@ -99,13 +100,13 @@ Copia o seguinte comando para a tua **Konsole**:
 flatpak install chrome spotify tuxguitar
 ```
 Com este comando instalámos as seguintes aplicações:
-- **Google Chrome**: o famoso browser da Google. **NÃO RECOMENDO** ninguém usar este devorador de RAM. Mas sei que muita gente tem lá todas as suas contas e os dados, e não quer estar a ter o trabalho de migrar para outro browser, portanto cá fica.
+- **Google Chrome**: o famoso browser da Google. **NÃO RECOMENDO** ninguém usar este devorador de RAM e e telemetria. Mas sei que muita gente tem lá todas as suas contas e os dados, e não quer estar a ter o trabalho de migrar para outro browser, portanto cá fica.
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 Para mais informação vai a https://flathub.org/
 
 ## ⚙️ Aplicações AppImage
-Caso não encontres o que procuras nestes 3 repositórios, a próxima melhor alternativa é usares uma AppImage. Visita o site oficial do Software que procuras, ou algum site fidedigno, e verifica se existe uma versão **AppImage**, se existir descarrega o ficheiro.
+Caso não encontres o que procuras nestes 3 repositórios, a próxima melhor alternativa é usares uma **AppImage**. Visita o site oficial do Software que procuras, ou algum site fidedigno, e verifica se existe uma versão **AppImage**, se existir descarrega o ficheiro.
 
 Para instalares AppImages basta clicares 2x no ficheiro. Mas para ficar tudo integrado no sistema de uma forma mais correcta, segue os seguintes passos:
 - Abre o **Shelly**
@@ -131,7 +132,7 @@ Os sistemas Linux não têm os tipos de letra / fonts típicas da Microsoft e Ma
 **NOTA**: Qualquer outra font que precises, procura na internet pelos os ficheiros .ttf, descarrega-os, e torna a instalar através da **Gestão dos Tipos de Letra**.
 
 ## 🔄 Atualizar Sistema / Cachy-Update
-Contrariamente ao Windows e MacOS, no Linux as actualizações não são automáticas, são manuais e ficam sempre ao encargo e responsabilidade do utilizador. Felizmente no CachyOS há uma forma muito simples de o fazeres:
+Contrariamente ao Windows e MacOS, no Linux as actualizações não são automáticas, são manuais e ficam sempre ao encargo e responsabilidade do utilizador. No CachyOS há uma forma muito simples de o fazeres:
 - Clica no **Cachy Update** (é o **ícone do CachyOS** que aparece no canto inferior direito junto ao relógio)
 - Segue as instruções que te aparecem no Terminal.
 - Se aparecer uma "parede de texto" referente a pacotes do AUR, basta clicar na tecla **Q** do teclado para continuar.
