@@ -16,7 +16,7 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador e contribuidor do CachyOS.
 - Este repositório não pretende substituir ou sobrepor-se ao <a href="https://wiki.cachyos.org/">Wiki Oficial</a>, apenas ser uma forma mais resumida e em Português.
 
-## 🚨 O autor não assume qualquer responsabilidade por erros que utilizador possa cometer, ou por danos este que possa causar. O uso desta documentação é da inteira responsabilidade de quem a segue.
+## 🚨 O autor não assume qualquer responsabilidade por erros que utilizador possa cometer, ou por danos este que possa causar. O uso desta documentação é da inteira responsabilidade de quem a segue. 🚨
 
 <hr>
 <h3>Índice </h3>
