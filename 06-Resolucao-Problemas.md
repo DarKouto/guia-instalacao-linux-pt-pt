@@ -71,12 +71,12 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
 
 <hr>
 
-## 🔐 Remover Erro db.lock do pacman
-Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lock" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
+## 🔐 Remover Erro db.lck do pacman
+Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lck" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
 - Vai a Iniciar e procura por **Shelly**
-- Clica em **Settings**
-- Clica em **Advanced**
-- Clica no botão **Remove db.lock**
+- Clica no menu *hamburger* (canto inferior esquerdo) e seleciona **Definições**
+- Escolhe o separador **Advanced** (em cima)
+- Clica no botão **Remove db.lck**
 
 <hr>
 <div align="left">
