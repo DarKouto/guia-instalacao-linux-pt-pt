@@ -1,8 +1,8 @@
 # Instalação e Configuração do CachyOS Linux em PT-PT
 
-**ATUALIZADO 12/07/2026**
+**ATUALIZADO 13/07/2026**
 
-Esta documentação foi criada e mantida por mim (localmente) ao longo de mais de um ano, durante a minha mudança de Windows para **Linux**. Usava-a como forma de registar todas as descobertas, testes e configurações que fiz. Decidi agora partilhá-la para facilitar a mudança para **Linux** a outros utilizadores. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua.
+Esta documentação era originalmente um grande ficheiro de texto, no qual estavam as minhas notas pessoais. Eu ia registando todas as descobertas, testes e configurações que fazia enquanto estava a mudar de Windows para **Linux**. Decidi agora partilhá-la para facilitar a mudança para **Linux** a quaisquer outros utilizadores interessados. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua.
 
 A distribuição que uso e irei aboardar neste documentação é o **CachyOS Linux**. Tenho-o instalado no meu PC Gaming, PC Portátil, nos computadores da minha empresa, e até no portátil pessoal do meu pai, que apenas quer algo que funcione. Também consegui "ressuscitar" vários portáteis antigos de amigos meus.
 
@@ -12,7 +12,7 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 
 ## ℹ️ Outras Informações Úteis
 - Esta documentação presume que o utilizador tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
-- Tudo que está aqui descrito é verdade e factual ao dia **12 de Julho de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
+- Tudo que está aqui descrito é verdade e factual ao dia **13 de Julho de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador e contribuidor do CachyOS.
 - Este repositório não pretende substituir ou sobrepor-se ao <a href="https://wiki.cachyos.org/">Wiki Oficial</a>, apenas ser uma forma mais resumida e em Português.
 
