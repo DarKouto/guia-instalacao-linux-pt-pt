@@ -25,8 +25,8 @@ Para resolver este problema, segues os seguintes passos nesse terminal.
   3. ```insmod normal```
   4. ```normal```
 - Isto vai abrir o menu de Grub normal, seleciona o CachyOS, entra no sistema normalmente. Depois abres o **Terminal/Konsole**, e escreves estes 2 comandos por ordem:
-  1. sudo grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=cachyos --recheck
-  2. sudo grub-mkconfig -o /boot/grub/grub.cfg
+  1. ```sudo grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=cachyos --recheck```
+  2. ```sudo grub-mkconfig -o /boot/grub/grub.cfg```
 
 Problema resolvido.
 
