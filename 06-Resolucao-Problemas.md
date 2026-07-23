@@ -14,12 +14,12 @@ Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma 
 Se estiveres a usar dual-boot com Windows, existe a probabilidade de alguma atualização da *MicroSlop* re-escrever (estragar) o menu de arranque **Grub**. Se isso acontecer, quando ligas o PC vai-te aparecer um Terminal a dizer **grub rescue>**
 
 Para resolver este problema, segues os seguintes passos nesse terminal.
-- Escreve o comando ```ls```
-- Deverás ver um texto do género: ```(hd0) (hd0,gpt5) (hd0,gpt4) (hd0,gpt3) (hd0,gpt2) (hd0,gpt1)```. uma destas partições corresponderá ao boot do CachyOS.
+- Escreve o comando: ```ls```
+- Deverás ver um texto do género: ```(hd0) (hd0,gpt5) (hd0,gpt4) (hd0,gpt3) (hd0,gpt2) (hd0,gpt1)```. Uma destas partições será certamente o boot do CachyOS.
 - Para saber qual delas é, escreves o comando: ```ls (hd0,gpt5)/```
   - Se der erro de **Unknown File System**, escreves novamente o comando, mas com um número abaixo, neste caso será: ```ls (hd0,gpt4)/``` 
   - Eventualmente, o resultado do comando será: ```/@cache /@ /@root /@tmp ...```. Essa será a partição correcta do CachyOS.
-- Supondo que a partição é a (hd0,gpt4), escreves agora os seguintes comandos por esta ordem:
+- Supondo que a partição correcta é a Nr. 4 (hd0,gpt4), escreves agora os seguintes comandos por esta ordem:
   1. ```set root=(hd0,gpt4)```
   2. ```set prefix=(hd0,gpt4)/boot/grub```
   3. ```insmod normal```
