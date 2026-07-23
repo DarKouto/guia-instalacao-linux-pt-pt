@@ -15,16 +15,16 @@ Se estiveres a usar dual-boot com Windows, existe a probabilidade de alguma atua
 
 Para resolver este problema, segues os seguintes passos nesse terminal.
 - Escreve o comando ```ls```
-- Deverás ver um texto do género: ```(hd0) (hd0,gpt5) (hd0,gpt4) (hd0,gpt3) (hd0,gpt2) (hd0,gpt1)```, uma destas partições corresponderá ao boot do CachyOS.
+- Deverás ver um texto do género: ```(hd0) (hd0,gpt5) (hd0,gpt4) (hd0,gpt3) (hd0,gpt2) (hd0,gpt1)```. uma destas partições corresponderá ao boot do CachyOS.
 - Para saber qual delas é, escreves o comando: ```ls (hd0,gpt5)/```
   - Se der erro de **Unknown File System**, escreves novamente o comando, mas com um número abaixo, neste caso será: ```ls (hd0,gpt4)/``` 
   - Eventualmente, o resultado do comando será: ```/@cache /@ /@root /@tmp ...```. Essa será a partição correcta do CachyOS.
 - Supondo que a partição é a (hd0,gpt4), escreves agora os seguintes comandos por esta ordem:
-  1. ```set root=(hd0,gpt5)```
-  2. ```set prefix=(hd0,gpt5)/boot/grub```
+  1. ```set root=(hd0,gpt4)```
+  2. ```set prefix=(hd0,gpt4)/boot/grub```
   3. ```insmod normal```
   4. ```normal```
-- Agora vais estas no menu de Grub normal, seleciona o CachyOS, entra no sistema normalmente. Depois abres o Terminal/Konsole, e escreves estes 2 comandos por ordem:
+- Isto vai abrir o menu de Grub normal, seleciona o CachyOS, entra no sistema normalmente. Depois abres o **Terminal/Konsole**, e escreves estes 2 comandos por ordem:
   1. sudo grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=cachyos --recheck
   2. sudo grub-mkconfig -o /boot/grub/grub.cfg
 
