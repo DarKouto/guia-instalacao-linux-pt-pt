@@ -13,7 +13,7 @@ Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma 
 ## 🖥️ GRUB RESCUE
 Se estiveres a usar dual-boot com Windows, existe a probabilidade de alguma atualização da *MicroSlop* re-escrever (estragar) o menu de arranque **Grub**. Se isso acontecer, quando ligas o PC vai-te aparecer um Terminal a dizer **grub rescue>**
 
-Para resolver este problema, segues os seguintes passos nesse terminal.
+Para resolver este problema, segues os seguintes passos nesse terminal. **NOTA**: no grub rescue> o teclado costuma estar no formato americano, ou seja, tens que procurar onde ficam alguns caracteres especiais, tais como parênteses ou o símbolo do igual.
 - Escreve o comando: ```ls```
 - Deverás ver um texto do género: ```(hd0) (hd0,gpt5) (hd0,gpt4) (hd0,gpt3) (hd0,gpt2) (hd0,gpt1)```. Uma destas partições será certamente o boot do CachyOS.
 - Para saber qual delas é, escreves o comando: ```ls (hd0,gpt5)/```
