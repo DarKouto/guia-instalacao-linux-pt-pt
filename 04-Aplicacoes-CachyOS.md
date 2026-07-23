@@ -97,10 +97,11 @@ Para mais informações vai a https://aur.archlinux.org
 ## 📦 Aplicações do Flatpak/Flathub
 Copia o seguinte comando para a tua **Konsole**:
 ```bash
-flatpak install chrome spotify tuxguitar
+flatpak install chrome discover_overlay spotify tuxguitar
 ```
 Com este comando instalámos as seguintes aplicações:
 - **Google Chrome**: o famoso browser da Google. **NÃO RECOMENDO** ninguém usar este devorador de RAM e e telemetria. Mas sei que muita gente tem lá todas as suas contas e os dados, e não quer estar a ter o trabalho de migrar para outro browser, portanto cá fica.
+- **Discover Overlay**: um programa que permite usar a funcionalidade de overlay da party no Discord.
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 Para mais informação vai a https://flathub.org/
