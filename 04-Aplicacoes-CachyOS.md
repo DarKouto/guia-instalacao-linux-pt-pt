@@ -38,13 +38,11 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
 ### Configurar Shelly
 - Vai a **Iniciar** e procura **Shelly**
 - Na Configuração Inicial faz o seguinte:
-  - Activa **AUR**
-  - Activa **Flatpak**
-  - Activa **AppImage**
-  - Desactiva **Recomendados** e **Ícone na Área de Notificação**
+  - Activa **AUR**, **Flatpak** e **AppImage**
+  - Escolhe **Side Bar** e Desactiva **System Tray**
+  - Após a instalação das dependências necessárias, clica no **X** de baixo
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=600><img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=600>
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly3.jpeg" width=600>
 
 ### Instalar Aplicações
