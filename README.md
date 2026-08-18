@@ -1,6 +1,6 @@
 # Instalação e Configuração do CachyOS Linux em PT-PT
 
-**ATUALIZADO 13/07/2026**
+**ATUALIZADO 18/08/2026**
 
 Esta documentação era originalmente um grande ficheiro de texto, no qual estavam as minhas notas pessoais. Eu ia registando todas as descobertas, testes e configurações que fazia enquanto estava a mudar de Windows para **Linux**. Decidi agora partilhá-la para facilitar a mudança para **Linux** a quaisquer outros utilizadores interessados. É uma das formas que encontrei de contribuir para a comunidade de **Linux** e **Open Source**. Escolhi escrever em Português de Portugal devido à falta de recursos na minha língua.
 
@@ -12,7 +12,7 @@ Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um 
 
 ## ℹ️ Outras Informações Úteis
 - Esta documentação presume que o utilizador tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
-- Tudo que está aqui descrito é verdade e factual ao dia **13 de Julho de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
+- Tudo que está aqui descrito é verdade e factual ao dia **18 de Agosto de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador e contribuidor do CachyOS.
 - Este repositório não pretende substituir ou sobrepor-se ao <a href="https://wiki.cachyos.org/">Wiki Oficial</a>, apenas ser uma forma mais resumida e em Português.
 
