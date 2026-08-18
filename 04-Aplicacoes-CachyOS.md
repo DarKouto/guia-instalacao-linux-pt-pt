@@ -33,14 +33,14 @@ Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. C�
 
 ## 🐚 Shelly
 
-Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico que permite pesquisar programas nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S haruna```. No entanto o **Shelly** é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
+Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico que permite pesquisar/instalar/remover programas que estão nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S haruna```. No entanto o **Shelly** é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
 
 ### Configurar Shelly
-- Vai a **Iniciar** e procura **Shelly**
+- Vai a **Iniciar**, procura **Shelly** e abre a aplicação.
 - Na Configuração Inicial faz o seguinte:
   - Activa **AUR**, **Flatpak** e **AppImage**
-  - Escolhe **Side Bar** e Desactiva **System Tray**
-  - Após a instalação das dependências necessárias, clica no **X** de baixo
+  - Escolhe **Side Bar** e desativa **System Tray**
+  - Após a instalação das dependências necessárias, clica no **X** da baixo (conforme a imagem)
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=650>
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=650>
