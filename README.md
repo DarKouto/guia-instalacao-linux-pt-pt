@@ -11,7 +11,7 @@ A distribuição que uso e irei aboardar neste documentação é o **CachyOS Lin
 Com todas as evoluções que o **Linux** teve nos últimos anos, considero-o um sistema muito simples e intuitivo de usar, superando até o Windows ou MacOS em vários aspectos. Acredito que com este guia qualquer pessoa pode usar **Linux** no dia-a-dia sem qualquer problema.
 
 ## ℹ️ Outras Informações Úteis
-- Esta documentação presume que o utilizador tenha algum conhecimento geral sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
+- Esta documentação presume que o utilizador tenha algum conhecimento sobre computadores e instalação de sistemas operativos (Windows ou MacOS).
 - Tudo que está aqui descrito é verdade e factual ao dia **18 de Agosto de 2026**. A tecnologia e está em constante mudança, e há a possibilidade de alguns processos aqui descritos não corresponderem à melhor prática no futuro.
 - O autor irá ter o cuidado de manter esta documentação e repositório atualizados, visto que ele próprio é um utilizador e contribuidor do CachyOS.
 - Este repositório não pretende substituir ou sobrepor-se ao <a href="https://wiki.cachyos.org/">Wiki Oficial</a>, apenas ser uma forma mais resumida e em Português.
