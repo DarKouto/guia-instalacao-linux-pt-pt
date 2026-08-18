@@ -18,7 +18,7 @@ As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repo
 
 O **Flatpak/Flathub** é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar Flatpaks, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" ocupam mais espaço em disco.
 
-Além destas 3 formas, existe ainda o formato **AppImage**, que é um ficheiro executável com a aplicação a funcionar. Já é um pouco mais semelhante a um ficheiro .exe no Windows, no sentido em que procuras pelo software no site oficial, e descarregas um ficheiro para o teu computador.
+Além destas 3 formas, existe ainda o formato **AppImage**, que é um ficheiro executável com a aplicação a funcionar. Já é um pouco mais semelhante a um ficheiro .exe no Windows, no sentido em que procuras pelo software no site oficial, descarregas um ficheiro para o teu computador, e clicas nele para instalar.
 
 **NOTA**: Se precisares de alguma aplicação que não esteja disponível nestas 3 fontes ou em **AppImage**, terás que ser tu próprio a investigar como a instalar (Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há alguma aplicação alternativa que faça o mesmo efeito. Faz parte do processo, é a luta.
 
