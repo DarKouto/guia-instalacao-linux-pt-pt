@@ -55,7 +55,7 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
 - Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado, e seguir o mesmo processo.
 - Para instalares e gerires os programas em formato AppImage, vais ao separador **AppImage** e selecionas o ficheiro que descarregaste da internet. Utiliza apenas AppImage caso o que procures não exista em nenhum destes 3 repositórios.
   
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly4.jpg" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly4.jpg" width=700>
 
 ## 💽 Aplicações dos Repositórios Oficiais
 Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
