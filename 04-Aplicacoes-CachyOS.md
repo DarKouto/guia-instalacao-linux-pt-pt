@@ -18,7 +18,7 @@ As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repo
 
 O **Flatpak/Flathub** é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar Flatpaks, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" ocupam mais espaço em disco.
 
-Além destas 3 formas, existe ainda o formato **AppImage**, que é um ficheiro executável com a aplicação a funcionar. Um pouco mais semelhante a um ficheiro .exe no Windows.
+Além destas 3 formas, existe ainda o formato **AppImage**, que é um ficheiro executável com a aplicação a funcionar. Já é um pouco mais semelhante a um ficheiro .exe no Windows, no sentido em que procuras pelo software no site oficial, e descarregas um ficheiro para o teu computador.
 
 **NOTA**: Se precisares de alguma aplicação que não esteja disponível nestas 3 fontes ou em **AppImage**, terás que ser tu próprio a investigar como a instalar (Build From Source, ficheiros .TAR.GZ, ficheiros .DEB, etc), ou se há alguma aplicação alternativa que faça o mesmo efeito. Faz parte do processo, é a luta.
 
@@ -42,19 +42,20 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
   - Escolhe **Side Bar** e Desactiva **System Tray**
   - Após a instalação das dependências necessárias, clica no **X** de baixo
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=600><img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly3.jpeg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly3.jpeg" width=650>
 
 ### Instalar Aplicações
-1. Seleciona o separador **"Pacotes"** do lado esquerdo. Este refere-se aos **repositórios oficiais**.
-2. Seleciona o separador **Instalar** em cima.
-3. Pesquisa o pacote que queres instalar. Ex: piper
-4. Clica no **"Visto"** para selecionar
-5. Clica em **Instalar Selecionados**
-- Para desinstalares, selecionas o separador **"Gerir"** em cima, e segues o mesmo processo.
-- Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado.
+1. Seleciona o separador **"Package"** do lado esquerdo. Este refere-se aos **repositórios oficiais**.
+2. Pesquisa o pacote que queres instalar. Ex: haruna
+3. Clica no **"Visto"** para selecionar
+4. Clica em **Instalar Selecionados**
+- Para desinstalares, selecionas um pacote já instalado (estará identificado com um visto), e clicas em **Remover Selecionados**
+- Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado, e seguir o mesmo processo.
+- Para instalares e gerires os programas em formato AppImage, vais ao separador **AppImage** e selecionas o ficheiro que descarregaste da internet. Utiliza apenas AppImage caso o que procures não exista em nenhum destes 3 repositórios.
   
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly02a.jpg" width=700>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly4.jpg" width=650>
 
 ## 💽 Aplicações dos Repositórios Oficiais
 Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
@@ -105,15 +106,6 @@ Com este comando instalámos as seguintes aplicações:
 - **TuxGuitar:** é um clone do famoso Guitar Pro, 100% compatível com ficheiros .gp3, 4, 5 e 6.
 
 Para mais informação vai a https://flathub.org/
-
-## ⚙️ Aplicações AppImage
-Caso não encontres o que procuras nestes 3 repositórios, a próxima melhor alternativa é usares uma **AppImage**. Visita o site oficial do Software que procuras, ou algum site fidedigno, e verifica se existe uma versão **AppImage**, se existir descarrega o ficheiro.
-
-Para instalares AppImages basta clicares 2x no ficheiro. Mas para ficar tudo integrado no sistema de uma forma mais correcta, segue os seguintes passos:
-- Abre o **Shelly**
-- Vai ao separador lateral **AppImage**
-- Clica em **+ Instalar AppImage** 
-- Escolhes o ficheiro que descarregaste.
 
 ## ⭐ Aplicações Predefinidas
 Para selecionares as aplicações predefinidas para cada tarefa ou tipo de ficheiro, vai a **Iniciar** e procura por **Default Applications**. Aqui podes configurar tudo conforme as tuas preferências.
