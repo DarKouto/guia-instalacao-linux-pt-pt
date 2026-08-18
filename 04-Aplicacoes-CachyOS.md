@@ -43,9 +43,9 @@ Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico q
   - Activa **AppImage**
   - Desactiva **Recomendados** e **Ícone na Área de Notificação**
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpg" width=600>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly3.jpg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=600>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly3.jpeg" width=600>
 
 ### Instalar Aplicações
 1. Seleciona o separador **"Pacotes"** do lado esquerdo. Este refere-se aos **repositórios oficiais**.
