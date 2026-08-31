@@ -38,8 +38,7 @@ Para resolver este problema, segues os seguintes passos nesse terminal. **NOTA**
 - Isto vai abrir o menu de Grub normal, seleciona o CachyOS, entra no sistema normalmente. Depois abres o **Terminal/Konsole**, e escreves estes 2 comandos por ordem:
   1. ```sudo grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=cachyos --recheck```
   2. ```sudo grub-mkconfig -o /boot/grub/grub.cfg```
-
-Problema resolvido.
+- Reinicia, e já deverás ver a opção de Windows no GRUB.
 
 ## 🌐 Problemas de Login em Sites
 Em alguns sites (PayPal, agências de viagem, lojas online) podem surgem dificuldades ao fazer login através do browser. Isto acontece porque os **🫏 burros 🫏** que fizeram o site especificaram que só sistemas operativos Windows ou MacOS o podem aceder, e como estás em Linux aquilo bloqueia-te o login. Felizmente há uma solução muito simples para isto, basta instalares uma extensão chamada: **User-Agent Switcher**
