@@ -21,6 +21,8 @@ Por defeito o teu PC arranca sempre com o Kernel Stable. No entanto, se alguma a
 
 Agora podes usar e atualizar o teu PC normalmente, até que o problema seja resolvido (costuma uma questão de dias até os desenvolvedores corrigirem).
 
+<hr>
+
 ## 🖥️ GRUB RESCUE
 Se estiveres a usar dual-boot com Windows, existe a probabilidade de alguma atualização da *MicroSlop* re-escrever (estragar) o menu de arranque **Grub**. Se isso acontecer, quando ligas o PC vai-te aparecer um Terminal a dizer **grub rescue>**
 
@@ -45,6 +47,8 @@ Em alguns sites (PayPal, agências de viagem, lojas online) podem surgem dificul
 - Para Chromium (e derivados): https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
 
 Agora basta clicares no ícone da extensão e mudares o **Agent** para Windows ao MacOS. Isso *engana* o site para achar que estás noutro sistema, e já funciona normalmente.
+
+<hr>
 
 ## 🪟 Mostrar a Opção do Windows no Menu de Arranque (GRUB)
 Caso o teu sistema Windows não apareça no menu de arranque **Grub**, é necessário fazer o seguinte:
