@@ -10,6 +10,14 @@
 
 Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma mais simples de os resolver.
 
+## ⚛️ Kernel
+Por norma, o CachyOS instala e mantém sempre 2 Kernels:
+- **Stable**: é o Kernel de produção atual com que tem as mais recentes funcionalidades de forma imediata. Exemplo: ```Linux 7.2.2-1-cachyos```
+- **LTS**: signfica *Long Term Support*. O LTS pode não ter uma ou outra adição, mas é um Kernel mais robusto e muito menos susceptível a problemas de drivers. Exemplo: ```Linux 6.18.42-1-cachyos-lts```
+Por defeito o teu PC arranca sempre com o Kernel Stable. No entanto, se alguma actualização te causar um problema com drivers ou outra coisa qualquer, podes sempre ir para o Kernel LTS até que o problema esteja resolvido (normalmente será uma questão de dias até os desenvolvedores corrigirem). Para fazeres isso, no **GRUB** fazes o seguinte:
+- Escolhe **Opções Avançadas**
+- Seleciona **Linux CachyOS LTS**
+
 ## 🖥️ GRUB RESCUE
 Se estiveres a usar dual-boot com Windows, existe a probabilidade de alguma atualização da *MicroSlop* re-escrever (estragar) o menu de arranque **Grub**. Se isso acontecer, quando ligas o PC vai-te aparecer um Terminal a dizer **grub rescue>**
 
@@ -94,9 +102,8 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
 ## 🔐 Remover Erro db.lck do pacman
 Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lck" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
 - Vai a Iniciar e procura por **Shelly**
-- Clica no menu *hamburger* (canto inferior esquerdo) e seleciona **Definições**
-- Escolhe o separador **Advanced** (em cima)
-- Clica no botão **Remove db.lck**
+- Clica no menu *hamburger* (canto inferior esquerdo) e seleciona **Utilities**
+- Procura a opção **Remove db.lck** e clica em **Run**
 
 <hr>
 <div align="left">
