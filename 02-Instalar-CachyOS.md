@@ -42,7 +42,7 @@ Eis o que escolher em cada uma das opções e separadores:
 - **Keyboard**: o esquema do teclado que usas.
 - **Bootloader**: seleciona o **GRUB**, é o padrão do Linux, funciona bem e não há nada a apontar.
 - **Partitions**: em cima tens uma opção para selecionar o **Disco Rígido** onde queres instalar o CachyOS, e como o queres particionar:
-  - Caso queiras usar somente **CachyOS**, ou tenhas um 2º Disco só para esse efeito, selecionas a opção **Apagar Disco** e fazes seguinte. Fácil.
+  - Caso queiras usar somente **CachyOS**, ou tenhas um 2º Disco só para esse efeito, selecionas a opção **Apagar Disco** e clicas em **Seguinte**. Podes saltar para a parte que diz **Desktop**.
   - Caso vás usar o **Dual-Boot** (juntamente com Windows), escolhes **Instalar Paralelamente**. Vão-te aparecer 2 barras em baixo:
     - Clica uma vez na barra que diz **Actual** (a de cima).
     - Agora na partição **Depois** (a de baixo) usas o *slider* para definir o tamanho da partição do CachyOS.
