@@ -11,13 +11,15 @@
 Nesta área estão alguns dos problemas mais comuns que podem surgir, e a forma mais simples de os resolver.
 
 ## ⚛️ Kernel
-Por norma, o CachyOS instala e mantém sempre 2 Kernels:
+O CachyOS instala e mantém sempre 2 Kernels, o Stable e o LTS:
 - **Stable**: é o Kernel de produção atual com que tem as mais recentes funcionalidades de forma imediata. Exemplo: ```Linux 7.2.2-1-cachyos```
 - **LTS**: signfica *Long Term Support*. O LTS pode não ter uma ou outra adição, mas é um Kernel mais robusto e muito menos susceptível a problemas de drivers. Exemplo: ```Linux 6.18.42-1-cachyos-lts```
 
-Por defeito o teu PC arranca sempre com o Kernel Stable. No entanto, se alguma actualização te causar um problema com drivers ou outra coisa qualquer, podes sempre ir para o Kernel LTS até que o problema esteja resolvido (normalmente será uma questão de dias até os desenvolvedores corrigirem). Para fazeres isso, no **GRUB** fazes o seguinte:
-- Escolhe **Opções Avançadas**
-- Seleciona **Linux CachyOS LTS**
+Por defeito o teu PC arranca sempre com o Kernel Stable. No entanto, se alguma atualização te causar um problema com drivers ou outra coisa qualquer (ex: o Wi-Fi não funciona), a melhor solução é selecionares o Kernel LTS no arranque. Para fazeres isso, quando ligas o PC e te aparece o menu **GRUB**:
+- Selecionas **Opções Avançadas para CachyOS Linux**
+- Escolhes **CachyOS Linux, with linux-cachyos-lts**
+
+Agora podes usar e atualizar o teu PC normalmente, até que o problema seja resolvido (costuma uma questão de dias até os desenvolvedores corrigirem).
 
 ## 🖥️ GRUB RESCUE
 Se estiveres a usar dual-boot com Windows, existe a probabilidade de alguma atualização da *MicroSlop* re-escrever (estragar) o menu de arranque **Grub**. Se isso acontecer, quando ligas o PC vai-te aparecer um Terminal a dizer **grub rescue>**
