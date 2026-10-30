@@ -14,7 +14,7 @@ Existem várias fontes das quais podemos instalar software no CachyOS, podes pen
 
 Os **repositórios oficiais** contêm os programas testados e aprovados para o CachyOS.
 
-As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores.
+As distros baseadas em **Arch Linux** têm ainda acesso ao **AUR (Arch User Repository)**, que é um repositório criado e mantido por utilizadores. É muito bom, mas é preciso ter algum cuidado e critério a usá-lo, verifica sempre se o que queres instalar é de confiança e se tem votos positivos.
 
 O **Flatpak/Flathub** é um repositório que funciona em qualquer distro, pois o seu software é distribuído num "contentor". **Podes e deves** usar Flatpaks, mas apenas quando o programa que procuras não exista nem nos repositórios oficiais nem no AUR, pois os "contetores" ocupam mais espaço em disco.
 
@@ -66,7 +66,7 @@ Ficam aqui algumas aplicações essenciais. Como são várias aplicações de um
 **NOTA:** para colar texto no **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
 
 ```bash
-sudo pacman -S brave-bin discord dolphin-plugins flatpak kdenlive kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent sane-airscan skanpage stacer vesktop vlc vlc-plugins-all yay zsh
+sudo pacman -S brave-bin discord dolphin-plugins flatpak kdenlive kio-admin kolourpaint libreoffice-still-pt onlyoffice-bin openrgb protonup-qt qbittorrent sane-airscan skanpage stacer vlc vlc-plugins-all yay zsh
 ```
 
 Com este comando instalámos as seguintes aplicações (assim como algumas dependências importantes):
@@ -81,7 +81,6 @@ Com este comando instalámos as seguintes aplicações (assim como algumas depen
 - **qBitTorrent:** Um cliente de BitTorrent.
 - **Skanpage:** Programa do KDE para usar o Scanner (caso tenhas um).
 - **Stacer:** Um programa que ajuda a limpar ficheiros temporários e de cache, semelhante ao CCleaner.
-- **Vesktop:** É o Discord mas numa aplicação alternativa, com algumas funcionalidades extra.
 - **VLC:** Um reprodutor de áudio e vídeo. Certamente também já conheces o VLC.
 - **YAY:** É um *helper* que nos permite instalar aplicações do AUR através do Terminal.
 
