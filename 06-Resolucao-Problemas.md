@@ -111,7 +111,9 @@ Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instala�
 - Procura a opção **Remove db.lck** e clica em **Run**
 
 Em alternativa, abres o **Terminal/Konsole** e escreves o seguinte comando:
-- ```sudo rm /var/lib/pacman/db.lck```
+```bash
+sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
+```
 
 <hr>
 <div align="left">
