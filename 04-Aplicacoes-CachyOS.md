@@ -41,7 +41,7 @@ Para instalar aplicações podes usar o **CachyOS Package Installer** que é um 
 - Activa **AUR**, **Flatpak** e **AppImage**
 - Podes também clicar em **Rank Mirrors** para que o sistema escolha o servidor mais rápido.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi01.png" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi01.png" width=700>
 
 ### Instalar Aplicações
 1. Seleciona o separador **"Discover"** do lado esquerdo. Este procura tudo o que existe nos **repositórios oficiais**.
@@ -52,7 +52,7 @@ Para instalar aplicações podes usar o **CachyOS Package Installer** que é um 
 - Para instalares algo do **AUR** ou **Flatpak/Flathub**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado, e seguir o mesmo processo.
 - Para instalares e gerires os programas em formato AppImage, vais ao separador **AppImage** e selecionas o ficheiro que descarregaste da internet. Utiliza apenas AppImage caso o que procures não exista em nenhum destes 3 repositórios.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi02.png" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi02.png" width=700>
 
 ## 💽 Aplicações dos Repositórios Oficiais
 Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **CachyOS Package Installer** se preferires, mas tens que instalar os pacotes um a um.
