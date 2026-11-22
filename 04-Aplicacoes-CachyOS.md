@@ -31,37 +31,31 @@ Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. C�
 - **Konsole**: é o emulador de **Terminal**. Existem outros mas este é o mais simples e o que vamos usar.
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
 
-## 🐚 Shelly
+## 🧩 CachyOS Package Installer / Instalador de Pacotes do CachyOS
 
-Para instalar aplicações podes usar o **Shelly** que é um ambiente gráfico que permite pesquisar/instalar/remover programas que estão nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S haruna```. No entanto o **Shelly** é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
+Para instalar aplicações podes usar o **CachyOS Package Installer** que é um ambiente gráfico que permite pesquisar/instalar/remover programas que estão nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S haruna```. No entanto o **CachyOS** possui este GUI que é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
 
-### Configurar Shelly
-- Vai a **Iniciar**, procura **Shelly** e abre a aplicação.
-- Na Configuração Inicial faz o seguinte:
-  - Activa **AUR**, **Flatpak** e **AppImage**
-  - Escolhe **Side Bar** e desativa **System Tray**
-  - Após a instalação das dependências necessárias, clica no **X** da baixo (conforme a imagem)
+### Configurar CachyOS Package Installer
+- Vai a **Iniciar**, procura **Instalador de Pacotes CachyOS** e abre a aplicação.
+- Vai a **Settings** (no canto inferior esquerdo)
+- Activa **AUR**, **Flatpak** e **AppImage**
+- Podes também clicar em **Rank Mirrors** para que o sistema escolha o servidor mais rápido.
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly1.jpeg" width=650>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly2.jpeg" width=650>
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly3.jpeg" width=650>
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi01.png" width=650>
 
 ### Instalar Aplicações
-1. Seleciona o separador **"Package"** do lado esquerdo. Este refere-se aos **repositórios oficiais**.
+1. Seleciona o separador **"Discover"** do lado esquerdo. Este procura tudo o que existe nos **repositórios oficiais**.
 2. Pesquisa o pacote que queres instalar. Ex: haruna
-3. Clica no **"Visto"** para selecionar
-4. Clica em **Instalar Selecionados**
+3. Clica na **Aplicação** para abrir a sua página, e depois é só clicar em **Instalar**
 
-<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/shelly4.jpg" width=700>
-
-- Para desinstalares, selecionas um pacote já instalado (estará identificado com um visto), e clicas em **Remover Selecionados**
-- Para instalares algo do **AUR** ou **Flatpak**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado, e seguir o mesmo processo.
+- Para desinstalares, selecionas um pacote já instalado, e clicas em **Remove**
+- Para instalares algo do **AUR** ou **Flatpak/Flathub**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado, e seguir o mesmo processo.
 - Para instalares e gerires os programas em formato AppImage, vais ao separador **AppImage** e selecionas o ficheiro que descarregaste da internet. Utiliza apenas AppImage caso o que procures não exista em nenhum destes 3 repositórios.
-  
 
+<img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi02.png" width=650>
 
 ## 💽 Aplicações dos Repositórios Oficiais
-Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **Shelly** se preferires, mas tens que selecionar os pacotes um a um.
+Ficam aqui algumas aplicações essenciais. Como são várias aplicações de uma só vez, é mais rápido usar a **Konsole**, visto que já te deixei aqui o comando completo, só precisas de copiar e colar. Podes usar o **CachyOS Package Installer** se preferires, mas tens que instalar os pacotes um a um.
 
 **NOTA:** para colar texto no **Konsole**, **NÃO** podes fazer CTRL+C, em vez disso, clica no **botão direito do rato** e fazes colar, ou clicas **botão do meio do rato**, ou fazes **CTRL+SHIFT+V**
 
