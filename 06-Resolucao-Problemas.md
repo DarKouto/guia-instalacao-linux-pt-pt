@@ -112,7 +112,7 @@ Caso tenhas que usar os **SnapShots** ou aconteÃ§a algum erro durante a instalaÃ
 
 Em alternativa, abres o **Terminal/Konsole** e escreves o seguinte comando:
 ```bash
-sudo bash -c 'echo "blacklist ntfs3" > /etc/modprobe.d/disable-ntfs3.conf'
+sudo rm /var/lib/pacman/db.lck
 ```
 
 <hr>
