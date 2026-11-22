@@ -32,8 +32,9 @@ Estas aplicações já vêm instaladas por defeito no CachyOS com KDE Plasma. C�
 - **Monitor de Sistema:** semelhante ao **Gestor de Tarefas** do Windows.
 
 ## 🧩 CachyOS Package Installer / Instalador de Pacotes do CachyOS
-
-Para instalar aplicações podes usar o **CachyOS Package Installer** que é um ambiente gráfico que permite pesquisar/instalar/remover programas que estão nos repositórios. Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S haruna```. No entanto o **CachyOS** possui este GUI que é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
+- Para instalar aplicações podes usar o **CachyOS Package Installer** que é um ambiente gráfico que permite pesquisar/instalar/remover programas que estão nos repositórios.
+- Também existe a possiblidade de usar a **Konsole**/**Terminal**, com um comando do género: ```sudo pacman -S haruna```
+- No entanto o **CachyOS** possui este GUI que é mais simples e intuitivo para quem se está a iniciar no mundo Linux.
 
 ### Configurar CachyOS Package Installer
 - Vai a **Iniciar**, procura **Instalador de Pacotes CachyOS** e abre a aplicação.
