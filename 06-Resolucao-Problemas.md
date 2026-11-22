@@ -105,10 +105,13 @@ O sistema irá agora reiniciar com as configurações desse **Snapshot** numa es
 <hr>
 
 ## 🔐 Remover Erro db.lck do pacman
-Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lck" que bloqueia todo o gestor de pacotes. Para resolver esse problema segues os seguintes passos:
+Caso tenhas que usar os **SnapShots** ou aconteça algum erro durante a instalação de um programa ou atualização do sistema, o pacman cria uma salvaguarda chamada "db.lck" que bloqueia todo o gestor de pacotes, ao tentares actualizar ou instalar alguma coisa irá aparecer-te uma mensagem de erro a mencionar algo relacionado com uma *"base de dados"*. Para resolver esse problema segues os seguintes passos:
 - Vai a Iniciar e procura por **Shelly**
 - Clica no menu *hamburger* (canto inferior esquerdo) e seleciona **Utilities**
 - Procura a opção **Remove db.lck** e clica em **Run**
+
+Em alternativa, abres o **Terminal/Konsole** e escreves o seguinte comando:
+- ```sudo rm /var/lib/pacman/db.lck```
 
 <hr>
 <div align="left">
