@@ -47,13 +47,13 @@ No entanto o **CachyOS** possui este GUI que é mais simples e intuitivo para qu
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi01.png" width=700>
 
 ### Instalar Aplicações
-1. Seleciona o separador **"Discover"** do lado esquerdo. Este procura tudo o que existe nos **repositórios oficiais**.
+1. Seleciona o separador **"Discover"** ou **Browse** do lado esquerdo, isto procura tudo o que existe nos **repositórios oficiais**.
 2. Pesquisa o pacote que queres instalar. Ex: haruna
 3. Clica na **Aplicação** para abrir a sua página, e depois é só clicar em **Instalar**
 
 - Para desinstalares, selecionas um pacote já instalado, e clicas em **Remove**
-- Para instalares algo do **AUR** ou **Flatpak/Flathub**, apenas tens que selecionar o respectivo separador lateral, que está bem identificado, e seguir o mesmo processo.
-- Para instalares e gerires os programas em formato AppImage, vais ao separador **AppImage** e selecionas o ficheiro que descarregaste da internet. Utiliza apenas AppImage caso o que procures não exista em nenhum destes 3 repositórios.
+- Para instalares ou desinstalares algo do **AUR** ou **Flatpak/Flathub**, apenas tens que selecionar o respectivo separador lateral, e seguir o mesmo processo.
+- Para instalares ou desinstalares os programas em formato AppImage, vais ao separador **AppImage** e selecionas o ficheiro que descarregaste da internet. Utiliza apenas AppImage caso o que procures não exista em nenhum destes 3 repositórios.
 
 <img src="https://github.com/DarKouto/guia-instalacao-linux-pt-pt/blob/main/imagens/cpi02.png" width=700>
 
